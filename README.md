@@ -18,7 +18,7 @@ Choose your field to find relevant internships:
 
 | Field | Description | Companies |
 |:---|:---|:---:|
-| 🧬 **Biotechnology** | Research, Pharma, Healthcare | [View](./biotechnology/) |
+| 🧬 **Biotechnology** | Research, Pharma, Healthcare | [View](./biotechnology/internships.md) |
 | 💻 **Computer Science** | Software, IT, Web Development | [View](./computer_science/) |
 | 🔬 **Life Sciences** | Research, Genetics, Biology | [View](./life_sciences/) |
 | 💊 **Pharmaceutical** | Drug Research, Healthcare | [View](./pharmaceutical/) |
