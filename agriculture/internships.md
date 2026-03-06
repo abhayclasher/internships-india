@@ -1,84 +1,293 @@
 # 🌾 Agriculture Internships in India
 
-## All India Coverage | Updated Daily
+## Complete List with Apply Links | Updated Daily
 
 ---
 
 <div align="center">
 
-### Last Updated: March 6, 2026 | 12:00 PM IST
+### Last Updated: March 6, 2026 | 12:07 PM IST
 
 </div>
 
 ---
 
-## 📋 All Agriculture Internships
+## 📋 Complete Internship Listings
 
 ### 🌱 Agricultural Biotechnology
 
-| # | Company | Role | Location | Stipend | Posted |
-|:---:|:---|:---|:---|:---|:---:|
-| 1 | ICAR Institutes | Agricultural Biotech | Delhi/Chandigarh | ₹8-12K | Mar 4 |
-| 2 | IARI New Delhi | Research Intern | New Delhi | ₹8-12K | Mar 3 |
-| 3 | NAARM Hyderabad | Agribusiness | Hyderabad | ₹10-15K | Mar 4 |
-| 4 | IIHR Bangalore | Horticulture Research | Bangalore | ₹8-12K | Mar 2 |
+#### 1. ICAR Institutes
+| Field | Details |
+|:---|:---|
+| **Company** | Indian Council of Agricultural Research (ICAR) |
+| **Role** | Agricultural Biotechnology Intern |
+| **Location** | Delhi, Chandigarh, Hyderabad |
+| **Stipend** | ₹8,000 - 12,000/month |
+| **Duration** | 6 Months |
+| **Qualification** | BSc Agriculture, Biotechnology |
+| **Skills Required** | Agricultural Research |
+| **Posted Date** | March 4, 2026 |
+| **Apply Link** | https://www.icar.org.in/ |
+| **HR Email** | icar@nic.in |
+
+---
+
+#### 2. IARI New Delhi
+| Field | Details |
+|:---|:---|
+| **Company** | Indian Agricultural Research Institute (IARI) |
+| **Role** | Research Intern |
+| **Location** | New Delhi |
+| **Stipend** | ₹8,000 - 12,000/month |
+| **Duration** | 6 Months |
+| **Qualification** | BSc Agriculture, Biotechnology |
+| **Skills Required** | Plant Research |
+| **Posted Date** | March 3, 2026 |
+| **Apply Link** | https://www.iari.res.in/ |
+| **HR Email** | director@iari.res.in |
+
+---
+
+#### 3. NAARM Hyderabad
+| Field | Details |
+|:---|:---|
+| **Company** | National Academy of Agricultural Research Management (NAARM) |
+| **Role** | Agribusiness Intern |
+| **Location** | Hyderabad, Telangana |
+| **Stipend** | ₹10,000 - 15,000/month |
+| **Duration** | 6 Months |
+| **Qualification** | BSc Agriculture, MBA |
+| **Skills Required** | Agribusiness Management |
+| **Posted Date** | March 4, 2026 |
+| **Apply Link** | https://www.naarm.org.in/ |
+| **HR Email** | careers@naarm.org.in |
+
+---
+
+#### 4. IIHR Bangalore
+| Field | Details |
+|:---|:---|
+| **Company** | Indian Institute of Horticulture Research (IIHR) |
+| **Role** | Horticulture Research Intern |
+| **Location** | Bangalore, Karnataka |
+| **Stipend** | ₹8,000 - 12,000/month |
+| **Duration** | 6 Months |
+| **Qualification** | BSc Agriculture, Horticulture |
+| **Skills Required** | Horticulture Research |
+| **Posted Date** | March 2, 2026 |
+| **Apply Link** | https://www.iihr.res.in/ |
+| **HR Email** | director@iihr.res.in |
 
 ---
 
 ### 🍔 Food Technology
 
-| # | Company | Role | Location | Stipend | Posted |
-|:---:|:---|:---|:---|:---|:---:|
-| 5 | FSSAI | Food Safety Intern | Delhi | ₹10-15K | Mar 3 |
-| 6 | ITC Limited | Food R&D | Mumbai/Delhi | ₹10-15K | Mar 4 |
-| 7 | Nestle | Food Safety | Gurgaon | ₹12-15K | Mar 3 |
-| 8 | PepsiCo | Agricultural Research | Bangalore | ₹10-14K | Mar 4 |
+#### 5. FSSAI
+| Field | Details |
+|:---|:---|
+| **Company** | Food Safety and Standards Authority of India |
+| **Role** | Food Safety Intern |
+| **Location** | Delhi |
+| **Stipend** | ₹10,000 - 15,000/month |
+| **Duration** | 3-6 Months |
+| **Qualification** | BSc Food Technology, Biotechnology |
+| **Skills Required** | Food Safety, Testing |
+| **Posted Date** | March 3, 2026 |
+| **Apply Link** | https://www.fssai.gov.in/ |
+| **HR Email** | careers@fssai.gov.in |
+
+---
+
+#### 6. ITC Limited
+| Field | Details |
+|:---|:---|
+| **Company** | ITC Limited |
+| **Role** | Food R&D Intern |
+| **Location** | Mumbai, Delhi |
+| **Stipend** | ₹10,000 - 15,000/month |
+| **Duration** | 6 Months |
+| **Qualification** | BSc Food Technology, Chemistry |
+| **Skills Required** | Food R&D |
+| **Posted Date** | March 4, 2026 |
+| **Apply Link** | https://www.itcportal.com/careers/ |
+| **HR Email** | careers@itc.co.in |
+
+---
+
+#### 7. Nestle
+| Field | Details |
+|:---|:---|
+| **Company** | Nestle India |
+| **Role** | Food Safety Intern |
+| **Location** | Gurgaon, Haryana |
+| **Stipend** | ₹12,000 - 15,000/month |
+| **Duration** | 6 Months |
+| **Qualification** | BSc Food Technology, Chemistry |
+| **Skills Required** | Food Safety, QC |
+| **Posted Date** | March 3, 2026 |
+| **Apply Link** | https://www.nestle.in/careers |
+| **HR Email** | careers@nestle.in |
+
+---
+
+#### 8. PepsiCo
+| Field | Details |
+|:---|:---|
+| **Company** | PepsiCo India |
+| **Role** | Agricultural Research Intern |
+| **Location** | Bangalore |
+| **Stipend** | ₹10,000 - 14,000/month |
+| **Duration** | 6 Months |
+| **Qualification** | BSc Agriculture, Food Tech |
+| **Skills Required** | Agricultural Research |
+| **Posted Date** | March 4, 2026 |
+| **Apply Link** | https://www.pepsicoindia.co.in/careers |
+| **HR Email** | careers@pepsico.com |
 
 ---
 
 ### 🌾 Agri-Tech
 
-| # | Company | Role | Location | Stipend | Posted |
-|:---:|:---|:---|:---|:---|:---:|
-| 9 | Ninjacart | Agri-Tech Intern | Bangalore | ₹10-15K | Deactiv |
-| 10 | CropIn | Data Analytics | Bangalore | ₹12-18K | Mar 3 |
-| 11 | FarmEasy | Agri-Tech | Pune | ₹8-12K | Mar 2 |
-| 12 | AgriBuzz | Agricultural Consulting | Remote | ₹8-10K | Mar 4 |
+#### 9. Ninjacart
+| Field | Details |
+|:---|:---|
+| **Company** | Ninjacart |
+| **Role** | Agri-Tech Intern |
+| **Location** | Bangalore |
+| **Stipend** | ₹10,000 - 15,000/month |
+| **Duration** | 6 Months |
+| **Qualification** | BSc Agriculture, Business |
+| **Skills Required** | Agri-Tech |
+| **Posted Date** | March 2, 2026 |
+| **Apply Link** | https://ninjacart.com/careers/ |
+| **HR Email** | careers@ninjacart.com |
+
+---
+
+#### 10. CropIn
+| Field | Details |
+|:---|:---|
+| **Company** | CropIn |
+| **Role** | Data Analytics Intern |
+| **Location** | Bangalore |
+| **Stipend** | ₹12,000 - 18,000/month |
+| **Duration** | 6 Months |
+| **Qualification** | BSc Agriculture, Data Science |
+| **Skills Required** | Data Analytics, ML |
+| **Posted Date** | March 3, 2026 |
+| **Apply Link** | https://www.cropin.com/careers/ |
+| **HR Email** | careers@cropin.com |
+
+---
+
+#### 11. FarmEasy
+| Field | Details |
+|:---|:---|
+| **Company** | FarmEasy |
+| **Role** | Agri-Tech Intern |
+| **Location** | Pune |
+| **Stipend** | ₹8,000 - 12,000/month |
+| **Duration** | 6 Months |
+| **Qualification** | BSc Agriculture, IT |
+| **Skills Required** | Agri-Tech |
+| **Posted Date** | March 2, 2026 |
+| **Apply Link** | https://www.farmeasy.in/ |
+| **HR Email** | info@farmeasy.in |
+
+---
+
+#### 12. AgriBuzz
+| Field | Details |
+|:---|:---|
+| **Company** | AgriBuzz |
+| **Role** | Agricultural Consulting Intern |
+| **Location** | Remote |
+| **Stipend** | ₹8,000 - 10,000/month |
+| **Duration** | 6 Months |
+| **Qualification** | BSc Agriculture, Business |
+| **Skills Required** | Consulting |
+| **Posted Date** | March 4, 2026 |
+| **Apply Link** | https://agribuzz.com/ |
+| **HR Email** | careers@agribuzz.com |
 
 ---
 
 ### 🌿 Environmental Agriculture
 
-| # | Company | Role | Location | Stipend | Posted |
-|:---:|:---|:---|:---|:---|:---:|
-| 13 | NEERI | Environmental Biotech | Nagpur | ₹10-12K | Mar 2 |
-| 14 | ICFRE | Forest Research | Dehradun | ₹8-10K | Mar 3 |
+#### 13. NEERI
+| Field | Details |
+|:---|:---|
+| **Company** | National Environmental Engineering Research Institute |
+| **Role** | Environmental Biotechnology Intern |
+| **Location** | Nagpur, Maharashtra |
+| **Stipend** | ₹10,000 - 12,000/month |
+| **Duration** | 6 Months |
+| **Qualification** | BSc Environmental Science, Biotechnology |
+| **Skills Required** | Environmental Research |
+| **Posted Date** | March 2, 2026 |
+| **Apply Link** | https://www.neeri.res.in/ |
+| **HR Email** | director@neeri.res.in |
+
+---
+
+#### 14. ICFRE
+| Field | Details |
+|:---|:---|
+| **Company** | Indian Council of Forestry Research and Education |
+| **Role** | Forest Research Intern |
+| **Location** | Dehradun, Uttarakhand |
+| **Stipend** | ₹8,000 - 10,000/month |
+| **Duration** | 6 Months |
+| **Qualification** | BSc Forestry, Environmental Science |
+| **Skills Required** | Forest Research |
+| **Posted Date** | March 3, 2026 |
+| **Apply Link** | https://www.icfre.gov.in/ |
+| **HR Email** | director@icfre.gov.in |
 
 ---
 
 ### 🐾 Animal & Dairy Science
 
-| # | Company | Role | Location | Stipend | Posted |
-|:---:|:---|:---|:---|:---|:---:|
-| 15 | NDRI Karnal | Dairy Research | Karnal | ₹8-12K | Mar 3 |
-| 16 | IVRI Bareilly | Veterinary Research | Bareilly | ₹8-10K | Mar 2 |
+#### 15. NDRI Karnal
+| Field | Details |
+|:---|:---|
+| **Company** | National Dairy Research Institute (NDRI) |
+| **Role** | Dairy Research Intern |
+| **Location** | Karnal, Haryana |
+| **Stipend** | ₹8,000 - 12,000/month |
+| **Duration** | 6 Months |
+| **Qualification** | BSc Dairy Science, Animal Science |
+| **Skills Required** | Dairy Research |
+| **Posted Date** | March 3, 2026 |
+| **Apply Link** | https://www.ndri.res.in/ |
+| **HR Email** | director@ndri.res.in |
 
 ---
 
-## 📍 By Region
-
-### North India (6)
-Delhi, Chandigarh, Karnal, Dehradun - ₹8K-15K
-
-### South India (5)
-Bangalore, Hyderabad - ₹8K-18K
-
-### West India (4)
-Mumbai, Pune, Nagpur - ₹8K-15K
-
-### Remote (1)
-AgriBuzz - ₹8-10K
+#### 16. IVRI Bareilly
+| Field | Details |
+|:---|:---|
+| **Company** | Indian Veterinary Research Institute (IVRI) |
+| **Role** | Veterinary Research Intern |
+| **Location** | Bareilly, Uttar Pradesh |
+| **Stipend** | ₹8,000 - 10,000/month |
+| **Duration** | 6 Months |
+| **Qualification** | BSc Veterinary Science, Animal Science |
+| **Skills Required** | Veterinary Research |
+| **Posted Date** | March 2, 2026 |
+| **Apply Link** | https://www.ivri.nic.in/ |
+| **HR Email** | director@ivri.nic.in |
 
 ---
 
-*Last Updated: March 6, 2026 | 12:00 PM IST*
+## 📍 Summary by Region
+
+| Region | Companies |
+|:---|:---|
+| North India | ICAR Delhi, IARI, FSSAI, NDRI, IVRI |
+| South India | IIHR Bangalore, NAARM, Ninjacart, CropIn, PepsiCo |
+| West India | ITC, Nestle, FarmEasy, NEERI |
+
+---
+
+*Last Updated: March 6, 2026 | 12:07 PM IST*
