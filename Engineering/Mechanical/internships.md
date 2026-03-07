@@ -239,3 +239,19 @@
 
 ---
 
+#### 15. Tecmac Solution
+| Field | Details |
+|:---|:---|
+| **Company** | Tecmac Solution |
+| **Role** | Computer Aided Design Designer |
+| **Location** | Pune Division, Maharashtra, India |
+| **Stipend** | Competitive |
+| **Duration** | 3-6 Months |
+| **Qualification** | Diploma Mechanical |
+| **Skills Required** | Technical |
+| **Posted Date** | March 07, 2026 |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#) |
+| **HR Email** | TBD |
+
+---
+
