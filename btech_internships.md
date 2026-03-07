@@ -1,2 +1,0 @@
-# B.Tech Internships
-

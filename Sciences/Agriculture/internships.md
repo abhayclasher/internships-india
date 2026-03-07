@@ -27,7 +27,7 @@
 | **Qualification** | BSc Agriculture, Biotechnology |
 | **Skills Required** | Agricultural Research |
 | **Posted Date** | March 4, 2026 |
-| **Apply Link** | https://www.icar.org.in/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.icar.org.in/) |
 | **HR Email** | icar@nic.in |
 
 ---
@@ -43,7 +43,7 @@
 | **Qualification** | BSc Agriculture, Biotechnology |
 | **Skills Required** | Plant Research |
 | **Posted Date** | March 3, 2026 |
-| **Apply Link** | https://www.iari.res.in/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.iari.res.in/) |
 | **HR Email** | director@iari.res.in |
 
 ---
@@ -59,7 +59,7 @@
 | **Qualification** | BSc Agriculture, MBA |
 | **Skills Required** | Agribusiness Management |
 | **Posted Date** | March 4, 2026 |
-| **Apply Link** | https://www.naarm.org.in/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.naarm.org.in/) |
 | **HR Email** | careers@naarm.org.in |
 
 ---
@@ -75,7 +75,7 @@
 | **Qualification** | BSc Agriculture, Horticulture |
 | **Skills Required** | Horticulture Research |
 | **Posted Date** | March 2, 2026 |
-| **Apply Link** | https://www.iihr.res.in/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.iihr.res.in/) |
 | **HR Email** | director@iihr.res.in |
 
 ---
@@ -93,7 +93,7 @@
 | **Qualification** | BSc Food Technology, Biotechnology |
 | **Skills Required** | Food Safety, Testing |
 | **Posted Date** | March 3, 2026 |
-| **Apply Link** | https://www.fssai.gov.in/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.fssai.gov.in/) |
 | **HR Email** | careers@fssai.gov.in |
 
 ---
@@ -109,7 +109,7 @@
 | **Qualification** | BSc Food Technology, Chemistry |
 | **Skills Required** | Food R&D |
 | **Posted Date** | March 4, 2026 |
-| **Apply Link** | https://www.itcportal.com/careers/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.itcportal.com/careers/) |
 | **HR Email** | careers@itc.co.in |
 
 ---
@@ -125,7 +125,7 @@
 | **Qualification** | BSc Food Technology, Chemistry |
 | **Skills Required** | Food Safety, QC |
 | **Posted Date** | March 3, 2026 |
-| **Apply Link** | https://www.nestle.in/careers |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.nestle.in/careers) |
 | **HR Email** | careers@nestle.in |
 
 ---
@@ -141,7 +141,7 @@
 | **Qualification** | BSc Agriculture, Food Tech |
 | **Skills Required** | Agricultural Research |
 | **Posted Date** | March 4, 2026 |
-| **Apply Link** | https://www.pepsicoindia.co.in/careers |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.pepsicoindia.co.in/careers) |
 | **HR Email** | careers@pepsico.com |
 
 ---
@@ -159,7 +159,7 @@
 | **Qualification** | BSc Agriculture, Business |
 | **Skills Required** | Agri-Tech |
 | **Posted Date** | March 2, 2026 |
-| **Apply Link** | https://ninjacart.com/careers/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ninjacart.com/careers/) |
 | **HR Email** | careers@ninjacart.com |
 
 ---
@@ -175,7 +175,7 @@
 | **Qualification** | BSc Agriculture, Data Science |
 | **Skills Required** | Data Analytics, ML |
 | **Posted Date** | March 3, 2026 |
-| **Apply Link** | https://www.cropin.com/careers/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.cropin.com/careers/) |
 | **HR Email** | careers@cropin.com |
 
 ---
@@ -191,7 +191,7 @@
 | **Qualification** | BSc Agriculture, IT |
 | **Skills Required** | Agri-Tech |
 | **Posted Date** | March 2, 2026 |
-| **Apply Link** | https://www.farmeasy.in/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.farmeasy.in/) |
 | **HR Email** | info@farmeasy.in |
 
 ---
@@ -207,7 +207,7 @@
 | **Qualification** | BSc Agriculture, Business |
 | **Skills Required** | Consulting |
 | **Posted Date** | March 4, 2026 |
-| **Apply Link** | https://agribuzz.com/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://agribuzz.com/) |
 | **HR Email** | careers@agribuzz.com |
 
 ---
@@ -225,7 +225,7 @@
 | **Qualification** | BSc Environmental Science, Biotechnology |
 | **Skills Required** | Environmental Research |
 | **Posted Date** | March 2, 2026 |
-| **Apply Link** | https://www.neeri.res.in/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.neeri.res.in/) |
 | **HR Email** | director@neeri.res.in |
 
 ---
@@ -241,7 +241,7 @@
 | **Qualification** | BSc Forestry, Environmental Science |
 | **Skills Required** | Forest Research |
 | **Posted Date** | March 3, 2026 |
-| **Apply Link** | https://www.icfre.gov.in/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.icfre.gov.in/) |
 | **HR Email** | director@icfre.gov.in |
 
 ---
@@ -259,7 +259,7 @@
 | **Qualification** | BSc Dairy Science, Animal Science |
 | **Skills Required** | Dairy Research |
 | **Posted Date** | March 3, 2026 |
-| **Apply Link** | https://www.ndri.res.in/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.ndri.res.in/) |
 | **HR Email** | director@ndri.res.in |
 
 ---
@@ -275,7 +275,7 @@
 | **Qualification** | BSc Veterinary Science, Animal Science |
 | **Skills Required** | Veterinary Research |
 | **Posted Date** | March 2, 2026 |
-| **Apply Link** | https://www.ivri.nic.in/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.ivri.nic.in/) |
 | **HR Email** | director@ivri.nic.in |
 
 ---

@@ -27,7 +27,7 @@
 | **Qualification** | BSc Biotechnology, Human Genetics |
 | **Skills Required** | Molecular Biology, Genetics |
 | **Posted Date** | March 4, 2026 |
-| **Apply Link** | https://www.aiims.edu/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.aiims.edu/) |
 | **HR Email** | director@aiims.edu |
 
 ---
@@ -43,7 +43,7 @@
 | **Qualification** | BSc Life Sciences, Molecular Biology |
 | **Skills Required** | DNA/RNA work, PCR |
 | **Posted Date** | March 5, 2026 |
-| **Apply Link** | https://www.nipgr.ac.in/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.nipgr.ac.in/) |
 | **HR Email** | careers@nipgr.ac.in |
 
 ---
@@ -59,7 +59,7 @@
 | **Qualification** | BSc Life Sciences, Biotechnology |
 | **Skills Required** | Cell Culture, Molecular Biology |
 | **Posted Date** | March 4, 2026 |
-| **Apply Link** | https://www.ccmb.res.in/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.ccmb.res.in/) |
 | **HR Email** | jobs@ccmb.res.in |
 
 ---
@@ -75,7 +75,7 @@
 | **Qualification** | BSc Life Sciences, Genetics |
 | **Skills Required** | Genetic Engineering, Cloning |
 | **Posted Date** | March 3, 2026 |
-| **Apply Link** | https://www.icgeb.ac.in/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.icgeb.ac.in/) |
 | **HR Email** | recruitment@icgeb.res.in |
 
 ---
@@ -93,7 +93,7 @@
 | **Qualification** | BSc Microbiology, Life Sciences |
 | **Skills Required** | Microbiology, Lab Techniques |
 | **Posted Date** | March 4, 2026 |
-| **Apply Link** | https://www.pfizer.com/careers |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.pfizer.com/careers) |
 | **HR Email** | india.careers@pfizer.com |
 
 ---
@@ -109,7 +109,7 @@
 | **Qualification** | BSc Microbiology, Biotechnology |
 | **Skills Required** | Microbial Techniques, Culture |
 | **Posted Date** | March 5, 2026 |
-| **Apply Link** | https://www.seruminstitute.com/careers/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.seruminstitute.com/careers/) |
 | **HR Email** | hr@seruminstitute.com |
 
 ---
@@ -125,7 +125,7 @@
 | **Qualification** | BSc Microbiology, Biotechnology |
 | **Skills Required** | Fermentation, Microbial Tech |
 | **Posted Date** | March 3, 2026 |
-| **Apply Link** | https://www.biocon.com/careers/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.biocon.com/careers/) |
 | **HR Email** | careers@biocon.com |
 
 ---
@@ -143,7 +143,7 @@
 | **Qualification** | BSc Biochemistry, Life Sciences |
 | **Skills Required** | Biochemical Techniques |
 | **Posted Date** | March 2, 2026 |
-| **Apply Link** | https://www.drdo.gov.in/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.drdo.gov.in/) |
 | **HR Email** | crd@drdo.gov.in |
 
 ---
@@ -159,7 +159,7 @@
 | **Qualification** | BSc Biochemistry, Chemistry |
 | **Skills Required** | Lab Work, Research |
 | **Posted Date** | March 3, 2026 |
-| **Apply Link** | https://www.csir.res.in/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.csir.res.in/) |
 | **HR Email** | hr@csir.res.in |
 
 ---
@@ -175,7 +175,7 @@
 | **Qualification** | BSc Biochemistry, Chemistry |
 | **Skills Required** | Protein Work, Enzymology |
 | **Posted Date** | March 2, 2026 |
-| **Apply Link** | https://www.iitb.ac.in/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.iitb.ac.in/) |
 | **HR Email** | rtd@iitb.ac.in |
 
 ---
@@ -193,7 +193,7 @@
 | **Qualification** | BSc Life Sciences, Biotechnology |
 | **Skills Required** | Clinical Knowledge |
 | **Posted Date** | March 3, 2026 |
-| **Apply Link** | https://www.roche.com/careers |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.roche.com/careers) |
 | **HR Email** | india.careers@roche.com |
 
 ---
@@ -209,7 +209,7 @@
 | **Qualification** | BSc Life Sciences, Biology |
 | **Skills Required** | Clinical Trials |
 | **Posted Date** | March 2, 2026 |
-| **Apply Link** | https://www.abbott.com/careers |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.abbott.com/careers) |
 | **HR Email** | careers.india@abbott.com |
 
 ---
@@ -225,7 +225,7 @@
 | **Qualification** | BSc Life Sciences, Pharmacy |
 | **Skills Required** | Clinical Research |
 | **Posted Date** | March 4, 2026 |
-| **Apply Link** | https://www.novartis.com/careers |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.novartis.com/careers) |
 | **HR Email** | careers.india@novartis.com |
 
 ---

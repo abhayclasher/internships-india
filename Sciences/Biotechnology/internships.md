@@ -26,7 +26,7 @@
 | **Duration** | 3-6 Months |
 | **Qualification** | BSc Biotechnology, Life Sciences |
 | **Posted Date** | March 5, 2026 |
-| **Apply Link** | https://www.linkedin.com/jobs/view/4378660406/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4378660406/) |
 | **HR Email** | careers@testright.in |
 
 ---
@@ -41,7 +41,7 @@
 | **Duration** | 6-12 Months |
 | **Qualification** | BSc Biotechnology, Human Genetics |
 | **Posted Date** | March 4, 2026 |
-| **Apply Link** | https://www.aiims.edu/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.aiims.edu/) |
 | **HR Email** | director@aiims.edu |
 
 ---
@@ -56,7 +56,7 @@
 | **Duration** | 6-12 Months |
 | **Qualification** | BSc Biotechnology, Life Sciences |
 | **Posted Date** | March 3, 2026 |
-| **Apply Link** | https://www.icgeb.ac.in/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.icgeb.ac.in/) |
 | **HR Email** | recruitment@icgeb.res.in |
 
 ---
@@ -71,7 +71,7 @@
 | **Duration** | 6 Months |
 | **Qualification** | BSc Biotechnology, Life Science, Molecular Biology |
 | **Posted Date** | March 5, 2026 |
-| **Apply Link** | https://www.nipgr.ac.in/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.nipgr.ac.in/) |
 | **HR Email** | careers@nipgr.ac.in |
 
 ---
@@ -86,7 +86,7 @@
 | **Duration** | 6 Months |
 | **Qualification** | BSc Biotechnology, MSc |
 | **Posted Date** | March 2, 2026 |
-| **Apply Link** | https://www.iitb.ac.in/en/content/research-opportunities |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.iitb.ac.in/en/content/research-opportunities) |
 | **HR Email** | rtd@iitb.ac.in |
 
 ---
@@ -101,7 +101,7 @@
 | **Duration** | 2-3 Months |
 | **Qualification** | BSc Biotechnology, Life Sciences |
 | **Posted Date** | March 1, 2026 |
-| **Apply Link** | https://www.iisc.ac.in/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.iisc.ac.in/) |
 | **HR Email** | pgadmission@iisc.ac.in |
 
 ---
@@ -116,7 +116,7 @@
 | **Duration** | 6-12 Months |
 | **Qualification** | BSc Biotechnology, Molecular Biology |
 | **Posted Date** | March 4, 2026 |
-| **Apply Link** | https://www.ccmb.res.in/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.ccmb.res.in/) |
 | **HR Email** | jobs@ccmb.res.in |
 
 ---
@@ -133,7 +133,7 @@
 | **Duration** | 12 Months |
 | **Qualification** | BSc Biotechnology, Life Sciences |
 | **Posted Date** | March 5, 2026 |
-| **Apply Link** | https://www.linkedin.com/jobs/view/4351604287/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4351604287/) |
 | **HR Email** | bcildbt@nic.in |
 
 ---
@@ -148,7 +148,7 @@
 | **Duration** | 6-12 Months |
 | **Qualification** | BSc Biotechnology, MSc |
 | **Posted Date** | March 3, 2026 |
-| **Apply Link** | https://www.csir.res.in/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.csir.res.in/) |
 | **HR Email** | hr@csir.res.in |
 
 ---
@@ -163,7 +163,7 @@
 | **Duration** | 6 Months |
 | **Qualification** | BSc Biotechnology, Biochemistry |
 | **Posted Date** | March 2, 2026 |
-| **Apply Link** | https://www.drdo.gov.in/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.drdo.gov.in/) |
 | **HR Email** | crd@drdo.gov.in |
 
 ---
@@ -180,7 +180,7 @@
 | **Duration** | 3-6 Months |
 | **Qualification** | BSc Biotechnology, Life Sciences |
 | **Posted Date** | March 6, 2026 |
-| **Apply Link** | https://moccancercare.org/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://moccancercare.org/) |
 | **HR Email** | hr@moccancercare.org |
 
 ---
@@ -195,7 +195,7 @@
 | **Duration** | 6-12 Months |
 | **Qualification** | BSc Biotechnology, Biochemistry, Microbiology |
 | **Posted Date** | March 4, 2026 |
-| **Apply Link** | https://www.pfizer.com/careers |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.pfizer.com/careers) |
 | **HR Email** | india.careers@pfizer.com |
 
 ---
@@ -210,7 +210,7 @@
 | **Duration** | 6 Months |
 | **Qualification** | BSc Biotechnology, BTech |
 | **Posted Date** | March 3, 2026 |
-| **Apply Link** | https://www.biocon.com/careers/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.biocon.com/careers/) |
 | **HR Email** | careers@biocon.com |
 
 ---
@@ -225,7 +225,7 @@
 | **Duration** | 6 Months |
 | **Qualification** | BSc Biotechnology, Microbiology |
 | **Posted Date** | March 5, 2026 |
-| **Apply Link** | https://www.seruminstitute.com/careers/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.seruminstitute.com/careers/) |
 | **HR Email** | hr@seruminstitute.com |
 
 ---
@@ -240,7 +240,7 @@
 | **Duration** | 6 Months |
 | **Qualification** | BSc Biotechnology, BPharm |
 | **Posted Date** | March 4, 2026 |
-| **Apply Link** | https://www.panaceabiotec.com/careers/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.panaceabiotec.com/careers/) |
 | **HR Email** | careers@panaceabiotec.com |
 
 ---
@@ -255,7 +255,7 @@
 | **Duration** | 6 Months |
 | **Qualification** | BSc Biotechnology, BPharm |
 | **Posted Date** | March 3, 2026 |
-| **Apply Link** | https://www.glenmarkpharma.com/careers/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.glenmarkpharma.com/careers/) |
 | **HR Email** | hr@glenmarkpharma.com |
 
 ---
@@ -270,7 +270,7 @@
 | **Duration** | 6 Months |
 | **Qualification** | BSc Biotechnology, BPharm |
 | **Posted Date** | March 2, 2026 |
-| **Apply Link** | https://www.lupin.com/careers/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.lupin.com/careers/) |
 | **HR Email** | careers@lupin.com |
 
 ---
@@ -287,7 +287,7 @@
 | **Duration** | Flexible |
 | **Qualification** | BSc Biotechnology, Life Sciences, Education |
 | **Posted Date** | March 6, 2026 |
-| **Apply Link** | https://www.linkedin.com/jobs/view/4380958259/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4380958259/) |
 | **HR Email** | info@decanai.com |
 
 ---
@@ -304,7 +304,7 @@
 | **Duration** | 6 Months |
 | **Qualification** | BSc Biotechnology, Agriculture |
 | **Posted Date** | March 4, 2026 |
-| **Apply Link** | https://www.icar.org.in/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.icar.org.in/) |
 | **HR Email** | icar@nic.in |
 
 ---
@@ -319,7 +319,7 @@
 | **Duration** | 3-6 Months |
 | **Qualification** | BSc Biotechnology, Food Technology |
 | **Posted Date** | March 3, 2026 |
-| **Apply Link** | https://www.fssai.gov.in/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.fssai.gov.in/) |
 | **HR Email** | careers@fssai.gov.in |
 
 ---
@@ -336,7 +336,7 @@
 | **Duration** | 6 Months |
 | **Qualification** | BSc Biotechnology, Environmental Science |
 | **Posted Date** | March 2, 2026 |
-| **Apply Link** | https://www.neeri.res.in/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.neeri.res.in/) |
 | **HR Email** | director@neeri.res.in |
 
 ---
@@ -353,7 +353,7 @@
 | **Duration** | 6 Months |
 | **Qualification** | BSc Biotechnology, Bioinformatics |
 | **Posted Date** | March 5, 2026 |
-| **Apply Link** | https://www.tcs.com/careers |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.tcs.com/careers) |
 | **HR Email** | careers@tcs.com |
 
 ---
@@ -368,7 +368,7 @@
 | **Duration** | 6 Months |
 | **Qualification** | BSc Biotechnology, Life Sciences |
 | **Posted Date** | March 4, 2026 |
-| **Apply Link** | https://www.genpact.com/careers/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.genpact.com/careers/) |
 | **HR Email** | careers@genpact.com |
 
 ---
@@ -385,7 +385,7 @@
 | **Duration** | 6 Months |
 | **Qualification** | BSc Biotechnology, Life Sciences |
 | **Posted Date** | March 3, 2026 |
-| **Apply Link** | https://www.roche.com/careers |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.roche.com/careers) |
 | **HR Email** | india.careers@roche.com |
 
 ---
@@ -400,7 +400,7 @@
 | **Duration** | 6 Months |
 | **Qualification** | BSc Biotechnology, Science |
 | **Posted Date** | March 2, 2026 |
-| **Apply Link** | https://www.abbott.com/careers |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.abbott.com/careers) |
 | **HR Email** | careers.india@abbott.com |
 
 ---

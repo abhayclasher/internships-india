@@ -21,13 +21,14 @@ Find internships curated for your specific qualification and field:
 
 | Category | Field of Study | Links |
 | :--- | :--- | :--- |
-| 💻 **Tech & Coding** | Computer Science, IT, Software | [Browse Opportunities](./computer_science/internships.md) |
-| ⚙️ **Mechanical** | Manufacturing, Design, Automotive | [Browse Opportunities](./mechanical/internships.md) |
-| ⚡ **Electrical** | Electronics, Power Systems, VLSI | [Browse Opportunities](./electrical/internships.md) |
-| 🧬 **Biotechnology** | Research, Genetics, Bio-Engineering | [Browse Opportunities](./biotechnology/internships.md) |
-| 🔬 **Life Sciences** | Pharma, Biomedical, Biology | [Browse Opportunities](./life_sciences/internships.md) |
-| 💊 **Pharmaceutical** | Drug Tech, Quality Control, Pharma | [Browse Opportunities](./pharmaceutical/internships.md) |
-| 🌾 **Agriculture** | Agrotech, Food Tech, Soil Science | [Browse Opportunities](./agriculture/internships.md) |
+| 💻 **Tech & Engineering** | CS, IT, Software | [Browse Opportunities](./Engineering/Computer_Science/internships.md) |
+| ⚙️ **Mechanical** | Manufacturing, Design | [Browse Opportunities](./Engineering/Mechanical/internships.md) |
+| ⚡ **Electrical** | Electronics, VLSI | [Browse Opportunities](./Engineering/Electrical/internships.md) |
+| 🧬 **Biotechnology** | Research, Genetics | [Browse Opportunities](./Sciences/Biotechnology/internships.md) |
+| 🔬 **Life Sciences** | Pharma, Biomedical | [Browse Opportunities](./Sciences/Life_Sciences/internships.md) |
+| 💊 **Pharmaceutical** | Drug Tech, QC | [Browse Opportunities](./Sciences/Pharmaceutical/internships.md) |
+| 🌾 **Agriculture** | Agrotech, Food Tech | [Browse Opportunities](./Sciences/Agriculture/internships.md) |
+| 🎓 **By Degree** | B.Tech, B.Sc, Diploma | [Explore All Degrees](./Degrees/) |
 
 ---
 
@@ -35,9 +36,10 @@ Find internships curated for your specific qualification and field:
 The system is fully automated to provide real-time updates:
 
 1. **Scraping**: A Python engine uses customized scrapers (LinkedIn Job Guest API) to find high-relevancy internships.
-2. **Filtering**: Opportunities are filtered based on qualifications (B.Tech, B.Sc, Diploma, etc.) and posted within the last 24 hours.
-3. **Daily Update**: Scheduled via **Composio** to run every day at **8:00 PM IST**.
-4. **Auto-Publish**: The bot automatically commits and pushes new listings to this repository.
+2. **Filtering**: Opportunities are filtered based on qualifications (B.Tech, B.Sc, Diploma, etc.) and expanded search depth.
+3. **Premium UI**: Automatically generates **"Apply Now"** buttons for a better user experience.
+4. **Daily Update**: Scheduled via **Composio** to run every day at **8:00 PM IST**.
+5. **Auto-Publish**: The bot automatically commits and pushes new listings to this repository.
 
 ---
 

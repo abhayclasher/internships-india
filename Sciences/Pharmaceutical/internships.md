@@ -27,7 +27,7 @@
 | **Qualification** | BSc Biotechnology, Biochemistry, Pharmacy |
 | **Skills Required** | Lab Work, Research |
 | **Posted Date** | March 4, 2026 |
-| **Apply Link** | https://www.pfizer.com/careers |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.pfizer.com/careers) |
 | **HR Email** | india.careers@pfizer.com |
 
 ---
@@ -43,7 +43,7 @@
 | **Qualification** | BSc Biotechnology, Pharmacy |
 | **Skills Required** | Bioprocessing, R&D |
 | **Posted Date** | March 3, 2026 |
-| **Apply Link** | https://www.biocon.com/careers/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.biocon.com/careers/) |
 | **HR Email** | careers@biocon.com |
 
 ---
@@ -59,7 +59,7 @@
 | **Qualification** | BSc Pharmacy, Biotechnology |
 | **Skills Required** | Pharmaceutical R&D |
 | **Posted Date** | March 3, 2026 |
-| **Apply Link** | https://www.glenmarkpharma.com/careers/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.glenmarkpharma.com/careers/) |
 | **HR Email** | hr@glenmarkpharma.com |
 
 ---
@@ -75,7 +75,7 @@
 | **Qualification** | BSc Pharmacy, Biotechnology |
 | **Skills Required** | Drug Research |
 | **Posted Date** | March 2, 2026 |
-| **Apply Link** | https://www.lupin.com/careers/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.lupin.com/careers/) |
 | **HR Email** | careers@lupin.com |
 
 ---
@@ -91,7 +91,7 @@
 | **Qualification** | BSc Pharmacy, Chemistry |
 | **Skills Required** | Pharmaceutical Research |
 | **Posted Date** | March 4, 2026 |
-| **Apply Link** | https://www.sunpharma.com/careers/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.sunpharma.com/careers/) |
 | **HR Email** | careers@sunpharma.com |
 
 ---
@@ -107,7 +107,7 @@
 | **Qualification** | BSc Pharmacy, Chemistry |
 | **Skills Required** | QC, Testing |
 | **Posted Date** | March 3, 2026 |
-| **Apply Link** | https://www.cipla.com/careers/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.cipla.com/careers/) |
 | **HR Email** | careers@cipla.com |
 
 ---
@@ -123,7 +123,7 @@
 | **Qualification** | BSc Pharmacy, Biotechnology |
 | **Skills Required** | Pharmaceutical R&D |
 | **Posted Date** | March 4, 2026 |
-| **Apply Link** | https://www.drreddys.com/careers/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.drreddys.com/careers/) |
 | **HR Email** | careers@drreddys.com |
 
 ---
@@ -141,7 +141,7 @@
 | **Qualification** | BSc Life Sciences, Pharmacy |
 | **Skills Required** | Medical Writing |
 | **Posted Date** | March 3, 2026 |
-| **Apply Link** | https://www.roche.com/careers |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.roche.com/careers) |
 | **HR Email** | india.careers@roche.com |
 
 ---
@@ -157,7 +157,7 @@
 | **Qualification** | BSc Science, Pharmacy |
 | **Skills Required** | R&D Skills |
 | **Posted Date** | March 2, 2026 |
-| **Apply Link** | https://www.abbott.com/careers |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.abbott.com/careers) |
 | **HR Email** | careers.india@abbott.com |
 
 ---
@@ -173,7 +173,7 @@
 | **Qualification** | BSc Pharmacy, Life Sciences |
 | **Skills Required** | Clinical Research |
 | **Posted Date** | March 4, 2026 |
-| **Apply Link** | https://www.novartis.com/careers |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.novartis.com/careers) |
 | **HR Email** | careers.india@novartis.com |
 
 ---
@@ -189,7 +189,7 @@
 | **Qualification** | BSc Pharmacy, Chemistry |
 | **Skills Required** | Pharmaceutical Research |
 | **Posted Date** | March 3, 2026 |
-| **Apply Link** | https://www.bayer.com/careers/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.bayer.com/careers/) |
 | **HR Email** | careers.india@bayer.com |
 
 ---
@@ -205,7 +205,7 @@
 | **Qualification** | BSc Pharmacy, Life Sciences |
 | **Skills Required** | Medical Operations |
 | **Posted Date** | March 4, 2026 |
-| **Apply Link** | https://www.sanofi.com/careers |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.sanofi.com/careers) |
 | **HR Email** | careers.india@sanofi.com |
 
 ---
@@ -223,7 +223,7 @@
 | **Qualification** | BSc Biotechnology, Microbiology |
 | **Skills Required** | Vaccine Research |
 | **Posted Date** | March 5, 2026 |
-| **Apply Link** | https://www.seruminstitute.com/careers/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.seruminstitute.com/careers/) |
 | **HR Email** | hr@seruminstitute.com |
 
 ---
@@ -239,7 +239,7 @@
 | **Qualification** | BSc Biotechnology, Pharmacy |
 | **Skills Required** | R&D |
 | **Posted Date** | March 4, 2026 |
-| **Apply Link** | https://www.panaceabiotec.com/careers/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.panaceabiotec.com/careers/) |
 | **HR Email** | careers@panaceabiotec.com |
 
 ---
@@ -255,7 +255,7 @@
 | **Qualification** | BSc Biotechnology, Life Sciences |
 | **Skills Required** | Cancer Research |
 | **Posted Date** | March 6, 2026 |
-| **Apply Link** | https://moccancercare.org/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://moccancercare.org/) |
 | **HR Email** | hr@moccancercare.org |
 
 ---
@@ -271,7 +271,7 @@
 | **Qualification** | BSc Biotechnology, Pharmacy |
 | **Skills Required** | Biologics Research |
 | **Posted Date** | March 3, 2026 |
-| **Apply Link** | https://www.syngeneintl.com/careers/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.syngeneintl.com/careers/) |
 | **HR Email** | careers@syngeneintl.com |
 
 ---
@@ -289,7 +289,7 @@
 | **Qualification** | BSc Pharmacy, Chemistry |
 | **Skills Required** | Quality Control |
 | **Posted Date** | March 2, 2026 |
-| **Apply Link** | https://www.cadilahealthcare.com/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.cadilahealthcare.com/) |
 | **HR Email** | careers@cadilahealthcare.com |
 
 ---
@@ -305,7 +305,7 @@
 | **Qualification** | BSc Pharmacy, Chemistry |
 | **Skills Required** | QA/QC |
 | **Posted Date** | March 3, 2026 |
-| **Apply Link** | https://www.alembicpharmaceuticals.com/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.alembicpharmaceuticals.com/) |
 | **HR Email** | careers@alembicpharma.com |
 
 ---
