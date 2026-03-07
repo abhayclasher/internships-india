@@ -27,7 +27,7 @@
 | **Qualification** | BSc Computer Science, IT |
 | **Skills Required** | Python, Java, C++, JavaScript |
 | **Posted Date** | March 5, 2026 |
-| **Apply Link** | https://www.linkedin.com/jobs/view/4380214465/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4380214465/) |
 | **HR Email** | careers@skillzenloop.com |
 
 ---
@@ -43,7 +43,7 @@
 | **Qualification** | BSc Computer Science, IT |
 | **Skills Required** | HTML, CSS, JavaScript, Web Development |
 | **Posted Date** | March 4, 2026 |
-| **Apply Link** | https://www.linkedin.com/jobs/view/4381197170/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4381197170/) |
 | **HR Email** | hr@infrabyte.io |
 
 ---
@@ -59,7 +59,7 @@
 | **Qualification** | BSc Computer Science, IT |
 | **Skills Required** | Python, Java, Software Development |
 | **Posted Date** | March 3, 2026 |
-| **Apply Link** | https://www.linkedin.com/jobs/view/4380073869/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4380073869/) |
 | **HR Email** | careers@inficoresoft.com |
 
 ---
@@ -75,7 +75,7 @@
 | **Qualification** | BSc Computer Science, IT, Cloud Computing |
 | **Skills Required** | AWS, Cloud Computing, Basic Programming |
 | **Posted Date** | March 4, 2026 |
-| **Apply Link** | https://www.linkedin.com/jobs/view/4380650829/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4380650829/) |
 | **HR Email** | intern@argointern.com |
 
 ---
@@ -91,7 +91,7 @@
 | **Qualification** | BSc Computer Science, IT, Networking |
 | **Skills Required** | Computer Networking, CCNA, Cisco IOS |
 | **Posted Date** | March 5, 2026 |
-| **Apply Link** | https://www.nttdata.com/careers |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.nttdata.com/careers) |
 | **HR Email** | careers.in@nttdata.com |
 
 ---
@@ -107,7 +107,7 @@
 | **Qualification** | BSc Computer Science, IT, BCA |
 | **Skills Required** | Programming, SQL, Java, Python |
 | **Posted Date** | March 3, 2026 |
-| **Apply Link** | https://www.tcs.com/careers |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.tcs.com/careers) |
 | **HR Email** | careers@tcs.com |
 
 ---
@@ -123,7 +123,7 @@
 | **Qualification** | BSc Computer Science, IT, BCA |
 | **Skills Required** | Programming, Database, Java |
 | **Posted Date** | March 2, 2026 |
-| **Apply Link** | https://www.infosys.com/careers |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.infosys.com/careers) |
 | **HR Email** | careers@infosys.com |
 
 ---
@@ -139,7 +139,7 @@
 | **Qualification** | BSc Computer Science, IT |
 | **Skills Required** | Programming, Testing, SQL |
 | **Posted Date** | March 2, 2026 |
-| **Apply Link** | https://careers.wipro.com/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://careers.wipro.com/) |
 | **HR Email** | careers@wipro.com |
 
 ---
@@ -155,7 +155,7 @@
 | **Qualification** | BSc Computer Science, IT |
 | **Skills Required** | Java, Python, SQL |
 | **Posted Date** | March 3, 2026 |
-| **Apply Link** | https://www.cognizant.com/careers |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.cognizant.com/careers) |
 | **HR Email** | careers@cognizant.com |
 
 ---
@@ -171,7 +171,7 @@
 | **Qualification** | BSc Computer Science, IT |
 | **Skills Required** | Java, .NET, SQL |
 | **Posted Date** | March 4, 2026 |
-| **Apply Link** | https://www.accenture.com/careers |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.accenture.com/careers) |
 | **HR Email** | india.careers@accenture.com |
 
 ---
@@ -189,7 +189,7 @@
 | **Qualification** | BSc Computer Science, AI, ML |
 | **Skills Required** | AI/ML, Python, Data Science |
 | **Posted Date** | March 5, 2026 |
-| **Apply Link** | https://www.linkedin.com/jobs/view/4381439868/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4381439868/) |
 | **HR Email** | careers@sprinto.com |
 
 ---
@@ -205,7 +205,7 @@
 | **Qualification** | BSc Computer Science, AI/ML |
 | **Skills Required** | Python, TensorFlow, ML |
 | **Posted Date** | March 1, 2026 |
-| **Apply Link** | https://careers.google.com/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://careers.google.com/) |
 | **HR Email** | google careers portal |
 
 ---
@@ -221,7 +221,7 @@
 | **Qualification** | BSc Computer Science, related |
 | **Skills Required** | Programming, ML, AI |
 | **Posted Date** | March 2, 2026 |
-| **Apply Link** | https://careers.microsoft.com/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://careers.microsoft.com/) |
 | **HR Email** | careers@microsoft.com |
 
 ---
@@ -237,7 +237,7 @@
 | **Qualification** | BSc Computer Science |
 | **Skills Required** | Data Structures, Algorithms, Java/Python |
 | **Posted Date** | March 3, 2026 |
-| **Apply Link** | https://www.amazon.jobs/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.amazon.jobs/) |
 | **HR Email** | amazon jobs portal |
 
 ---
@@ -255,7 +255,7 @@
 | **Qualification** | BSc Computer Science, IT |
 | **Skills Required** | Android/iOS, Flutter, React Native |
 | **Posted Date** | March 4, 2026 |
-| **Apply Link** | https://paytm.com/careers/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://paytm.com/careers/) |
 | **HR Email** | careers@paytm.com |
 
 ---
@@ -271,7 +271,7 @@
 | **Qualification** | BSc Computer Science, IT |
 | **Skills Required** | React, Vue.js, JavaScript |
 | **Posted Date** | March 3, 2026 |
-| **Apply Link** | https://www.flipkart.com/careers |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.flipkart.com/careers) |
 | **HR Email** | careers@flipkart.com |
 
 ---
@@ -287,7 +287,7 @@
 | **Qualification** | BSc Computer Science, IT |
 | **Skills Required** | Python, Java, APIs |
 | **Posted Date** | March 2, 2026 |
-| **Apply Link** | https://careers.swiggy.com/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://careers.swiggy.com/) |
 | **HR Email** | careers@swiggy.com |
 
 ---
@@ -305,7 +305,7 @@
 | **Qualification** | BSc Computer Science, Cloud Computing |
 | **Skills Required** | AWS, Cloud Computing, Linux |
 | **Posted Date** | March 3, 2026 |
-| **Apply Link** | https://amazon.jobs/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://amazon.jobs/) |
 | **HR Email** | aws careers portal |
 
 ---
@@ -321,7 +321,7 @@
 | **Qualification** | BSc Computer Science |
 | **Skills Required** | Cloud, Java, Database |
 | **Posted Date** | March 2, 2026 |
-| **Apply Link** | https://www.oracle.com/careers/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.oracle.com/careers/) |
 | **HR Email** | careers@oracle.com |
 
 ---
@@ -339,7 +339,7 @@
 | **Qualification** | BSc Computer Science, Cybersecurity |
 | **Skills Required** | Network Security, Firewall |
 | **Posted Date** | March 4, 2026 |
-| **Apply Link** | https://careers.paloaltonetworks.com/ |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://careers.paloaltonetworks.com/) |
 | **HR Email** | careers@paloaltonetworks.com |
 
 ---
@@ -368,7 +368,503 @@
 | **Qualification** | Diploma |
 | **Skills Required** | Technical |
 | **Posted Date** | 2026-03-07 |
-| **Apply Link** | https://in.linkedin.com/jobs/view/data-analyst-intern-at-inficore-soft-4381353662 |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/jobs/view/data-analyst-intern-at-inficore-soft-4381353662) |
+| **HR Email** | TBD |
+
+---
+
+#### 22. uSiS Technologies
+| Field | Details |
+|:---|:---|
+| **Company** | uSiS Technologies |
+| **Role** | Java Developer / .NET Developer Intern |
+| **Location** | Coimbatore, Tamil Nadu, India |
+| **Stipend** | Competitive |
+| **Duration** | 3-6 Months |
+| **Qualification** | B.Tech Computer Science |
+| **Skills Required** | Technical |
+| **Posted Date** | March 07, 2026 |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/jobs/view/java-developer-net-developer-intern-at-usis-technologies-4378561510) |
+| **HR Email** | TBD |
+
+---
+
+#### 23. Unistanz Software Private Limited
+| Field | Details |
+|:---|:---|
+| **Company** | Unistanz Software Private Limited |
+| **Role** | Growth/Business Strategy Intern |
+| **Location** | Mumbai, Maharashtra, India |
+| **Stipend** | Competitive |
+| **Duration** | 3-6 Months |
+| **Qualification** | B.Tech Computer Science |
+| **Skills Required** | Technical |
+| **Posted Date** | March 07, 2026 |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/jobs/view/growth-business-strategy-intern-at-unistanz-software-private-limited-4380274256) |
+| **HR Email** | TBD |
+
+---
+
+#### 24. Skillzenloop
+| Field | Details |
+|:---|:---|
+| **Company** | Skillzenloop |
+| **Role** | MERN Stack Developer Intern |
+| **Location** | India |
+| **Stipend** | Competitive |
+| **Duration** | 3-6 Months |
+| **Qualification** | B.Tech Computer Science |
+| **Skills Required** | Technical |
+| **Posted Date** | March 07, 2026 |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/jobs/view/mern-stack-developer-intern-at-skillzenloop-4381211182) |
+| **HR Email** | TBD |
+
+---
+
+#### 25. Hancod
+| Field | Details |
+|:---|:---|
+| **Company** | Hancod |
+| **Role** | MERN Stack Developer Intern |
+| **Location** | Perintalmanna, Kerala, India |
+| **Stipend** | Competitive |
+| **Duration** | 3-6 Months |
+| **Qualification** | B.Tech Computer Science |
+| **Skills Required** | Technical |
+| **Posted Date** | March 07, 2026 |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/jobs/view/mern-stack-developer-intern-at-hancod-4377393162) |
+| **HR Email** | TBD |
+
+---
+
+#### 26. Zycus
+| Field | Details |
+|:---|:---|
+| **Company** | Zycus |
+| **Role** | Webflow Developer Intern |
+| **Location** | Bengaluru, Karnataka, India |
+| **Stipend** | Competitive |
+| **Duration** | 3-6 Months |
+| **Qualification** | B.Tech Computer Science |
+| **Skills Required** | Technical |
+| **Posted Date** | March 07, 2026 |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/jobs/view/webflow-developer-intern-at-zycus-4381469936) |
+| **HR Email** | TBD |
+
+---
+
+#### 27. Raptee.HV
+| Field | Details |
+|:---|:---|
+| **Company** | Raptee.HV |
+| **Role** | Flutter Developer - Intern |
+| **Location** | Chennai, Tamil Nadu, India |
+| **Stipend** | Competitive |
+| **Duration** | 3-6 Months |
+| **Qualification** | B.Tech Computer Science |
+| **Skills Required** | Technical |
+| **Posted Date** | March 07, 2026 |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/jobs/view/flutter-developer-intern-at-raptee-hv-4381013364) |
+| **HR Email** | TBD |
+
+---
+
+#### 28. Sparks To Ideas
+| Field | Details |
+|:---|:---|
+| **Company** | Sparks To Ideas |
+| **Role** | AIML Developer |
+| **Location** | Ahmedabad, Gujarat, India |
+| **Stipend** | Competitive |
+| **Duration** | 3-6 Months |
+| **Qualification** | B.Tech Computer Science |
+| **Skills Required** | Technical |
+| **Posted Date** | March 07, 2026 |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/jobs/view/aiml-developer-at-sparks-to-ideas-4380671951) |
+| **HR Email** | TBD |
+
+---
+
+#### 29. Hancod
+| Field | Details |
+|:---|:---|
+| **Company** | Hancod |
+| **Role** | Flutter Developer  Trainee |
+| **Location** | Perintalmanna, Kerala, India |
+| **Stipend** | Competitive |
+| **Duration** | 3-6 Months |
+| **Qualification** | B.Tech Computer Science |
+| **Skills Required** | Technical |
+| **Posted Date** | March 07, 2026 |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/jobs/view/flutter-developer-trainee-at-hancod-4379626823) |
+| **HR Email** | TBD |
+
+---
+
+#### 30. Sparks To Ideas
+| Field | Details |
+|:---|:---|
+| **Company** | Sparks To Ideas |
+| **Role** | AIML Developer |
+| **Location** | Gandhinagar, Gujarat, India |
+| **Stipend** | Competitive |
+| **Duration** | 3-6 Months |
+| **Qualification** | B.Tech Computer Science |
+| **Skills Required** | Technical |
+| **Posted Date** | March 07, 2026 |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/jobs/view/aiml-developer-at-sparks-to-ideas-4380684315) |
+| **HR Email** | TBD |
+
+---
+
+#### 31. Sparks To Ideas
+| Field | Details |
+|:---|:---|
+| **Company** | Sparks To Ideas |
+| **Role** | AIML Developer |
+| **Location** | Surat, Gujarat, India |
+| **Stipend** | Competitive |
+| **Duration** | 3-6 Months |
+| **Qualification** | B.Tech Computer Science |
+| **Skills Required** | Technical |
+| **Posted Date** | March 07, 2026 |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/jobs/view/aiml-developer-at-sparks-to-ideas-4380683450) |
+| **HR Email** | TBD |
+
+---
+
+#### 32. Solventum
+| Field | Details |
+|:---|:---|
+| **Company** | Solventum |
+| **Role** | Analytics Application Developer |
+| **Location** | Bengaluru, Karnataka, India |
+| **Stipend** | Competitive |
+| **Duration** | 3-6 Months |
+| **Qualification** | B.Tech Computer Science |
+| **Skills Required** | Technical |
+| **Posted Date** | March 07, 2026 |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/jobs/view/analytics-application-developer-at-solventum-4380918466) |
+| **HR Email** | TBD |
+
+---
+
+#### 33. uSiS Technologies
+| Field | Details |
+|:---|:---|
+| **Company** | uSiS Technologies |
+| **Role** | Java Developer / .NET Developer Intern |
+| **Location** | Coimbatore, Tamil Nadu, India |
+| **Stipend** | Competitive |
+| **Duration** | 3-6 Months |
+| **Qualification** | B.Sc Computer Science |
+| **Skills Required** | Technical |
+| **Posted Date** | March 07, 2026 |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/jobs/view/java-developer-net-developer-intern-at-usis-technologies-4378561510) |
+| **HR Email** | TBD |
+
+---
+
+#### 34. Hancod
+| Field | Details |
+|:---|:---|
+| **Company** | Hancod |
+| **Role** | MERN Stack Developer Intern |
+| **Location** | Perintalmanna, Kerala, India |
+| **Stipend** | Competitive |
+| **Duration** | 3-6 Months |
+| **Qualification** | B.Sc Computer Science |
+| **Skills Required** | Technical |
+| **Posted Date** | March 07, 2026 |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/jobs/view/mern-stack-developer-intern-at-hancod-4377393162) |
+| **HR Email** | TBD |
+
+---
+
+#### 35. Skillzenloop
+| Field | Details |
+|:---|:---|
+| **Company** | Skillzenloop |
+| **Role** | MERN Stack Developer Intern |
+| **Location** | India |
+| **Stipend** | Competitive |
+| **Duration** | 3-6 Months |
+| **Qualification** | B.Sc Computer Science |
+| **Skills Required** | Technical |
+| **Posted Date** | March 07, 2026 |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/jobs/view/mern-stack-developer-intern-at-skillzenloop-4381211182) |
+| **HR Email** | TBD |
+
+---
+
+#### 36. Raptee.HV
+| Field | Details |
+|:---|:---|
+| **Company** | Raptee.HV |
+| **Role** | Flutter Developer - Intern |
+| **Location** | Chennai, Tamil Nadu, India |
+| **Stipend** | Competitive |
+| **Duration** | 3-6 Months |
+| **Qualification** | B.Sc Computer Science |
+| **Skills Required** | Technical |
+| **Posted Date** | March 07, 2026 |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/jobs/view/flutter-developer-intern-at-raptee-hv-4381013364) |
+| **HR Email** | TBD |
+
+---
+
+#### 37. Zycus
+| Field | Details |
+|:---|:---|
+| **Company** | Zycus |
+| **Role** | Webflow Developer Intern |
+| **Location** | Bengaluru, Karnataka, India |
+| **Stipend** | Competitive |
+| **Duration** | 3-6 Months |
+| **Qualification** | B.Sc Computer Science |
+| **Skills Required** | Technical |
+| **Posted Date** | March 07, 2026 |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/jobs/view/webflow-developer-intern-at-zycus-4381469936) |
+| **HR Email** | TBD |
+
+---
+
+#### 38. Hancod
+| Field | Details |
+|:---|:---|
+| **Company** | Hancod |
+| **Role** | Flutter Developer  Trainee |
+| **Location** | Perintalmanna, Kerala, India |
+| **Stipend** | Competitive |
+| **Duration** | 3-6 Months |
+| **Qualification** | B.Sc Computer Science |
+| **Skills Required** | Technical |
+| **Posted Date** | March 07, 2026 |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/jobs/view/flutter-developer-trainee-at-hancod-4379626823) |
+| **HR Email** | TBD |
+
+---
+
+#### 39. Sparks To Ideas
+| Field | Details |
+|:---|:---|
+| **Company** | Sparks To Ideas |
+| **Role** | AIML Developer |
+| **Location** | Ahmedabad, Gujarat, India |
+| **Stipend** | Competitive |
+| **Duration** | 3-6 Months |
+| **Qualification** | B.Sc Computer Science |
+| **Skills Required** | Technical |
+| **Posted Date** | March 07, 2026 |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/jobs/view/aiml-developer-at-sparks-to-ideas-4380671951) |
+| **HR Email** | TBD |
+
+---
+
+#### 40. Sparks To Ideas
+| Field | Details |
+|:---|:---|
+| **Company** | Sparks To Ideas |
+| **Role** | AIML Developer |
+| **Location** | Gandhinagar, Gujarat, India |
+| **Stipend** | Competitive |
+| **Duration** | 3-6 Months |
+| **Qualification** | B.Sc Computer Science |
+| **Skills Required** | Technical |
+| **Posted Date** | March 07, 2026 |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/jobs/view/aiml-developer-at-sparks-to-ideas-4380684315) |
+| **HR Email** | TBD |
+
+---
+
+#### 41. Sparks To Ideas
+| Field | Details |
+|:---|:---|
+| **Company** | Sparks To Ideas |
+| **Role** | AIML Developer |
+| **Location** | Surat, Gujarat, India |
+| **Stipend** | Competitive |
+| **Duration** | 3-6 Months |
+| **Qualification** | B.Sc Computer Science |
+| **Skills Required** | Technical |
+| **Posted Date** | March 07, 2026 |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/jobs/view/aiml-developer-at-sparks-to-ideas-4380683450) |
+| **HR Email** | TBD |
+
+---
+
+#### 42. Solventum
+| Field | Details |
+|:---|:---|
+| **Company** | Solventum |
+| **Role** | Analytics Application Developer |
+| **Location** | Bengaluru, Karnataka, India |
+| **Stipend** | Competitive |
+| **Duration** | 3-6 Months |
+| **Qualification** | B.Sc Computer Science |
+| **Skills Required** | Technical |
+| **Posted Date** | March 07, 2026 |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/jobs/view/analytics-application-developer-at-solventum-4380918466) |
+| **HR Email** | TBD |
+
+---
+
+#### 43. BrahmGuru AI
+| Field | Details |
+|:---|:---|
+| **Company** | BrahmGuru AI |
+| **Role** | Video Editor |
+| **Location** | Noida, Uttar Pradesh, India |
+| **Stipend** | Competitive |
+| **Duration** | 3-6 Months |
+| **Qualification** | Diploma Computer Science |
+| **Skills Required** | Technical |
+| **Posted Date** | March 07, 2026 |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/jobs/view/video-editor-at-brahmguru-ai-4379150704) |
+| **HR Email** | TBD |
+
+---
+
+#### 44. Hancod
+| Field | Details |
+|:---|:---|
+| **Company** | Hancod |
+| **Role** | MERN Stack Developer Intern |
+| **Location** | Perintalmanna, Kerala, India |
+| **Stipend** | Competitive |
+| **Duration** | 3-6 Months |
+| **Qualification** | Diploma Computer Science |
+| **Skills Required** | Technical |
+| **Posted Date** | March 07, 2026 |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/jobs/view/mern-stack-developer-intern-at-hancod-4377393162) |
+| **HR Email** | TBD |
+
+---
+
+#### 45. Zycus
+| Field | Details |
+|:---|:---|
+| **Company** | Zycus |
+| **Role** | Webflow Developer Intern |
+| **Location** | Bengaluru, Karnataka, India |
+| **Stipend** | Competitive |
+| **Duration** | 3-6 Months |
+| **Qualification** | Diploma Computer Science |
+| **Skills Required** | Technical |
+| **Posted Date** | March 07, 2026 |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/jobs/view/webflow-developer-intern-at-zycus-4381469936) |
+| **HR Email** | TBD |
+
+---
+
+#### 46. Skillzenloop
+| Field | Details |
+|:---|:---|
+| **Company** | Skillzenloop |
+| **Role** | MERN Stack Developer Intern |
+| **Location** | India |
+| **Stipend** | Competitive |
+| **Duration** | 3-6 Months |
+| **Qualification** | Diploma Computer Science |
+| **Skills Required** | Technical |
+| **Posted Date** | March 07, 2026 |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/jobs/view/mern-stack-developer-intern-at-skillzenloop-4381211182) |
+| **HR Email** | TBD |
+
+---
+
+#### 47. Raptee.HV
+| Field | Details |
+|:---|:---|
+| **Company** | Raptee.HV |
+| **Role** | Flutter Developer - Intern |
+| **Location** | Chennai, Tamil Nadu, India |
+| **Stipend** | Competitive |
+| **Duration** | 3-6 Months |
+| **Qualification** | Diploma Computer Science |
+| **Skills Required** | Technical |
+| **Posted Date** | March 07, 2026 |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/jobs/view/flutter-developer-intern-at-raptee-hv-4381013364) |
+| **HR Email** | TBD |
+
+---
+
+#### 48. Hancod
+| Field | Details |
+|:---|:---|
+| **Company** | Hancod |
+| **Role** | Flutter Developer  Trainee |
+| **Location** | Perintalmanna, Kerala, India |
+| **Stipend** | Competitive |
+| **Duration** | 3-6 Months |
+| **Qualification** | Diploma Computer Science |
+| **Skills Required** | Technical |
+| **Posted Date** | March 07, 2026 |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/jobs/view/flutter-developer-trainee-at-hancod-4379626823) |
+| **HR Email** | TBD |
+
+---
+
+#### 49. Sparks To Ideas
+| Field | Details |
+|:---|:---|
+| **Company** | Sparks To Ideas |
+| **Role** | AIML Developer |
+| **Location** | Ahmedabad, Gujarat, India |
+| **Stipend** | Competitive |
+| **Duration** | 3-6 Months |
+| **Qualification** | Diploma Computer Science |
+| **Skills Required** | Technical |
+| **Posted Date** | March 07, 2026 |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/jobs/view/aiml-developer-at-sparks-to-ideas-4380671951) |
+| **HR Email** | TBD |
+
+---
+
+#### 50. Solventum
+| Field | Details |
+|:---|:---|
+| **Company** | Solventum |
+| **Role** | Analytics Application Developer |
+| **Location** | Bengaluru, Karnataka, India |
+| **Stipend** | Competitive |
+| **Duration** | 3-6 Months |
+| **Qualification** | Diploma Computer Science |
+| **Skills Required** | Technical |
+| **Posted Date** | March 07, 2026 |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/jobs/view/analytics-application-developer-at-solventum-4380918466) |
+| **HR Email** | TBD |
+
+---
+
+#### 51. Sparks To Ideas
+| Field | Details |
+|:---|:---|
+| **Company** | Sparks To Ideas |
+| **Role** | AIML Developer |
+| **Location** | Gandhinagar, Gujarat, India |
+| **Stipend** | Competitive |
+| **Duration** | 3-6 Months |
+| **Qualification** | Diploma Computer Science |
+| **Skills Required** | Technical |
+| **Posted Date** | March 07, 2026 |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/jobs/view/aiml-developer-at-sparks-to-ideas-4380684315) |
+| **HR Email** | TBD |
+
+---
+
+#### 52. Sparks To Ideas
+| Field | Details |
+|:---|:---|
+| **Company** | Sparks To Ideas |
+| **Role** | AIML Developer |
+| **Location** | Surat, Gujarat, India |
+| **Stipend** | Competitive |
+| **Duration** | 3-6 Months |
+| **Qualification** | Diploma Computer Science |
+| **Skills Required** | Technical |
+| **Posted Date** | March 07, 2026 |
+| **Apply Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/jobs/view/aiml-developer-at-sparks-to-ideas-4380683450) |
 | **HR Email** | TBD |
 
 ---
