@@ -1,67 +1,61 @@
 # 🎓 Internships India
-
-<div align="center">
-
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Status](https://img.shields.io/badge/status-Active-green.svg)
-![Last Updated](https://img.shields.io/badge/Latest-March%206%202026-orange.svg)
-
-### Curated internship opportunities for students in India
-
-</div>
-
-## 📚 Browse by Field
-
-| Field | Description | View |
-|:---|:---|:---:|
-| 🧬 **Biotechnology** | Research, Pharma, Healthcare | [View](./biotechnology/internships.md) |
-| 💻 **Computer Science** | Software, IT, Web Development | [View](./computer_science/internships.md) |
-| 🔬 **Life Sciences** | Research, Genetics, Biology | [View](./life_sciences/internships.md) |
-| 💊 **Pharmaceutical** | Drug Research, Healthcare | [View](./pharmaceutical/internships.md) |
-| 🌾 **Agriculture** | Agrotech, Food Technology | [View](./agriculture/internships.md) |
+> **Automated curation of high-quality internship opportunities across diverse engineering and science fields in India.**
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Last_Updated-Daily-orange?style=for-the-badge" alt="Last Updated">
+  <img src="https://img.shields.io/badge/Made_with-Python-blue?style=for-the-badge&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/Automation-Composio-red?style=for-the-badge" alt="Automation">
+</p>
 
-## 👤 Owner
-
-**Abhay Kumar**  
-B.Tech Student | MLSA | GCP Certified | Full Stack Developer
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/abhayclasher)
-[![GitHub](https://img.shields.io/badge/GitHub-333?style=flat&logo=github)](https://github.com/abhayclasher)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail)](mailto:abhayclasher@gmail.com)
-[![Website](https://img.shields.io/badge/Website-FF5722?style=flat&logo=firefox)](https://abhaypro.com)
-
-
+## 📌 Overview
+This repository serves as a centralized hub for students in India to find internships tailored to their specific fields of study. Our AI-powered automation engine scripts LinkedIn daily to fetch the latest opportunities, ensuring you never miss a deadline.
 
 ---
 
-## 🤖 Maintained By
+## 🚀 Explore by Category
 
-**Oscar** 🤖  
-AI Assistant | Auto-updates daily
+Find internships curated for your specific qualification and field:
 
----
-
-## 📋 Total Internships: 69+
-
-Updated **daily** with new opportunities
-
----
-
-## ⏰ Auto-Update Schedule
-
-| Time | Status |
-|:---|:---|
-| Daily 8:00 PM | ✅ Auto-updated |
+| Category | Field of Study | Links |
+| :--- | :--- | :--- |
+| 💻 **Tech & Coding** | Computer Science, IT, Software | [Browse Opportunities](./computer_science/internships.md) |
+| ⚙️ **Mechanical** | Manufacturing, Design, Automotive | [Browse Opportunities](./mechanical/internships.md) |
+| ⚡ **Electrical** | Electronics, Power Systems, VLSI | [Browse Opportunities](./electrical/internships.md) |
+| 🧬 **Biotechnology** | Research, Genetics, Bio-Engineering | [Browse Opportunities](./biotechnology/internships.md) |
+| 🔬 **Life Sciences** | Pharma, Biomedical, Biology | [Browse Opportunities](./life_sciences/internships.md) |
+| 💊 **Pharmaceutical** | Drug Tech, Quality Control, Pharma | [Browse Opportunities](./pharmaceutical/internships.md) |
+| 🌾 **Agriculture** | Agrotech, Food Tech, Soil Science | [Browse Opportunities](./agriculture/internships.md) |
 
 ---
 
-<div align="center">
+## 🛠️ How it Works
+The system is fully automated to provide real-time updates:
 
-**Made with ❤️ in India**
+1. **Scraping**: A Python engine uses customized scrapers (LinkedIn Job Guest API) to find high-relevancy internships.
+2. **Filtering**: Opportunities are filtered based on qualifications (B.Tech, B.Sc, Diploma, etc.) and posted within the last 24 hours.
+3. **Daily Update**: Scheduled via **Composio** to run every day at **8:00 PM IST**.
+4. **Auto-Publish**: The bot automatically commits and pushes new listings to this repository.
 
-</div>
+---
 
-*Last Updated: March 6, 2026*
+## 👤 Maintainer
+
+**Abhay Kumar**
+*B.Tech Student | MLSA | GCP Certified Developer*
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/abhayclasher"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/abhayclasher"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:abhayclasher@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://abhaypro.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <b>Total Opportunities Curated: 100+ and growing!</b><br>
+  <sub>Maintained with ❤️ by <b>Oscar Bot</b></sub>
+</p>
