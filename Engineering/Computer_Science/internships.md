@@ -5,157 +5,10 @@
 ---
 
 
-### 🆕 Fresh & Verified Listings (Updated Now)
-
-
-
-### 🆕 Latest Listings
+### 🆕
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 Osmos
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | SDE Intern |
-| **📍 Location** | Pune Division, Maharashtra, India |
-| **💰 Stipend** | Competitive |
-| **⏱️ Duration** | 3-6 Months |
-| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
-| **🛠️ Skills** | As per JD |
-| **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 4 days ago |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4380796604/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
-
-</div>
-    </td>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 Sense
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | Software Engineering Intern – Backend |
-| **📍 Location** | Bengaluru, Karnataka, India |
-| **💰 Stipend** | Competitive |
-| **⏱️ Duration** | 3-6 Months |
-| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
-| **🛠️ Skills** | As per JD |
-| **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 1 day ago |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4380833215/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
-
-</div>
-    </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 Sense
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | Software Engineering Intern – Backend |
-| **📍 Location** | Bengaluru, Karnataka, India |
-| **💰 Stipend** | Competitive |
-| **⏱️ Duration** | 3-6 Months |
-| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
-| **🛠️ Skills** | As per JD |
-| **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 1 day ago |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4380834158/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
-
-</div>
-    </td>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 SkilloVilla
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | Frontend Developer Intern |
-| **📍 Location** | Bengaluru, Karnataka, India |
-| **💰 Stipend** | Competitive |
-| **⏱️ Duration** | 3-6 Months |
-| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
-| **🛠️ Skills** | As per JD |
-| **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 2 days ago |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4381027138/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
-
-</div>
-    </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 Dexter's Tech
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | Front-End Developer Intern |
-| **📍 Location** | India |
-| **💰 Stipend** | Competitive |
-| **⏱️ Duration** | 3-6 Months |
-| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
-| **🛠️ Skills** | As per JD |
-| **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 2 hours ago |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4381511681/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
-
-</div>
-    </td>
-    <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
-    <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 Wake Up Whistle
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | Frontend Developer Intern |
-| **📍 Location** | India |
-| **💰 Stipend** | Competitive |
-| **⏱️ Duration** | 3-6 Months |
-| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
-| **🛠️ Skills** | As per JD |
-| **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 1 day ago |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4381052978/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
-
-</div>
-    </td>
     <td width="50%" valign="top">
 <div align="center">
 
@@ -173,81 +26,6 @@
 | **🏷️ Type** | 🏢 On-site |
 
 [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4381517317/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
-
-</div>
-    </td>
-  </tr>
-</table>
-
-
-
-### 🆕 Latest Listings
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
-    <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
-    <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 Deepwatch
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | Intern - Software Engineer |
-| **📍 Location** | Bengaluru, Karnataka, India |
-| **💰 Stipend** | Competitive |
-| **⏱️ Duration** | 3-6 Months |
-| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
-| **🛠️ Skills** | As per JD |
-| **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 5 days ago |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4380186925/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
-
-</div>
-    </td>
-    <td width="50%" valign="top"><div align="center">
-#### 🏢 Closed
-| Field | Details |
-|:---|:---|
-| **🎯 Status** | Applications Closed |
-| **📍 Note** | This listing has expired. |
-</div></td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 Zarle Infotech
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | Full Stack Developer Internship in Noida |
-| **📍 Location** | Noida, Uttar Pradesh, India |
-| **💰 Stipend** | Competitive |
-| **⏱️ Duration** | 3-6 Months |
-| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
-| **🛠️ Skills** | As per JD |
-| **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 2 weeks ago |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4376113402/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
 
 </div>
     </td>
@@ -273,22 +51,6 @@
     </td>
   </tr>
 </table>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top"><div align="center">
-#### 🏢 Closed
-| Field | Details |
-|:---|:---|
-| **🎯 Status** | Applications Closed |
-| **📍 Note** | This listing has expired. |
-</div></td>
-  </tr>
-</table>
-
-
-
-### 🆕 Latest Listings
 
 <table width="100%">
   <tr>
@@ -337,37 +99,6 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top"><div align="center">
-#### 🏢 Closed
-| Field | Details |
-|:---|:---|
-| **🎯 Status** | Applications Closed |
-| **📍 Note** | This listing has expired. |
-</div></td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top"><div align="center">
-#### 🏢 Closed
-| Field | Details |
-|:---|:---|
-| **🎯 Status** | Applications Closed |
-| **📍 Note** | This listing has expired. |
-</div></td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top"><div align="center">
-#### 🏢 Closed
-| Field | Details |
-|:---|:---|
-| **🎯 Status** | Applications Closed |
-| **📍 Note** | This listing has expired. |
-</div></td>
     <td width="50%" valign="top">
 <div align="center">
 
@@ -388,25 +119,6 @@
 
 </div>
     </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top"><div align="center">
-#### 🏢 Closed
-| Field | Details |
-|:---|:---|
-| **🎯 Status** | Applications Closed |
-| **📍 Note** | This listing has expired. |
-</div></td>
-    <td width="50%" valign="top"><div align="center">
-#### 🏢 Closed
-| Field | Details |
-|:---|:---|
-| **🎯 Status** | Applications Closed |
-| **📍 Note** | This listing has expired. |
-</div></td>
     <td width="50%" valign="top">
 <div align="center">
 
@@ -430,63 +142,10 @@
   </tr>
 </table>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top"><div align="center">
-#### 🏢 Closed
-| Field | Details |
-|:---|:---|
-| **🎯 Status** | Applications Closed |
-| **📍 Note** | This listing has expired. |
-</div></td>
-    <td width="50%" valign="top">
+
+---
 <div align="center">
 
-#### 🏢 Idea Usher
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | Full Stack Developer Intern |
-| **📍 Location** | India |
-| **💰 Stipend** | Competitive |
-| **⏱️ Duration** | 3-6 Months |
-| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
-| **🛠️ Skills** | As per JD |
-| **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 1 week ago |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4378271159/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+**Auto-updated daily | Verified via OpenClaw**
 
 </div>
-    </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 Helios Tech Labs
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | Full Stack Developer (AI Focus) Internship in Jammu, Uttarakhand, Himachal Pradesh, Haryana, Sahibzada Ajit Singh Nagar, Chandigarh, Punjab, Mohali, Mohali, Chandigarh |
-| **📍 Location** | Uttarakhand, India |
-| **💰 Stipend** | Competitive |
-| **⏱️ Duration** | 3-6 Months |
-| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
-| **🛠️ Skills** | As per JD |
-| **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 4 days ago |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4380705038/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
-
-</div>
-    </td>
-    <td width="50%" valign="top">
-<div align="center"></div>
-    </td>
-  </tr>
-</table>
-
