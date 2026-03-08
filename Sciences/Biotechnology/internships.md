@@ -32,26 +32,7 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 CSIR-IGIB
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | Research Intern |
-| **📍 Location** | Delhi, NCR |
-| **💰 Stipend** | ₹8,000/month |
-| **⏱️ Duration** | 2 Months |
-| **🎓 Qual.** | B.Sc/M.Sc Biotechnology |
-| **🛠️ Skills** | Genomics, Bioinformatics |
-| **📧 HR Email** | hr@igib.res.in |
-| **📅 Posted** | March 8, 2026 |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4105567890/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hr@igib.res.in)
-
-</div>
-    </td>
+    <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
     <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
   </tr>
 </table>

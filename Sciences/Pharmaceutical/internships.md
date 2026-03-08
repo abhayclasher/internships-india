@@ -8,33 +8,6 @@
     </td>
     <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
   </tr>
-  <tr>
-    <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
-    <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 Glenmark
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | API Synthesis Intern |
-| **📍 Location** | Navi Mumbai, Maharashtra |
-| **💰 Stipend** | ₹15,000/month |
-| **⏱️ Duration** | 3 Months |
-| **🎓 Qual.** | B.Pharm/B.Sc Chemistry |
-| **🛠️ Skills** | API Synthesis, Analytical Chemistry |
-| **📧 HR Email** | hr@glenmark.com |
-| **📅 Posted** | March 8, 2026 |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4110678901/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hr@glenmark.com)
-
-</div>
-    </td>
-  </tr>
 </table>
 
 

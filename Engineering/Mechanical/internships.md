@@ -4,37 +4,7 @@
 
 ---
 
-<div align="center">
-
-### 🕐 Last Updated: March 08, 2026 | 8:00 PM IST
-
-![Listings](https://img.shields.io/badge/Listings-6%2B-brightgreen?style=flat-square) ![Field](https://img.shields.io/badge/Field-Mechanical_Engineering-blue?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-Daily_8PM_IST-orange?style=flat-square)
-
-</div>
-
----
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 Tata Motors
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | Mechanical Design Intern |
-| **📍 Location** | Pune, Maharashtra |
-| **💰 Stipend** | ₹18,000/month |
-| **⏱️ Duration** | 6 Months |
-| **🎓 Qual.** | B.Tech Mechanical |
-| **🛠️ Skills** | CATIA, SolidWorks, AutoCAD |
-| **📧 HR Email** | campus@tatamotors.com |
-| **📅 Posted** | March 8, 2026 |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4091123456/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:campus@tatamotors.com)
-
-</div>
+*(Link Expired)*
     </td>
     <td width="50%" valign="top">
 <div align="center">
@@ -101,26 +71,7 @@
 
 </div>
     </td>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 Bosch India
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | R&D Mechanical Intern |
-| **📍 Location** | Bengaluru, Karnataka |
-| **💰 Stipend** | ₹22,000/month |
-| **⏱️ Duration** | 6 Months |
-| **🎓 Qual.** | B.Tech Mechanical |
-| **🛠️ Skills** | MATLAB, Simulink, CAE |
-| **📧 HR Email** | careers.india@bosch.com |
-| **📅 Posted** | March 8, 2026 |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4086678901/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers.india@bosch.com)
-
-</div>
-    </td>
+    <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
   </tr>
 </table>
 
