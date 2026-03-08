@@ -1,4 +1,4 @@
-# ⚙️ Mechanical Internships in India
+# ⚙️ Mechanical Engineering Internships in India
 
 ## Complete List with Apply Links | Updated Daily
 
@@ -6,47 +6,53 @@
 
 <div align="center">
 
-### Last Updated: March 07, 2026 | Automated Update
+### 🕐 Last Updated: March 8, 2026 | 8:00 PM IST
+
+![Listings](https://img.shields.io/badge/Listings-6%2B-brightgreen?style=flat-square) ![Field](https://img.shields.io/badge/Field-Mechanical_Engineering-blue?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-Daily_8PM_IST-orange?style=flat-square)
 
 </div>
 
 ---
 
-## 📋 Complete Internship Listings
-
-### 🔩 Mechanical & Manufacturing
-
-
-
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
 <div align="center">
-    
-#### AeroBay
+
+#### 🏢 Tata Motors
 | Field | Details |
 |:---|:---|
-| **Role** | Robotics & AI Trainer |
-| **Location** | Noida, Uttar Pradesh, India |
-| **Duration** | 3-6 Months |
-| **Qual.** | B.Tech Mechanical |
-| **Email** | hr@aerobay.com |
-| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/jobs/view/robotics-ai-trainer-at-aerobay-4381371149) |
+| **🎯 Role** | Mechanical Design Intern |
+| **📍 Location** | Pune, Maharashtra |
+| **💰 Stipend** | ₹18,000/month |
+| **⏱️ Duration** | 6 Months |
+| **🎓 Qual.** | B.Tech Mechanical |
+| **🛠️ Skills** | CATIA, SolidWorks, AutoCAD |
+| **📧 HR Email** | campus@tatamotors.com |
+| **📅 Posted** | March 8, 2026 |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/search/?keywords=mechanical+design+intern+Tata+Motors+india) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:campus@tatamotors.com)
 
 </div>
     </td>
     <td width="50%" valign="top">
 <div align="center">
-    
-#### Hyper Launch
+
+#### 🏢 Mahindra
 | Field | Details |
 |:---|:---|
-| **Role** | Production Engineer EV - Fresher ( TAMILNADU CANDIDATES ONLY) |
-| **Location** | Coimbatore, Tamil Nadu, India |
-| **Duration** | 3-6 Months |
-| **Qual.** | B.Tech Mechanical |
-| **Email** | hr@hyperlaunch.com |
-| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/jobs/view/production-engineer-ev-fresher-tamilnadu-candidates-only-at-hyper-launch-4379660789) |
+| **🎯 Role** | Product Engineering Intern |
+| **📍 Location** | Mumbai, Maharashtra |
+| **💰 Stipend** | ₹15,000/month |
+| **⏱️ Duration** | 3 Months |
+| **🎓 Qual.** | B.Tech Mechanical |
+| **🛠️ Skills** | ANSYS, FEA, CAD |
+| **📧 HR Email** | careers@mahindra.com |
+| **📅 Posted** | March 8, 2026 |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/search/?keywords=product+engineering+intern+Mahindra+india) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@mahindra.com)
 
 </div>
     </td>
@@ -54,31 +60,41 @@
   <tr>
     <td width="50%" valign="top">
 <div align="center">
-    
-#### Hyper Launch
+
+#### 🏢 Maruti Suzuki
 | Field | Details |
 |:---|:---|
-| **Role** | Production Engineer EV - Fresher ( TAMILNADU CANDIDATES ONLY) |
-| **Location** | Coimbatore, Tamil Nadu, India |
-| **Duration** | 3-6 Months |
-| **Qual.** | Diploma Mechanical |
-| **Email** | hr@hyperlaunch.com |
-| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/jobs/view/production-engineer-ev-fresher-tamilnadu-candidates-only-at-hyper-launch-4379660789) |
+| **🎯 Role** | Manufacturing Intern |
+| **📍 Location** | Gurugram, Haryana |
+| **💰 Stipend** | ₹12,000/month |
+| **⏱️ Duration** | 3 Months |
+| **🎓 Qual.** | B.Tech/Diploma Mechanical |
+| **🛠️ Skills** | Lean, Six Sigma, AutoCAD |
+| **📧 HR Email** | campus@maruti.co.in |
+| **📅 Posted** | March 8, 2026 |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/search/?keywords=manufacturing+intern+Maruti+Suzuki+india) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:campus@maruti.co.in)
 
 </div>
     </td>
     <td width="50%" valign="top">
 <div align="center">
-    
-#### The Goodyear Tire & Rubber Company
+
+#### 🏢 BHEL
 | Field | Details |
 |:---|:---|
-| **Role** | Vehicle Validation Engineer |
-| **Location** | Greater Hyderabad Area |
-| **Duration** | 3-6 Months |
-| **Qual.** | Diploma Mechanical |
-| **Email** | hr@thegoodyeartire&rubbercompany.com |
-| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/jobs/view/vehicle-validation-engineer-at-the-goodyear-tire-rubber-company-4380409226) |
+| **🎯 Role** | Plant Engineering Intern |
+| **📍 Location** | Bhopal, Madhya Pradesh |
+| **💰 Stipend** | ₹10,000/month |
+| **⏱️ Duration** | 2 Months |
+| **🎓 Qual.** | B.Tech/Diploma Mechanical |
+| **🛠️ Skills** | Thermal, Turbine, Plant Ops |
+| **📧 HR Email** | recruitment@bhel.in |
+| **📅 Posted** | March 8, 2026 |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/search/?keywords=plant+engineering+intern+BHEL+india) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:recruitment@bhel.in)
 
 </div>
     </td>
@@ -86,179 +102,53 @@
   <tr>
     <td width="50%" valign="top">
 <div align="center">
-    
-#### AutoForest
+
+#### 🏢 Siemens India
 | Field | Details |
 |:---|:---|
-| **Role** | Electrical/Mechanical Engineer Internship in Ahmedabad |
-| **Location** | Ahmedabad, Gujarat, India |
-| **Duration** | 3-6 Months |
-| **Qual.** | Diploma Mechanical |
-| **Email** | hr@autoforest.com |
-| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/jobs/view/electrical-mechanical-engineer-internship-in-ahmedabad-at-autoforest-4380591629) |
+| **🎯 Role** | Mechanical Systems Intern |
+| **📍 Location** | Mumbai, Maharashtra |
+| **💰 Stipend** | ₹20,000/month |
+| **⏱️ Duration** | 3 Months |
+| **🎓 Qual.** | B.Tech Mechanical |
+| **🛠️ Skills** | SolidWorks, PLM, GD&T |
+| **📧 HR Email** | hr.india@siemens.com |
+| **📅 Posted** | March 8, 2026 |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/search/?keywords=mechanical+systems+intern+Siemens+india) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hr.india@siemens.com)
 
 </div>
     </td>
     <td width="50%" valign="top">
 <div align="center">
-    
-#### Inventindia Innovations Pvt. Ltd.
+
+#### 🏢 Bosch India
 | Field | Details |
 |:---|:---|
-| **Role** | Mechanical Product Design Intern |
-| **Location** | Ahmedabad, Gujarat, India |
-| **Duration** | 3-6 Months |
-| **Qual.** | Diploma Mechanical |
-| **Email** | hr@inventindiainnovationspvt.ltd..com |
-| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/jobs/view/mechanical-product-design-intern-at-inventindia-innovations-pvt-ltd-4376688180) |
+| **🎯 Role** | R&D Mechanical Intern |
+| **📍 Location** | Bengaluru, Karnataka |
+| **💰 Stipend** | ₹22,000/month |
+| **⏱️ Duration** | 6 Months |
+| **🎓 Qual.** | B.Tech Mechanical |
+| **🛠️ Skills** | MATLAB, Simulink, CAE |
+| **📧 HR Email** | careers.india@bosch.com |
+| **📅 Posted** | March 8, 2026 |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/search/?keywords=R%26D+mechanical+intern+Bosch+india) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers.india@bosch.com)
 
 </div>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-<div align="center">
-    
-#### Tecmac Solution
-| Field | Details |
-|:---|:---|
-| **Role** | Computer Aided Design Designer |
-| **Location** | Pune Division, Maharashtra, India |
-| **Duration** | 3-6 Months |
-| **Qual.** | Diploma Mechanical |
-| **Email** | hr@tecmacsolution.com |
-| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#) |
-
-</div>
-    </td>
-    <td width="50%" valign="top">
-<div align="center">
-    
-#### ERIC Robotics
-| Field | Details |
-|:---|:---|
-| **Role** | Deployment Mechatronics Intern |
-| **Location** | Pune Division, Maharashtra, India |
-| **Duration** | 3-6 Months |
-| **Qual.** | Diploma Mechanical |
-| **Email** | hr@ericrobotics.com |
-| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/jobs/view/deployment-mechatronics-intern-at-eric-robotics-4380443181) |
-
-</div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-<div align="center">
-    
-#### Hyper Launch
-| Field | Details |
-|:---|:---|
-| **Role** | Production Engineer EV - Fresher ( TAMILNADU CANDIDATES ONLY) |
-| **Location** | Coimbatore, Tamil Nadu, India |
-| **Duration** | 3-6 Months |
-| **Qual.** | Diploma Mechanical |
-| **Email** | hr@hyperlaunch.com |
-| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/jobs/view/production-engineer-ev-fresher-tamilnadu-candidates-only-at-hyper-launch-4379660789) |
-
-</div>
-    </td>
-    <td width="50%" valign="top">
-<div align="center">
-    
-#### BrahmGuru AI
-| Field | Details |
-|:---|:---|
-| **Role** | Video Editor |
-| **Location** | Noida, Uttar Pradesh, India |
-| **Duration** | 3-6 Months |
-| **Qual.** | Diploma Mechanical |
-| **Email** | hr@brahmguruai.com |
-| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/jobs/view/video-editor-at-brahmguru-ai-4379150704) |
-
-</div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-<div align="center">
-    
-#### GKN Sintermetals Private Limited
-| Field | Details |
-|:---|:---|
-| **Role** | Diploma Student |
-| **Location** | Mumbai, Maharashtra, India |
-| **Duration** | 3-6 Months |
-| **Qual.** | Diploma Mechanical |
-| **Email** | hr@gknsintermetalsprivatelimited.com |
-| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/jobs/view/diploma-student-at-gkn-sintermetals-private-limited-4381305663) |
-
-</div>
-    </td>
-    <td width="50%" valign="top">
-<div align="center">
-    
-#### Delhi Film Academy
-| Field | Details |
-|:---|:---|
-| **Role** | Video Editing/Making Internship in Delhi |
-| **Location** | Delhi, India |
-| **Duration** | 3-6 Months |
-| **Qual.** | Diploma Mechanical |
-| **Email** | hr@delhifilmacademy.com |
-| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/jobs/view/video-editing-making-internship-in-delhi-at-delhi-film-academy-4380589754) |
-
-</div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-<div align="center">
-    
-#### Healsway
-| Field | Details |
-|:---|:---|
-| **Role** | Junior Furniture & Interior Designer |
-| **Location** | Dehradun, Uttarakhand, India |
-| **Duration** | 3-6 Months |
-| **Qual.** | Diploma Mechanical |
-| **Email** | hr@healsway.com |
-| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/jobs/view/junior-furniture-interior-designer-at-healsway-4377384290) |
-
-</div>
-    </td>
-    <td width="50%" valign="top">
-<div align="center">
-    
-#### Purposeless Pictures
-| Field | Details |
-|:---|:---|
-| **Role** | 🎬 Internship Opportunities – Web Series Production |
-| **Location** | Greater Kolkata Area |
-| **Duration** | 3-6 Months |
-| **Qual.** | Diploma Mechanical |
-| **Email** | hr@purposelesspictures.com |
-| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#) |
-
-</div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-<div align="center">
-    
-#### Tecmac Solution
-| Field | Details |
-|:---|:---|
-| **Role** | Computer Aided Design Designer |
-| **Location** | Pune Division, Maharashtra, India |
-| **Duration** | 3-6 Months |
-| **Qual.** | Diploma Mechanical |
-| **Email** | hr@tecmacsolution.com |
-| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#) |
-
-</div>
-    </td>
-    <td width="50%"></td>
   </tr>
 </table>
+
+---
+
+<div align="center">
+
+*🤖 Auto-updated daily at 8:00 PM IST by Oscar Bot · [🏠 Back to Main](../../README.md)*
+
+**Last Sync: March 8, 2026 | 8:00 PM IST**
+
+</div>

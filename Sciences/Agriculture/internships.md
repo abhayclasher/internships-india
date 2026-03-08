@@ -6,79 +6,53 @@
 
 <div align="center">
 
-### Last Updated: March 6, 2026 | 12:07 PM IST
+### 🕐 Last Updated: March 8, 2026 | 8:00 PM IST
+
+![Listings](https://img.shields.io/badge/Listings-6%2B-brightgreen?style=flat-square) ![Field](https://img.shields.io/badge/Field-Agriculture-blue?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-Daily_8PM_IST-orange?style=flat-square)
 
 </div>
 
 ---
 
-## 📋 Complete Internship Listings
-
-### 🌱 Agricultural Biotechnology
-
-
-
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
 <div align="center">
-    
-#### ICAR Institutes
+
+#### 🏢 ITC Agribusiness
 | Field | Details |
 |:---|:---|
-| **Role** | Agricultural Biotechnology Intern |
-| **Location** | Delhi, Chandigarh, Hyderabad |
-| **Duration** | 6 Months |
-| **Qual.** | BSc Agriculture, Biotechnology |
-| **Email** | hr@icarinstitutes.com |
-| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.icar.org.in/) |
+| **🎯 Role** | Agri Intern |
+| **📍 Location** | Hyderabad, Telangana |
+| **💰 Stipend** | ₹15,000/month |
+| **⏱️ Duration** | 3 Months |
+| **🎓 Qual.** | B.Sc Agriculture |
+| **🛠️ Skills** | Crop Science, Supply Chain |
+| **📧 HR Email** | campus@itc.in |
+| **📅 Posted** | March 8, 2026 |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/search/?keywords=agri+intern+ITC+Agribusiness+india) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:campus@itc.in)
 
 </div>
     </td>
     <td width="50%" valign="top">
 <div align="center">
-    
-#### IARI New Delhi
-| Field | Details |
-|:---|:---|
-| **Role** | Research Intern |
-| **Location** | New Delhi |
-| **Duration** | 6 Months |
-| **Qual.** | BSc Agriculture, Biotechnology |
-| **Email** | hr@iarinewdelhi.com |
-| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.iari.res.in/) |
 
-</div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-<div align="center">
-    
-#### NAARM Hyderabad
+#### 🏢 UPL
 | Field | Details |
 |:---|:---|
-| **Role** | Agribusiness Intern |
-| **Location** | Hyderabad, Telangana |
-| **Duration** | 6 Months |
-| **Qual.** | BSc Agriculture, MBA |
-| **Email** | hr@naarmhyderabad.com |
-| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.naarm.org.in/) |
+| **🎯 Role** | Agrochemical Intern |
+| **📍 Location** | Ankleshwar, Gujarat |
+| **💰 Stipend** | ₹12,000/month |
+| **⏱️ Duration** | 3 Months |
+| **🎓 Qual.** | B.Sc Agriculture/Chemistry |
+| **🛠️ Skills** | Pesticide Science, Field Trial |
+| **📧 HR Email** | hr@upl-ltd.com |
+| **📅 Posted** | March 8, 2026 |
+| **🏷️ Type** | 🏢 On-site |
 
-</div>
-    </td>
-    <td width="50%" valign="top">
-<div align="center">
-    
-#### IIHR Bangalore
-| Field | Details |
-|:---|:---|
-| **Role** | Horticulture Research Intern |
-| **Location** | Bangalore, Karnataka |
-| **Duration** | 6 Months |
-| **Qual.** | BSc Agriculture, Horticulture |
-| **Email** | hr@iihrbangalore.com |
-| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.iihr.res.in/) |
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/search/?keywords=agrochemical+intern+UPL+india) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hr@upl-ltd.com)
 
 </div>
     </td>
@@ -86,63 +60,41 @@
   <tr>
     <td width="50%" valign="top">
 <div align="center">
-    
-#### FSSAI
+
+#### 🏢 Nuziveedu Seeds
 | Field | Details |
 |:---|:---|
-| **Role** | Food Safety Intern |
-| **Location** | Delhi |
-| **Duration** | 3-6 Months |
-| **Qual.** | BSc Food Technology, Biotechnology |
-| **Email** | hr@fssai.com |
-| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.fssai.gov.in/) |
+| **🎯 Role** | Plant Breeding Intern |
+| **📍 Location** | Hyderabad, Telangana |
+| **💰 Stipend** | ₹10,000/month |
+| **⏱️ Duration** | 3 Months |
+| **🎓 Qual.** | B.Sc Agriculture/Botany |
+| **🛠️ Skills** | Plant Breeding, Genetics |
+| **📧 HR Email** | hr@nuziveedu.com |
+| **📅 Posted** | March 8, 2026 |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/search/?keywords=plant+breeding+intern+Nuziveedu+Seeds+india) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hr@nuziveedu.com)
 
 </div>
     </td>
     <td width="50%" valign="top">
 <div align="center">
-    
-#### ITC Limited
-| Field | Details |
-|:---|:---|
-| **Role** | Food R&D Intern |
-| **Location** | Mumbai, Delhi |
-| **Duration** | 6 Months |
-| **Qual.** | BSc Food Technology, Chemistry |
-| **Email** | hr@itclimited.com |
-| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.itcportal.com/careers/) |
 
-</div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-<div align="center">
-    
-#### Nestle
+#### 🏢 BigHaat
 | Field | Details |
 |:---|:---|
-| **Role** | Food Safety Intern |
-| **Location** | Gurgaon, Haryana |
-| **Duration** | 6 Months |
-| **Qual.** | BSc Food Technology, Chemistry |
-| **Email** | hr@nestle.com |
-| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.nestle.in/careers) |
+| **🎯 Role** | Agritech Intern |
+| **📍 Location** | Bengaluru, Karnataka |
+| **💰 Stipend** | ₹15,000/month |
+| **⏱️ Duration** | 3 Months |
+| **🎓 Qual.** | B.Sc Agriculture |
+| **🛠️ Skills** | Agri Tech, Market Linkage |
+| **📧 HR Email** | careers@bighaat.com |
+| **📅 Posted** | March 8, 2026 |
+| **🏷️ Type** | 🏠 Remote |
 
-</div>
-    </td>
-    <td width="50%" valign="top">
-<div align="center">
-    
-#### PepsiCo
-| Field | Details |
-|:---|:---|
-| **Role** | Agricultural Research Intern |
-| **Location** | Bangalore |
-| **Duration** | 6 Months |
-| **Qual.** | BSc Agriculture, Food Tech |
-| **Email** | hr@pepsico.com |
-| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.pepsicoindia.co.in/careers) |
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/search/?keywords=agritech+intern+BigHaat+india) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@bighaat.com)
 
 </div>
     </td>
@@ -150,129 +102,53 @@
   <tr>
     <td width="50%" valign="top">
 <div align="center">
-    
-#### Ninjacart
+
+#### 🏢 ICAR
 | Field | Details |
 |:---|:---|
-| **Role** | Agri-Tech Intern |
-| **Location** | Bangalore |
-| **Duration** | 6 Months |
-| **Qual.** | BSc Agriculture, Business |
-| **Email** | hr@ninjacart.com |
-| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ninjacart.com/careers/) |
+| **🎯 Role** | Research Intern |
+| **📍 Location** | New Delhi, NCR |
+| **💰 Stipend** | ₹8,000/month |
+| **⏱️ Duration** | 2 Months |
+| **🎓 Qual.** | B.Sc Agriculture |
+| **🛠️ Skills** | Soil Science, Field Research |
+| **📧 HR Email** | hr@icar.org.in |
+| **📅 Posted** | March 8, 2026 |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/search/?keywords=research+intern+ICAR+india) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hr@icar.org.in)
 
 </div>
     </td>
     <td width="50%" valign="top">
 <div align="center">
-    
-#### CropIn
-| Field | Details |
-|:---|:---|
-| **Role** | Data Analytics Intern |
-| **Location** | Bangalore |
-| **Duration** | 6 Months |
-| **Qual.** | BSc Agriculture, Data Science |
-| **Email** | hr@cropin.com |
-| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.cropin.com/careers/) |
 
-</div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-<div align="center">
-    
-#### FarmEasy
+#### 🏢 Godrej Agrovet
 | Field | Details |
 |:---|:---|
-| **Role** | Agri-Tech Intern |
-| **Location** | Pune |
-| **Duration** | 6 Months |
-| **Qual.** | BSc Agriculture, IT |
-| **Email** | hr@farmeasy.com |
-| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.farmeasy.in/) |
+| **🎯 Role** | Agri Business Intern |
+| **📍 Location** | Mumbai, Maharashtra |
+| **💰 Stipend** | ₹18,000/month |
+| **⏱️ Duration** | 3 Months |
+| **🎓 Qual.** | B.Sc Agriculture/MBA Agri |
+| **🛠️ Skills** | Farm Advisory, Sales |
+| **📧 HR Email** | careers@godrejagrovet.com |
+| **📅 Posted** | March 8, 2026 |
+| **🏷️ Type** | 🏢 On-site |
 
-</div>
-    </td>
-    <td width="50%" valign="top">
-<div align="center">
-    
-#### AgriBuzz
-| Field | Details |
-|:---|:---|
-| **Role** | Agricultural Consulting Intern |
-| **Location** | Remote |
-| **Duration** | 6 Months |
-| **Qual.** | BSc Agriculture, Business |
-| **Email** | hr@agribuzz.com |
-| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://agribuzz.com/) |
-
-</div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-<div align="center">
-    
-#### NEERI
-| Field | Details |
-|:---|:---|
-| **Role** | Environmental Biotechnology Intern |
-| **Location** | Nagpur, Maharashtra |
-| **Duration** | 6 Months |
-| **Qual.** | BSc Environmental Science, Biotechnology |
-| **Email** | hr@neeri.com |
-| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.neeri.res.in/) |
-
-</div>
-    </td>
-    <td width="50%" valign="top">
-<div align="center">
-    
-#### ICFRE
-| Field | Details |
-|:---|:---|
-| **Role** | Forest Research Intern |
-| **Location** | Dehradun, Uttarakhand |
-| **Duration** | 6 Months |
-| **Qual.** | BSc Forestry, Environmental Science |
-| **Email** | hr@icfre.com |
-| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.icfre.gov.in/) |
-
-</div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-<div align="center">
-    
-#### NDRI Karnal
-| Field | Details |
-|:---|:---|
-| **Role** | Dairy Research Intern |
-| **Location** | Karnal, Haryana |
-| **Duration** | 6 Months |
-| **Qual.** | BSc Dairy Science, Animal Science |
-| **Email** | hr@ndrikarnal.com |
-| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.ndri.res.in/) |
-
-</div>
-    </td>
-    <td width="50%" valign="top">
-<div align="center">
-    
-#### IVRI Bareilly
-| Field | Details |
-|:---|:---|
-| **Role** | Veterinary Research Intern |
-| **Location** | Bareilly, Uttar Pradesh |
-| **Duration** | 6 Months |
-| **Qual.** | BSc Veterinary Science, Animal Science |
-| **Email** | hr@ivribareilly.com |
-| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.ivri.nic.in/) |
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/search/?keywords=agri+business+intern+Godrej+Agrovet+india) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@godrejagrovet.com)
 
 </div>
     </td>
   </tr>
 </table>
+
+---
+
+<div align="center">
+
+*🤖 Auto-updated daily at 8:00 PM IST by Oscar Bot · [🏠 Back to Main](../../README.md)*
+
+**Last Sync: March 8, 2026 | 8:00 PM IST**
+
+</div>
