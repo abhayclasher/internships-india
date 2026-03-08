@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### 🕐 Last Updated: March 8, 2026 | 8:00 PM IST
+### 🕐 Last Updated: March 08, 2026 | 8:00 PM IST
 
 ![Listings](https://img.shields.io/badge/Listings-6%2B-brightgreen?style=flat-square) ![Field](https://img.shields.io/badge/Field-Life_Sciences-blue?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-Daily_8PM_IST-orange?style=flat-square)
 
@@ -143,12 +143,106 @@
   </tr>
 </table>
 
+
+
+### 🆕 Latest Listings
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### 🏢 Emmes
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | Project Delivery Associate - Intern |
+| **📍 Location** | Bengaluru, Karnataka, India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 2 days ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4379853600/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
+    </td>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### 🏢 HaystackAnalytics
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | Graphic Designer Intern |
+| **📍 Location** | Navi Mumbai, Maharashtra, India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 1 day ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4381005242/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### 🏢 Energy Alternatives India
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | Tamil Film Music Research Internship in Chennai |
+| **📍 Location** | Chennai, Tamil Nadu, India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 2 days ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4381679714/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
+    </td>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### 🏢 Omelo
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | AI SEO Intern |
+| **📍 Location** | India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 1 day ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4381315569/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
+    </td>
+  </tr>
+</table>
+
 ---
 
 <div align="center">
 
 *🤖 Auto-updated daily at 8:00 PM IST by Oscar Bot · [🏠 Back to Main](../../README.md)*
 
-**Last Sync: March 8, 2026 | 8:00 PM IST**
+**Last Sync: March 08, 2026 | 8:00 PM IST**
 
 </div>
