@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### 🕐 Last Updated: March 8, 2026 | 8:00 PM IST
+### 🕐 Last Updated: March 08, 2026 | 8:00 PM IST
 
 ![Listings](https://img.shields.io/badge/Listings-6%2B-brightgreen?style=flat-square) ![Field](https://img.shields.io/badge/Field-Mechanical_Engineering-blue?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-Daily_8PM_IST-orange?style=flat-square)
 
@@ -143,12 +143,44 @@
   </tr>
 </table>
 
+
+
+### 🆕 Latest Listings
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### 🏢 Unicon Engineers
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | Industrial And Production Engineering Internship in Coimbatore |
+| **📍 Location** | Coimbatore, Tamil Nadu, India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | March 08, 2026 |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4382628374/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
+    </td>
+    <td width="50%" valign="top">
+<div align="center"></div>
+    </td>
+  </tr>
+</table>
+
 ---
 
 <div align="center">
 
 *🤖 Auto-updated daily at 8:00 PM IST by Oscar Bot · [🏠 Back to Main](../../README.md)*
 
-**Last Sync: March 8, 2026 | 8:00 PM IST**
+**Last Sync: March 08, 2026 | 8:00 PM IST**
 
 </div>
