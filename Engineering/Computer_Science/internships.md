@@ -509,6 +509,83 @@
   </tr>
 </table>
 
+
+
+### 🆕 Latest Listings
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### 🏢 Dexter's Tech
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | Front-End Developer Intern |
+| **📍 Location** | India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 2 hours ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4381511681/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
+    </td>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### 🏢 Dialabank.com
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | AI Software Engineer Internship in Chandigarh, Sahibzada Ajit Singh, Haryana, Uttarakhand, Punjab, Chandigarh, Mohali, Mohali, Sahibzada Ajit Singh Nagar |
+| **📍 Location** | Haryana, India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 1 day ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4382303650/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### 🏢 ArGo Intern
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | Frontend Developer Intern (React.js) |
+| **📍 Location** | India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 5 hours ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4381517317/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
+    </td>
+    <td width="50%" valign="top">
+<div align="center"></div>
+    </td>
+  </tr>
+</table>
+
 ---
 
 <div align="center">
