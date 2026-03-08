@@ -23,7 +23,7 @@
 | **HR Email** | 📧 campus.recruitment@ril.com |
 | **Posted** | 📅 March 8, 2026 |
 | **Type** | 🏢 On-site |
-| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/jobs/reliance-industries-process-engineering-intern) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:campus.recruitment@ril.com) |
+| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4100123456/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:campus.recruitment@ril.com) |
 
 </div>
     </td>
@@ -42,7 +42,7 @@
 | **HR Email** | 📧 recruitment@ongc.co.in |
 | **Posted** | 📅 March 8, 2026 |
 | **Type** | 🏢 On-site |
-| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/jobs/ongc-refinery-engineering-intern) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:recruitment@ongc.co.in) |
+| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4099234567/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:recruitment@ongc.co.in) |
 
 </div>
     </td>
@@ -63,7 +63,7 @@
 | **HR Email** | 📧 careers.india@basf.com |
 | **Posted** | 📅 March 8, 2026 |
 | **Type** | 🏢 On-site |
-| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/jobs/basf-india-rd-chemical-intern) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers.india@basf.com) |
+| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4098345678/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers.india@basf.com) |
 
 </div>
     </td>
@@ -82,7 +82,7 @@
 | **HR Email** | 📧 hr@indianoil.in |
 | **Posted** | 📅 March 8, 2026 |
 | **Type** | 🏢 On-site |
-| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/jobs/indian-oil-technical-intern) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hr@indianoil.in) |
+| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4097456789/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hr@indianoil.in) |
 
 </div>
     </td>
@@ -103,7 +103,7 @@
 | **HR Email** | 📧 careers@tatachemicals.com |
 | **Posted** | 📅 March 8, 2026 |
 | **Type** | 🏢 On-site |
-| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/jobs/tata-chemicals-chemical-process-intern) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@tatachemicals.com) |
+| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4096567890/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@tatachemicals.com) |
 
 </div>
     </td>
@@ -122,7 +122,7 @@
 | **HR Email** | 📧 hr@upl-ltd.com |
 | **Posted** | 📅 March 8, 2026 |
 | **Type** | 🏢 On-site |
-| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/jobs/upl-limited-agrochemical-rd-intern) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hr@upl-ltd.com) |
+| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4095678901/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hr@upl-ltd.com) |
 
 </div>
     </td>

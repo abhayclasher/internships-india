@@ -23,7 +23,7 @@
 | **HR Email** | 📧 careers@larsentoubro.com |
 | **Posted** | 📅 March 8, 2026 |
 | **Type** | 🏢 On-site |
-| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/jobs/lt-construction-site-engineering-intern) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@larsentoubro.com) |
+| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4097123456/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@larsentoubro.com) |
 
 </div>
     </td>
@@ -42,7 +42,7 @@
 | **HR Email** | 📧 hr@shapoorji.in |
 | **Posted** | 📅 March 8, 2026 |
 | **Type** | 🏢 On-site |
-| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/jobs/shapoorji-pallonji-civil-design-intern) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hr@shapoorji.in) |
+| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4096234567/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hr@shapoorji.in) |
 
 </div>
     </td>
@@ -63,7 +63,7 @@
 | **HR Email** | 📧 recruitment@nhai.gov.in |
 | **Posted** | 📅 March 8, 2026 |
 | **Type** | 🏢 On-site |
-| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/jobs/nhai-project-engineering-intern) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:recruitment@nhai.gov.in) |
+| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4095345678/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:recruitment@nhai.gov.in) |
 
 </div>
     </td>
@@ -82,7 +82,7 @@
 | **HR Email** | 📧 careers@tataprojects.com |
 | **Posted** | 📅 March 8, 2026 |
 | **Type** | 🏢 On-site |
-| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/jobs/tata-projects-construction-intern) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@tataprojects.com) |
+| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4094456789/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@tataprojects.com) |
 
 </div>
     </td>
@@ -103,7 +103,7 @@
 | **HR Email** | 📧 hr@dlf.in |
 | **Posted** | 📅 March 8, 2026 |
 | **Type** | 🏢 On-site |
-| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/jobs/dlf-limited-structural-design-intern) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hr@dlf.in) |
+| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4093567890/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hr@dlf.in) |
 
 </div>
     </td>
@@ -122,7 +122,7 @@
 | **HR Email** | 📧 careers@afcons.com |
 | **Posted** | 📅 March 8, 2026 |
 | **Type** | 🏢 On-site |
-| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/jobs/afcons-infrastructure-civil-site-intern) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@afcons.com) |
+| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4092678901/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@afcons.com) |
 
 </div>
     </td>

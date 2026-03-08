@@ -23,7 +23,7 @@
 | **HR Email** | 📧 careers-india@google.com |
 | **Posted** | 📅 March 8, 2026 |
 | **Type** | 🏢 On-site |
-| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/jobs/google-india-ml-intern) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers-india@google.com) |
+| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4085123456/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers-india@google.com) |
 
 </div>
     </td>
@@ -42,7 +42,7 @@
 | **HR Email** | 📧 msindiahr@microsoft.com |
 | **Posted** | 📅 March 8, 2026 |
 | **Type** | 🔄 Hybrid |
-| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/jobs/microsoft-india-ai-research-intern) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msindiahr@microsoft.com) |
+| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4084234567/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msindiahr@microsoft.com) |
 
 </div>
     </td>
@@ -63,7 +63,7 @@
 | **HR Email** | 📧 srin.careers@samsung.com |
 | **Posted** | 📅 March 8, 2026 |
 | **Type** | 🏢 On-site |
-| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/jobs/samsung-rd-aiml-intern) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srin.careers@samsung.com) |
+| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4083345678/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srin.careers@samsung.com) |
 
 </div>
     </td>
@@ -82,7 +82,7 @@
 | **HR Email** | 📧 careers@wipro.com |
 | **Posted** | 📅 March 8, 2026 |
 | **Type** | 🔄 Hybrid |
-| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/jobs/wipro-ai-lab-ml-engineering-intern) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@wipro.com) |
+| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4082456789/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@wipro.com) |
 
 </div>
     </td>
@@ -103,7 +103,7 @@
 | **HR Email** | 📧 india-hr@nvidia.com |
 | **Posted** | 📅 March 8, 2026 |
 | **Type** | 🏢 On-site |
-| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/jobs/nvidia-india-deep-learning-intern) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:india-hr@nvidia.com) |
+| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4081567890/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:india-hr@nvidia.com) |
 
 </div>
     </td>
@@ -122,7 +122,7 @@
 | **HR Email** | 📧 hr@turing.com |
 | **Posted** | 📅 March 8, 2026 |
 | **Type** | 🏠 Remote |
-| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/jobs/turing-ai-intern) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hr@turing.com) |
+| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4080678901/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hr@turing.com) |
 
 </div>
     </td>

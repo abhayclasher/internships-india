@@ -23,7 +23,7 @@
 | **HR Email** | 📧 designcareers@swiggy.in |
 | **Posted** | 📅 March 8, 2026 |
 | **Type** | 🔄 Hybrid |
-| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/jobs/swiggy-product-design-intern) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:designcareers@swiggy.in) |
+| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4103123456/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:designcareers@swiggy.in) |
 
 </div>
     </td>
@@ -42,7 +42,7 @@
 | **HR Email** | 📧 design@razorpay.com |
 | **Posted** | 📅 March 8, 2026 |
 | **Type** | 🔄 Hybrid |
-| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/jobs/razorpay-ux-design-intern) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:design@razorpay.com) |
+| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4102234567/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:design@razorpay.com) |
 
 </div>
     </td>
@@ -63,7 +63,7 @@
 | **HR Email** | 📧 design.careers@zomato.com |
 | **Posted** | 📅 March 8, 2026 |
 | **Type** | 🔄 Hybrid |
-| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/jobs/zomato-ui-design-intern) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:design.careers@zomato.com) |
+| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4101345678/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:design.careers@zomato.com) |
 
 </div>
     </td>
@@ -82,7 +82,7 @@
 | **HR Email** | 📧 ux-careers@freshworks.com |
 | **Posted** | 📅 March 8, 2026 |
 | **Type** | 🏢 On-site |
-| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/jobs/freshworks-ux-research-intern) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ux-careers@freshworks.com) |
+| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4100456789/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ux-careers@freshworks.com) |
 
 </div>
     </td>
@@ -103,7 +103,7 @@
 | **HR Email** | 📧 design@cred.club |
 | **Posted** | 📅 March 8, 2026 |
 | **Type** | 🏢 On-site |
-| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/jobs/cred-product-design-intern) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:design@cred.club) |
+| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4099567890/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:design@cred.club) |
 
 </div>
     </td>
@@ -122,7 +122,7 @@
 | **HR Email** | 📧 design.hr@myntra.com |
 | **Posted** | 📅 March 8, 2026 |
 | **Type** | 🔄 Hybrid |
-| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/jobs/myntra-visual-design-intern) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:design.hr@myntra.com) |
+| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4098678901/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:design.hr@myntra.com) |
 
 </div>
     </td>

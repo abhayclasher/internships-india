@@ -23,7 +23,7 @@
 | **HR Email** | 📧 campus@flipkart.com |
 | **Posted** | 📅 March 8, 2026 |
 | **Type** | 🏢 On-site |
-| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/jobs/flipkart-data-science-intern) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:campus@flipkart.com) |
+| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4088123456/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:campus@flipkart.com) |
 
 </div>
     </td>
@@ -42,7 +42,7 @@
 | **HR Email** | 📧 careers@mu-sigma.com |
 | **Posted** | 📅 March 8, 2026 |
 | **Type** | 🏢 On-site |
-| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/jobs/mu-sigma-business-analyst-intern) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@mu-sigma.com) |
+| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4087234567/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@mu-sigma.com) |
 
 </div>
     </td>
@@ -63,7 +63,7 @@
 | **HR Email** | 📧 hr@fractal.ai |
 | **Posted** | 📅 March 8, 2026 |
 | **Type** | 🔄 Hybrid |
-| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/jobs/fractal-analytics-data-analyst-intern) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hr@fractal.ai) |
+| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4086345678/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hr@fractal.ai) |
 
 </div>
     </td>
@@ -82,7 +82,7 @@
 | **HR Email** | 📧 talent@olacabs.com |
 | **Posted** | 📅 March 8, 2026 |
 | **Type** | 🏢 On-site |
-| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/jobs/ola-data-science-intern) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talent@olacabs.com) |
+| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4085456789/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talent@olacabs.com) |
 
 </div>
     </td>
@@ -103,7 +103,7 @@
 | **HR Email** | 📧 careers@meesho.com |
 | **Posted** | 📅 March 8, 2026 |
 | **Type** | 🔄 Hybrid |
-| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/jobs/meesho-data-intern) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@meesho.com) |
+| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4084567890/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@meesho.com) |
 
 </div>
     </td>
@@ -122,7 +122,7 @@
 | **HR Email** | 📧 careers@razorpay.com |
 | **Posted** | 📅 March 8, 2026 |
 | **Type** | 🏢 On-site |
-| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/jobs/razorpay-data-analytics-intern) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@razorpay.com) |
+| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4083678901/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@razorpay.com) |
 
 </div>
     </td>
