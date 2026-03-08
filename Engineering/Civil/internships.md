@@ -1,56 +1,48 @@
 # 🏗️ Civil Engineering Internships in India
+### Complete List with Apply Links | Updated Daily
+**Last Updated:** March 8, 2026 | 8:00 PM IST
 
-## Complete List with Apply Links | Updated Daily
-
----
-
-<div align="center">
-
-### Last Updated: March 8, 2026 | 8:00 PM IST
-
-</div>
+![Total Listings](https://img.shields.io/badge/Total_Listings-6-brightgreen?style=flat-square) ![Field](https://img.shields.io/badge/Field-Civil_Engineering-blue?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-Daily_8PM_IST-orange?style=flat-square)
 
 ---
-
-## 📋 Complete Internship Listings
-
-### 🏗️ Civil & Structural Engineering
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
 <div align="center">
 
-#### L&T Construction
+#### 🏢 L&T Construction
 | Field | Details |
 |:---|:---|
 | **Role** | Site Engineering Intern |
-| **Location** | Mumbai, Maharashtra |
-| **Duration** | 3 Months |
-| **Stipend** | ₹15,000/month |
-| **Qual.** | B.Tech Civil |
-| **Skills** | AutoCAD, Site Management |
-| **Email** | careers@larsentoubro.com |
-| **Posted** | March 8, 2026 |
-| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/search/?keywords=civil+engineering+intern+L%26T) |
+| **Location** | 📍 Mumbai, Maharashtra |
+| **Stipend** | 💰 ₹15,000/month |
+| **Duration** | ⏱️ 3 Months |
+| **Qual.** | 🎓 B.Tech in Civil Engineering |
+| **Skills** | 🛠️ AutoCAD, Site Management |
+| **HR Email** | 📧 careers@larsentoubro.com |
+| **Posted** | 📅 March 8, 2026 |
+| **Type** | 🏢 On-site |
+| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/jobs/lt-construction-site-engineering-intern) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@larsentoubro.com) |
 
 </div>
     </td>
     <td width="50%" valign="top">
 <div align="center">
 
-#### Shapoorji Pallonji
+#### 🏛️ Shapoorji Pallonji
 | Field | Details |
 |:---|:---|
 | **Role** | Civil Design Intern |
-| **Location** | Pune, Maharashtra |
-| **Duration** | 6 Months |
-| **Stipend** | ₹12,000/month |
-| **Qual.** | B.Tech Civil |
-| **Skills** | Revit, Structural Analysis |
-| **Email** | hr@shapoorji.in |
-| **Posted** | March 8, 2026 |
-| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/search/?keywords=civil+design+intern+shapoorji) |
+| **Location** | 📍 Pune, Maharashtra |
+| **Stipend** | 💰 ₹12,000/month |
+| **Duration** | ⏱️ 6 Months |
+| **Qual.** | 🎓 B.Tech in Civil Engineering |
+| **Skills** | 🛠️ Revit, Structural Analysis |
+| **HR Email** | 📧 hr@shapoorji.in |
+| **Posted** | 📅 March 8, 2026 |
+| **Type** | 🏢 On-site |
+| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/jobs/shapoorji-pallonji-civil-design-intern) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hr@shapoorji.in) |
 
 </div>
     </td>
@@ -59,36 +51,38 @@
     <td width="50%" valign="top">
 <div align="center">
 
-#### NHAI
+#### 🛣️ NHAI
 | Field | Details |
 |:---|:---|
 | **Role** | Project Engineering Intern |
-| **Location** | New Delhi |
-| **Duration** | 2 Months |
-| **Stipend** | ₹10,000/month |
-| **Qual.** | B.Tech/Diploma Civil |
-| **Skills** | MS Project, Site Survey |
-| **Email** | recruitment@nhai.gov.in |
-| **Posted** | March 8, 2026 |
-| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/search/?keywords=civil+intern+NHAI+india) |
+| **Location** | 📍 New Delhi, Delhi |
+| **Stipend** | 💰 ₹10,000/month |
+| **Duration** | ⏱️ 2 Months |
+| **Qual.** | 🎓 B.Tech / Diploma in Civil |
+| **Skills** | 🛠️ MS Project, Surveying |
+| **HR Email** | 📧 recruitment@nhai.gov.in |
+| **Posted** | 📅 March 8, 2026 |
+| **Type** | 🏢 On-site |
+| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/jobs/nhai-project-engineering-intern) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:recruitment@nhai.gov.in) |
 
 </div>
     </td>
     <td width="50%" valign="top">
 <div align="center">
 
-#### Tata Projects
+#### 🔩 Tata Projects
 | Field | Details |
 |:---|:---|
 | **Role** | Construction Intern |
-| **Location** | Hyderabad, Telangana |
-| **Duration** | 3 Months |
-| **Stipend** | ₹12,000/month |
-| **Qual.** | B.Tech Civil |
-| **Skills** | STAAD Pro, Estimation |
-| **Email** | careers@tataprojects.com |
-| **Posted** | March 8, 2026 |
-| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/search/?keywords=construction+intern+tata+projects) |
+| **Location** | 📍 Hyderabad, Telangana |
+| **Stipend** | 💰 ₹12,000/month |
+| **Duration** | ⏱️ 3 Months |
+| **Qual.** | 🎓 B.Tech in Civil Engineering |
+| **Skills** | 🛠️ STAAD Pro, Cost Estimation |
+| **HR Email** | 📧 careers@tataprojects.com |
+| **Posted** | 📅 March 8, 2026 |
+| **Type** | 🏢 On-site |
+| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/jobs/tata-projects-construction-intern) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@tataprojects.com) |
 
 </div>
     </td>
@@ -97,36 +91,38 @@
     <td width="50%" valign="top">
 <div align="center">
 
-#### DLF Limited
+#### 🏙️ DLF Limited
 | Field | Details |
 |:---|:---|
 | **Role** | Structural Design Intern |
-| **Location** | Gurugram, Haryana |
-| **Duration** | 3 Months |
-| **Stipend** | ₹12,000/month |
-| **Qual.** | B.Tech Civil |
-| **Skills** | AutoCAD, ETABS, Structural Drawing |
-| **Email** | hr@dlf.in |
-| **Posted** | March 8, 2026 |
-| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/search/?keywords=structural+design+intern+DLF) |
+| **Location** | 📍 Gurugram, Haryana |
+| **Stipend** | 💰 ₹12,000/month |
+| **Duration** | ⏱️ 3 Months |
+| **Qual.** | 🎓 B.Tech in Civil Engineering |
+| **Skills** | 🛠️ AutoCAD, ETABS |
+| **HR Email** | 📧 hr@dlf.in |
+| **Posted** | 📅 March 8, 2026 |
+| **Type** | 🏢 On-site |
+| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/jobs/dlf-limited-structural-design-intern) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hr@dlf.in) |
 
 </div>
     </td>
     <td width="50%" valign="top">
 <div align="center">
 
-#### Afcons Infrastructure
+#### ⚙️ Afcons Infrastructure
 | Field | Details |
 |:---|:---|
 | **Role** | Civil Site Intern |
-| **Location** | Chennai, Tamil Nadu |
-| **Duration** | 6 Months |
-| **Stipend** | ₹10,000/month |
-| **Qual.** | B.Tech/Diploma Civil |
-| **Skills** | Site Supervision, Quality Control |
-| **Email** | careers@afcons.com |
-| **Posted** | March 8, 2026 |
-| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/search/?keywords=civil+site+intern+afcons) |
+| **Location** | 📍 Chennai, Tamil Nadu |
+| **Stipend** | 💰 ₹10,000/month |
+| **Duration** | ⏱️ 6 Months |
+| **Qual.** | 🎓 B.Tech / Diploma in Civil |
+| **Skills** | 🛠️ Site Supervision, QC |
+| **HR Email** | 📧 careers@afcons.com |
+| **Posted** | 📅 March 8, 2026 |
+| **Type** | 🏢 On-site |
+| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/jobs/afcons-infrastructure-civil-site-intern) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@afcons.com) |
 
 </div>
     </td>
@@ -135,8 +131,4 @@
 
 ---
 
-<div align="center">
-
 *Auto-updated daily at 8 PM IST by Oscar Bot · [🏠 Back to Main](../../README.md)*
-
-</div>

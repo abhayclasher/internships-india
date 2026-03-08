@@ -1,56 +1,48 @@
 # ⚗️ Chemical Engineering Internships in India
+### Complete List with Apply Links | Updated Daily
+**Last Updated:** March 8, 2026 | 8:00 PM IST
 
-## Complete List with Apply Links | Updated Daily
-
----
-
-<div align="center">
-
-### Last Updated: March 8, 2026 | 8:00 PM IST
-
-</div>
+![Total Listings](https://img.shields.io/badge/Total_Listings-6-brightgreen?style=flat-square) ![Field](https://img.shields.io/badge/Field-Chemical_Engineering-blue?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-Daily_8PM_IST-orange?style=flat-square)
 
 ---
-
-## 📋 Complete Internship Listings
-
-### ⚗️ Chemical & Process Engineering
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
 <div align="center">
 
-#### Reliance Industries
+#### 🏭 Reliance Industries
 | Field | Details |
 |:---|:---|
 | **Role** | Process Engineering Intern |
-| **Location** | Jamnagar, Gujarat |
-| **Duration** | 3 Months |
-| **Stipend** | ₹20,000/month |
-| **Qual.** | B.Tech Chemical |
-| **Skills** | ASPEN Plus, Process Simulation |
-| **Email** | campus.recruitment@ril.com |
-| **Posted** | March 8, 2026 |
-| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/search/?keywords=process+engineering+intern+reliance) |
+| **Location** | 📍 Jamnagar, Gujarat |
+| **Stipend** | 💰 ₹20,000/month |
+| **Duration** | ⏱️ 3 Months |
+| **Qual.** | 🎓 B.Tech in Chemical Engineering |
+| **Skills** | 🛠️ ASPEN Plus, Process Simulation |
+| **HR Email** | 📧 campus.recruitment@ril.com |
+| **Posted** | 📅 March 8, 2026 |
+| **Type** | 🏢 On-site |
+| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/jobs/reliance-industries-process-engineering-intern) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:campus.recruitment@ril.com) |
 
 </div>
     </td>
     <td width="50%" valign="top">
 <div align="center">
 
-#### ONGC
+#### 🛢️ ONGC
 | Field | Details |
 |:---|:---|
 | **Role** | Refinery Engineering Intern |
-| **Location** | Mumbai, Maharashtra |
-| **Duration** | 6 Months |
-| **Stipend** | ₹15,000/month |
-| **Qual.** | B.Tech Chemical |
-| **Skills** | Plant Operations, HSE, PFD |
-| **Email** | recruitment@ongc.co.in |
-| **Posted** | March 8, 2026 |
-| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/search/?keywords=refinery+intern+ONGC+india) |
+| **Location** | 📍 Mumbai, Maharashtra |
+| **Stipend** | 💰 ₹15,000/month |
+| **Duration** | ⏱️ 6 Months |
+| **Qual.** | 🎓 B.Tech in Chemical Engineering |
+| **Skills** | 🛠️ Plant Ops, HSE, PFD |
+| **HR Email** | 📧 recruitment@ongc.co.in |
+| **Posted** | 📅 March 8, 2026 |
+| **Type** | 🏢 On-site |
+| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/jobs/ongc-refinery-engineering-intern) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:recruitment@ongc.co.in) |
 
 </div>
     </td>
@@ -59,36 +51,38 @@
     <td width="50%" valign="top">
 <div align="center">
 
-#### BASF India
+#### 🔬 BASF India
 | Field | Details |
 |:---|:---|
 | **Role** | R&D Chemical Intern |
-| **Location** | Navi Mumbai, Maharashtra |
-| **Duration** | 3 Months |
-| **Stipend** | ₹18,000/month |
-| **Qual.** | B.Tech/B.Sc Chemical |
-| **Skills** | Lab Skills, HPLC, GC Analysis |
-| **Email** | careers.india@basf.com |
-| **Posted** | March 8, 2026 |
-| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/search/?keywords=RD+chemical+intern+BASF+india) |
+| **Location** | 📍 Navi Mumbai, Maharashtra |
+| **Stipend** | 💰 ₹18,000/month |
+| **Duration** | ⏱️ 3 Months |
+| **Qual.** | 🎓 B.Tech / B.Sc in Chemical |
+| **Skills** | 🛠️ HPLC, GC Analysis |
+| **HR Email** | 📧 careers.india@basf.com |
+| **Posted** | 📅 March 8, 2026 |
+| **Type** | 🏢 On-site |
+| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/jobs/basf-india-rd-chemical-intern) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers.india@basf.com) |
 
 </div>
     </td>
     <td width="50%" valign="top">
 <div align="center">
 
-#### Indian Oil Corporation
+#### ⛽ Indian Oil
 | Field | Details |
 |:---|:---|
 | **Role** | Technical Intern |
-| **Location** | Panipat, Haryana |
-| **Duration** | 2 Months |
-| **Stipend** | ₹12,000/month |
-| **Qual.** | B.Tech/Diploma Chemical |
-| **Skills** | Refinery Basics, Safety, P&ID |
-| **Email** | hr@indianoil.in |
-| **Posted** | March 8, 2026 |
-| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/search/?keywords=technical+intern+indian+oil) |
+| **Location** | 📍 Panipat, Haryana |
+| **Stipend** | 💰 ₹12,000/month |
+| **Duration** | ⏱️ 2 Months |
+| **Qual.** | 🎓 B.Tech / Diploma in Chemical |
+| **Skills** | 🛠️ Refinery Ops, Safety, P&ID |
+| **HR Email** | 📧 hr@indianoil.in |
+| **Posted** | 📅 March 8, 2026 |
+| **Type** | 🏢 On-site |
+| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/jobs/indian-oil-technical-intern) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hr@indianoil.in) |
 
 </div>
     </td>
@@ -97,36 +91,38 @@
     <td width="50%" valign="top">
 <div align="center">
 
-#### Tata Chemicals
+#### 🧪 Tata Chemicals
 | Field | Details |
 |:---|:---|
 | **Role** | Chemical Process Intern |
-| **Location** | Mithapur, Gujarat |
-| **Duration** | 3 Months |
-| **Stipend** | ₹14,000/month |
-| **Qual.** | B.Tech Chemical |
-| **Skills** | Process Control, PLC, Safety |
-| **Email** | careers@tatachemicals.com |
-| **Posted** | March 8, 2026 |
-| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/search/?keywords=chemical+process+intern+tata) |
+| **Location** | 📍 Mithapur, Gujarat |
+| **Stipend** | 💰 ₹14,000/month |
+| **Duration** | ⏱️ 3 Months |
+| **Qual.** | 🎓 B.Tech in Chemical Engineering |
+| **Skills** | 🛠️ Process Control, PLC |
+| **HR Email** | 📧 careers@tatachemicals.com |
+| **Posted** | 📅 March 8, 2026 |
+| **Type** | 🏢 On-site |
+| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/jobs/tata-chemicals-chemical-process-intern) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@tatachemicals.com) |
 
 </div>
     </td>
     <td width="50%" valign="top">
 <div align="center">
 
-#### UPL Limited
+#### 🌿 UPL Limited
 | Field | Details |
 |:---|:---|
 | **Role** | Agrochemical R&D Intern |
-| **Location** | Vapi, Gujarat |
-| **Duration** | 6 Months |
-| **Stipend** | ₹12,000/month |
-| **Qual.** | B.Tech/B.Sc Chemical |
-| **Skills** | Formulation, Lab Analysis, GC-MS |
-| **Email** | hr@upl-ltd.com |
-| **Posted** | March 8, 2026 |
-| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/search/?keywords=agrochemical+RD+intern+UPL) |
+| **Location** | 📍 Vapi, Gujarat |
+| **Stipend** | 💰 ₹12,000/month |
+| **Duration** | ⏱️ 6 Months |
+| **Qual.** | 🎓 B.Tech / B.Sc in Chemical |
+| **Skills** | 🛠️ Formulation, GC-MS |
+| **HR Email** | 📧 hr@upl-ltd.com |
+| **Posted** | 📅 March 8, 2026 |
+| **Type** | 🏢 On-site |
+| **Apply** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/jobs/upl-limited-agrochemical-rd-intern) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hr@upl-ltd.com) |
 
 </div>
     </td>
@@ -135,8 +131,4 @@
 
 ---
 
-<div align="center">
-
 *Auto-updated daily at 8 PM IST by Oscar Bot · [🏠 Back to Main](../../README.md)*
-
-</div>
