@@ -4,38 +4,8 @@
 
 ---
 
-*(Link Expired)*
-    </td>
-    <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
-    <td width="50%" valign="top">
-<div align="center">
 
-#### 🏢 Panacea Biotech
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | QC Intern |
-| **📍 Location** | Delhi, NCR |
-| **💰 Stipend** | ₹10,000/month |
-| **⏱️ Duration** | 3 Months |
-| **🎓 Qual.** | B.Sc Biotechnology |
-| **🛠️ Skills** | Microbiology, QA, Sterility Testing |
-| **📧 HR Email** | hr@panaceabiotech.com |
-| **📅 Posted** | March 8, 2026 |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4106456789/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hr@panaceabiotech.com)
-
-</div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
-    <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
-  </tr>
-</table>
+### 🆕 Fresh & Verified Listings (Updated Now)
 
 
 
@@ -56,7 +26,7 @@
 | **🎓 Qual.** | B.Tech / B.Sc / Diploma |
 | **🛠️ Skills** | As per JD |
 | **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 15 minutes ago |
+| **📅 Posted** | 6 hours ago |
 | **🏷️ Type** | 🏢 On-site |
 
 [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4381245708/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
@@ -69,12 +39,3 @@
   </tr>
 </table>
 
----
-
-<div align="center">
-
-*🤖 Auto-updated daily at 8:00 PM IST by Oscar Bot · [🏠 Back to Main](../../README.md)*
-
-**Last Sync: March 08, 2026 | 8:00 PM IST**
-
-</div>

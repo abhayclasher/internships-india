@@ -4,81 +4,8 @@
 
 ---
 
-<div align="center">
 
-### 🕐 Last Updated: March 08, 2026 | 8:00 PM IST
-
-![Listings](https://img.shields.io/badge/Listings-6%2B-brightgreen?style=flat-square) ![Field](https://img.shields.io/badge/Field-Electrical_Engineering-blue?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-Daily_8PM_IST-orange?style=flat-square)
-
-</div>
-
----
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 ABB India
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | Electrical Systems Intern |
-| **📍 Location** | Bengaluru, Karnataka |
-| **💰 Stipend** | ₹18,000/month |
-| **⏱️ Duration** | 3 Months |
-| **🎓 Qual.** | B.Tech EE/ECE |
-| **🛠️ Skills** | PLC, SCADA, Drives |
-| **📧 HR Email** | hr.india@abb.com |
-| **📅 Posted** | March 8, 2026 |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4094123456/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hr.india@abb.com)
-
-</div>
-    </td>
-    <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
-    <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
-    <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
-  </tr>
-</table>
-
-
-
-### 🆕 Latest Listings
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 UnlockDiscounts
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | Video Editor Intern - Unpaid Internship |
-| **📍 Location** | Bengaluru, Karnataka, India |
-| **💰 Stipend** | Competitive |
-| **⏱️ Duration** | 3-6 Months |
-| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
-| **🛠️ Skills** | As per JD |
-| **📧 HR Email** | careers@company.com |
-| **📅 Posted** | March 08, 2026 |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4381394544/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
-
-</div>
-    </td>
-    <td width="50%" valign="top">
-<div align="center"></div>
-    </td>
-  </tr>
-</table>
+### 🆕 Fresh & Verified Listings (Updated Now)
 
 
 
@@ -99,7 +26,7 @@
 | **🎓 Qual.** | B.Tech / B.Sc / Diploma |
 | **🛠️ Skills** | As per JD |
 | **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 2 days ago |
+| **📅 Posted** | 3 days ago |
 | **🏷️ Type** | 🏢 On-site |
 
 [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4379379985/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
@@ -119,7 +46,7 @@
 | **🎓 Qual.** | B.Tech / B.Sc / Diploma |
 | **🛠️ Skills** | As per JD |
 | **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 2 days ago |
+| **📅 Posted** | 3 days ago |
 | **🏷️ Type** | 🏢 On-site |
 
 [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4380438685/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
@@ -189,7 +116,7 @@
 | **🎓 Qual.** | B.Tech / B.Sc / Diploma |
 | **🛠️ Skills** | As per JD |
 | **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 4 days ago |
+| **📅 Posted** | 5 days ago |
 | **🏷️ Type** | 🏢 On-site |
 
 [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4380186925/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
@@ -202,12 +129,3 @@
   </tr>
 </table>
 
----
-
-<div align="center">
-
-*🤖 Auto-updated daily at 8:00 PM IST by Oscar Bot · [🏠 Back to Main](../../README.md)*
-
-**Last Sync: March 08, 2026 | 8:00 PM IST**
-
-</div>
