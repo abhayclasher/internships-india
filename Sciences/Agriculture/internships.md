@@ -4,37 +4,7 @@
 
 ---
 
-<div align="center">
-
-### 🕐 Last Updated: March 08, 2026 | 8:00 PM IST
-
-![Listings](https://img.shields.io/badge/Listings-6%2B-brightgreen?style=flat-square) ![Field](https://img.shields.io/badge/Field-Agriculture-blue?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-Daily_8PM_IST-orange?style=flat-square)
-
-</div>
-
----
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 ITC Agribusiness
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | Agri Intern |
-| **📍 Location** | Hyderabad, Telangana |
-| **💰 Stipend** | ₹15,000/month |
-| **⏱️ Duration** | 3 Months |
-| **🎓 Qual.** | B.Sc Agriculture |
-| **🛠️ Skills** | Crop Science, Supply Chain |
-| **📧 HR Email** | campus@itc.in |
-| **📅 Posted** | March 8, 2026 |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4118123456/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:campus@itc.in)
-
-</div>
+*(Link Expired)*
     </td>
     <td width="50%" valign="top">
 <div align="center">
@@ -58,26 +28,7 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 Nuziveedu Seeds
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | Plant Breeding Intern |
-| **📍 Location** | Hyderabad, Telangana |
-| **💰 Stipend** | ₹10,000/month |
-| **⏱️ Duration** | 3 Months |
-| **🎓 Qual.** | B.Sc Agriculture/Botany |
-| **🛠️ Skills** | Plant Breeding, Genetics |
-| **📧 HR Email** | hr@nuziveedu.com |
-| **📅 Posted** | March 8, 2026 |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4116345678/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hr@nuziveedu.com)
-
-</div>
-    </td>
+    <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
     <td width="50%" valign="top">
 <div align="center">
 
@@ -120,26 +71,7 @@
 
 </div>
     </td>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 Godrej Agrovet
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | Agri Business Intern |
-| **📍 Location** | Mumbai, Maharashtra |
-| **💰 Stipend** | ₹18,000/month |
-| **⏱️ Duration** | 3 Months |
-| **🎓 Qual.** | B.Sc Agriculture/MBA Agri |
-| **🛠️ Skills** | Farm Advisory, Sales |
-| **📧 HR Email** | careers@godrejagrovet.com |
-| **📅 Posted** | March 8, 2026 |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4113678901/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@godrejagrovet.com)
-
-</div>
-    </td>
+    <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
   </tr>
 </table>
 

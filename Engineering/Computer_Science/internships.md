@@ -4,100 +4,13 @@
 
 ---
 
-<div align="center">
-
-### 🕐 Last Updated: March 08, 2026 | 8:00 PM IST
-
-![Listings](https://img.shields.io/badge/Listings-6%2B-brightgreen?style=flat-square) ![Field](https://img.shields.io/badge/Field-Computer_Science-blue?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-Daily_8PM_IST-orange?style=flat-square)
-
-</div>
-
----
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 TCS
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | Software Intern |
-| **📍 Location** | Chennai, Tamil Nadu |
-| **💰 Stipend** | ₹15,000/month |
-| **⏱️ Duration** | 6 Months |
-| **🎓 Qual.** | B.Tech CS/IT |
-| **🛠️ Skills** | Java, Python, SQL |
-| **📧 HR Email** | campus@tcs.com |
-| **📅 Posted** | March 8, 2026 |
-| **🏷️ Type** | 🔄 Hybrid |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4082534910/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:campus@tcs.com)
-
-</div>
+*(Link Expired)*
     </td>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 Infosys
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | Systems Engineer Intern |
-| **📍 Location** | Pune, Maharashtra |
-| **💰 Stipend** | ₹18,000/month |
-| **⏱️ Duration** | 6 Months |
-| **🎓 Qual.** | B.Tech CS/IT |
-| **🛠️ Skills** | Java, .NET, Agile |
-| **📧 HR Email** | campus@infosys.com |
-| **📅 Posted** | March 8, 2026 |
-| **🏷️ Type** | 🔄 Hybrid |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4081234567/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:campus@infosys.com)
-
-</div>
-    </td>
+    <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 Wipro
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | Developer Intern |
-| **📍 Location** | Bengaluru, Karnataka |
-| **💰 Stipend** | ₹15,000/month |
-| **⏱️ Duration** | 3 Months |
-| **🎓 Qual.** | B.Tech CS/IT |
-| **🛠️ Skills** | Python, REST APIs |
-| **📧 HR Email** | careers@wipro.com |
-| **📅 Posted** | March 8, 2026 |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4079876543/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@wipro.com)
-
-</div>
-    </td>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 HCL Tech
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | Software Dev Intern |
-| **📍 Location** | Noida, Uttar Pradesh |
-| **💰 Stipend** | ₹15,000/month |
-| **⏱️ Duration** | 6 Months |
-| **🎓 Qual.** | B.Tech CS/IT |
-| **🛠️ Skills** | Java, Spring Boot |
-| **📧 HR Email** | careers@hcltech.com |
-| **📅 Posted** | March 8, 2026 |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4078765432/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@hcltech.com)
-
-</div>
-    </td>
+    <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
+    <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
   </tr>
   <tr>
     <td width="50%" valign="top">
@@ -120,26 +33,7 @@
 
 </div>
     </td>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 PhonePe
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | SDE Intern |
-| **📍 Location** | Bengaluru, Karnataka |
-| **💰 Stipend** | ₹50,000/month |
-| **⏱️ Duration** | 3 Months |
-| **🎓 Qual.** | B.Tech CS |
-| **🛠️ Skills** | Java, Kotlin, Microservices |
-| **📧 HR Email** | careers@phonepe.com |
-| **📅 Posted** | March 8, 2026 |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4076543210/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@phonepe.com)
-
-</div>
-    </td>
+    <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
   </tr>
 </table>
 

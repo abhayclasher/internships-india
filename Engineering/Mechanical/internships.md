@@ -78,26 +78,7 @@
 
 </div>
     </td>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 BHEL
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | Plant Engineering Intern |
-| **📍 Location** | Bhopal, Madhya Pradesh |
-| **💰 Stipend** | ₹10,000/month |
-| **⏱️ Duration** | 2 Months |
-| **🎓 Qual.** | B.Tech/Diploma Mechanical |
-| **🛠️ Skills** | Thermal, Turbine, Plant Ops |
-| **📧 HR Email** | recruitment@bhel.in |
-| **📅 Posted** | March 8, 2026 |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4088456789/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:recruitment@bhel.in)
-
-</div>
-    </td>
+    <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
   </tr>
   <tr>
     <td width="50%" valign="top">
