@@ -131,3 +131,215 @@
   </tr>
 </table>
 
+
+
+### 🆕 Latest Listings
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### 🏢 Material Intelligence Lab
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | CAD Design Internship in Vadodara |
+| **📍 Location** | Vadodara, Gujarat, India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 3 weeks ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4372177712/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
+    </td>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### 🏢 Corning Incorporated
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | R&amp;D Intern- OpenFOAM ( Location:Baner, Pune) |
+| **📍 Location** | Khed, Maharashtra, India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 3 weeks ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4361768243/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### 🏢 Accrue Progressiv LLP
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | Composites technician intern |
+| **📍 Location** | Hyderabad, Telangana, India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 1 week ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4376075384/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
+    </td>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### 🏢 MacDermid Alpha Electronics Solutions
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | Sales Intern |
+| **📍 Location** | Chennai, Tamil Nadu, India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 1 week ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4354833569/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### 🏢 Pon Pure Chemicals Group
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | Marketing Intern |
+| **📍 Location** | Chennai, Tamil Nadu, India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 2 weeks ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4372504760/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
+    </td>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### 🏢 Tsaaro Consulting
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | Finance Intern |
+| **📍 Location** | Noida, Uttar Pradesh, India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 3 weeks ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4370423631/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### 🏢 CollegePur
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | Human Resources Intern |
+| **📍 Location** | Ghaziabad, Uttar Pradesh, India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 2 days ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4380662874/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
+    </td>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### 🏢 Indomax Multitrades
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | Process Coordinator Internship in Pune |
+| **📍 Location** | Pune Division, Maharashtra, India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 2 weeks ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4375068342/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### 🏢 Subspace
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | Software Development Internship in Bangalore (Hybrid) |
+| **📍 Location** | Bengaluru, Karnataka, India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 4 days ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4380591627/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
+    </td>
+    <td width="50%" valign="top">
+<div align="center"></div>
+    </td>
+  </tr>
+</table>
+

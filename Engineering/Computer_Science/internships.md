@@ -123,71 +123,14 @@
 
 </div>
     </td>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 Axl Labs
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | Full Stack Developer Intern |
-| **📍 Location** | India |
-| **💰 Stipend** | Competitive |
-| **⏱️ Duration** | 3-6 Months |
-| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
-| **🛠️ Skills** | As per JD |
-| **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 2 days ago |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4380495862/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
-
-</div>
-    </td>
+    <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
   </tr>
 </table>
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 SkilloVilla
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | Backend Developer Intern |
-| **📍 Location** | Bengaluru, Karnataka, India |
-| **💰 Stipend** | Competitive |
-| **⏱️ Duration** | 3-6 Months |
-| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
-| **🛠️ Skills** | As per JD |
-| **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 2 days ago |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4380697957/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
-
-</div>
-    </td>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 Dialabank.com
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | AI Software Engineer Internship in Chandigarh, Sahibzada Ajit Singh, Haryana, Uttarakhand, Punjab, Chandigarh, Mohali, Mohali, Sahibzada Ajit Singh Nagar |
-| **📍 Location** | Haryana, India |
-| **💰 Stipend** | Competitive |
-| **⏱️ Duration** | 3-6 Months |
-| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
-| **🛠️ Skills** | As per JD |
-| **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 1 day ago |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4382303650/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
-
-</div>
-    </td>
+    <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
+    <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
   </tr>
 </table>
 
@@ -242,91 +185,15 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 Bosscoder Academy
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | Software Engineer Internship in Noida |
-| **📍 Location** | Noida, Uttar Pradesh, India |
-| **💰 Stipend** | Competitive |
-| **⏱️ Duration** | 3-6 Months |
-| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
-| **🛠️ Skills** | As per JD |
-| **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 1 week ago |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4378044837/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
-
-</div>
-    </td>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 Virtual Internships
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | Software Development Intern (Fully Remote) |
-| **📍 Location** | Bengaluru, Karnataka, India |
-| **💰 Stipend** | Competitive |
-| **⏱️ Duration** | 3-6 Months |
-| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
-| **🛠️ Skills** | As per JD |
-| **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 1 week ago |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4378381638/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
-
-</div>
-    </td>
+    <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
+    <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
   </tr>
 </table>
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 Sense
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | Software Engineering Intern – Backend |
-| **📍 Location** | Bengaluru, Karnataka, India |
-| **💰 Stipend** | Competitive |
-| **⏱️ Duration** | 3-6 Months |
-| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
-| **🛠️ Skills** | As per JD |
-| **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 1 day ago |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4380814968/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
-
-</div>
-    </td>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 BIG HAPPY
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | Software Developer Intern |
-| **📍 Location** | Chandigarh, Chandigarh, India |
-| **💰 Stipend** | Competitive |
-| **⏱️ Duration** | 3-6 Months |
-| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
-| **🛠️ Skills** | As per JD |
-| **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 4 days ago |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4380576052/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
-
-</div>
-    </td>
+    <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
+    <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
   </tr>
 </table>
 
@@ -442,6 +309,197 @@
 
 </div>
     </td>
+    <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### 🏢 kaushalsaathi
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | Frontend Developer Intern |
+| **📍 Location** | India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 6 hours ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4381505651/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
+    </td>
+  </tr>
+</table>
+
+
+
+### 🆕 Latest Listings
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### 🏢 Bosscoder Academy
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | Software Engineer Internship in Noida |
+| **📍 Location** | Noida, Uttar Pradesh, India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 1 week ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4378044837/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
+    </td>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### 🏢 Virtual Internships
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | Software Development Intern (Fully Remote) |
+| **📍 Location** | Bengaluru, Karnataka, India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 1 week ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4378381638/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### 🏢 Sense
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | Software Engineering Intern – Backend |
+| **📍 Location** | Bengaluru, Karnataka, India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 1 day ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4380814968/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
+    </td>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### 🏢 BIG HAPPY
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | Software Developer Intern |
+| **📍 Location** | Chandigarh, Chandigarh, India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 4 days ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4380576052/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### 🏢 Axl Labs
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | Full Stack Developer Intern |
+| **📍 Location** | India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 2 days ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4380495862/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
+    </td>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### 🏢 SkilloVilla
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | Backend Developer Intern |
+| **📍 Location** | Bengaluru, Karnataka, India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 2 days ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4380697957/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### 🏢 Dialabank.com
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | AI Software Engineer Internship in Chandigarh, Sahibzada Ajit Singh, Haryana, Uttarakhand, Punjab, Chandigarh, Mohali, Mohali, Sahibzada Ajit Singh Nagar |
+| **📍 Location** | Haryana, India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 1 day ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4382303650/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
+    </td>
     <td width="50%" valign="top">
 <div align="center">
 
@@ -480,7 +538,7 @@
 | **🎓 Qual.** | B.Tech / B.Sc / Diploma |
 | **🛠️ Skills** | As per JD |
 | **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 1 hour ago |
+| **📅 Posted** | 2 hours ago |
 | **🏷️ Type** | 🏢 On-site |
 
 [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4381265373/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
@@ -488,24 +546,7 @@
 </div>
     </td>
     <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 kaushalsaathi
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | Frontend Developer Intern |
-| **📍 Location** | India |
-| **💰 Stipend** | Competitive |
-| **⏱️ Duration** | 3-6 Months |
-| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
-| **🛠️ Skills** | As per JD |
-| **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 6 hours ago |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4381505651/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
-
-</div>
+<div align="center"></div>
     </td>
   </tr>
 </table>
