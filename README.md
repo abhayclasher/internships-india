@@ -1,51 +1,66 @@
 # 🎓 Internships India
-> **Automated curation of high-quality internship opportunities across diverse engineering and science fields in India.**
+> **Automated curation of high-quality internship opportunities across diverse engineering, science & management fields in India.**
 
 ---
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Last_Updated-Daily-orange?style=for-the-badge" alt="Last Updated">
+  <img src="https://img.shields.io/badge/Last_Updated-Daily_8PM_IST-orange?style=for-the-badge" alt="Last Updated">
   <img src="https://img.shields.io/badge/Made_with-Python-blue?style=for-the-badge&logo=python" alt="Python">
   <img src="https://img.shields.io/badge/Automation-Composio-red?style=for-the-badge" alt="Automation">
+  <img src="https://img.shields.io/badge/Listings-200%2B-brightgreen?style=for-the-badge" alt="Listings">
 </p>
 
+---
+
 ## 📌 Overview
-This repository serves as a centralized hub for students in India to find internships tailored to their specific fields of study. Our AI-powered automation engine scripts LinkedIn daily to fetch the latest opportunities, ensuring you never miss a deadline.
+Centralized hub for students in India to find internships tailored to their field of study. Our AI-powered engine scrapes LinkedIn daily, deduplicates listings, and auto-publishes — so you always get fresh, real opportunities.
 
 ---
 
 ## 🚀 Quick Navigation
-Find internships curated by your branch or qualification:
 
-### 🏢 By Branch
-| Category | Field | Links |
+### 💻 Tech & Engineering
+| Field | Description | Browse |
 | :--- | :--- | :--- |
-| 💻 **Tech & Engineering** | CS, IT, Software | [Browse](./Engineering/Computer_Science/internships.md) |
-| ⚙️ **Mechanical** | Manufacturing, Design | [Browse](./Engineering/Mechanical/internships.md) |
-| ⚡ **Electrical** | Electronics, VLSI | [Browse](./Engineering/Electrical/internships.md) |
-| 🧬 **Biotechnology** | Research, Genetics | [Browse](./Sciences/Biotechnology/internships.md) |
-| 🔬 **Life Sciences** | Pharma, Biomedical | [Browse](./Sciences/Life_Sciences/internships.md) |
-| 💊 **Pharmaceutical** | Drug Tech, QC | [Browse](./Sciences/Pharmaceutical/internships.md) |
-| 🌾 **Agriculture** | Agrotech, Food Tech | [Browse](./Sciences/Agriculture/internships.md) |
+| 🖥️ **Computer Science** | Software, Web, Backend, Fullstack | [Browse](./Engineering/Computer_Science/internships.md) |
+| 🤖 **AI & ML** | Deep Learning, NLP, Computer Vision | [Browse](./Engineering/AI_ML/internships.md) |
+| 📊 **Data Science** | Analytics, BI, Data Engineering | [Browse](./Engineering/Data_Science/internships.md) |
+| 🎨 **UI/UX Design** | Product Design, Interaction Design | [Browse](./Engineering/UI_UX_Design/internships.md) |
+| ⚙️ **Mechanical** | Manufacturing, Design, Automotive | [Browse](./Engineering/Mechanical/internships.md) |
+| ⚡ **Electrical** | Electronics, VLSI, Embedded | [Browse](./Engineering/Electrical/internships.md) |
+| 🏗️ **Civil** | Construction, Structural, Infrastructure | [Browse](./Engineering/Civil/internships.md) |
+| ⚗️ **Chemical** | Process, Refinery, R&D | [Browse](./Engineering/Chemical/internships.md) |
+
+### 🔬 Sciences
+| Field | Description | Browse |
+| :--- | :--- | :--- |
+| 🧬 **Biotechnology** | Research, Genetics, Bioprocess | [Browse](./Sciences/Biotechnology/internships.md) |
+| 🔬 **Life Sciences** | Pharma, Biomedical, Microbiology | [Browse](./Sciences/Life_Sciences/internships.md) |
+| 💊 **Pharmaceutical** | Drug Tech, QC, Regulatory | [Browse](./Sciences/Pharmaceutical/internships.md) |
+| 🌾 **Agriculture** | Agrotech, Food Tech, Plant Science | [Browse](./Sciences/Agriculture/internships.md) |
+
+### 💼 Management
+| Field | Description | Browse |
+| :--- | :--- | :--- |
+| 📈 **MBA / Management** | Strategy, Finance, Marketing, Ops | [Browse](./Management/internships.md) |
 
 ### 🎓 By Degree
-| Degree | Description | Opportunities |
+| Degree | Description | Browse |
 | :--- | :--- | :--- |
-| 🎓 **B.Tech** | Engineering & Technology | [Explore](./Degrees/btech_internships.md) |
-| 🧪 **B.Sc** | Science & Research | [Explore](./Degrees/bsc_internships.md) |
-| 📜 **Diploma** | Technical & Vocational | [Explore](./Degrees/diploma_internships.md) |
+| 🎓 **B.Tech** | Engineering & Technology | [Browse](./Degrees/btech_internships.md) |
+| 🧪 **B.Sc** | Science & Research | [Browse](./Degrees/bsc_internships.md) |
+| 📜 **Diploma** | Technical & Vocational | [Browse](./Degrees/diploma_internships.md) |
 
 ---
 
-## 🛠️ How it Works
-The system is fully automated to provide real-time updates:
+## 🛠️ How It Works
 
-1. **Scraping**: A Python engine uses customized scrapers (LinkedIn Job Guest API) to find high-relevancy internships.
-2. **Filtering**: Opportunities are filtered based on qualifications (B.Tech, B.Sc, Diploma, etc.) and expanded search depth.
-3. **Premium UI**: Automatically generates **"Apply Now"** buttons for a better user experience.
-4. **Daily Update**: Scheduled via **Composio** to run every day at **8:00 PM IST**.
-5. **Auto-Publish**: The bot automatically commits and pushes new listings to this repository.
+1. **🔍 Scraping** — Python engine fetches internships from LinkedIn daily for all fields & qualifications
+2. **🔄 Deduplication** — Apply links are tracked to avoid duplicate listings
+3. **📁 Categorization** — Listings sorted by field (CS, AI/ML, Civil etc.) and qualification (B.Tech, B.Sc, Diploma)
+4. **⏰ Scheduling** — Runs every day at **8:00 PM IST** via Composio automation
+5. **🚀 Auto-Publish** — Commits and pushes new listings automatically to this repo
 
 ---
 
@@ -64,6 +79,6 @@ The system is fully automated to provide real-time updates:
 ---
 
 <p align="center">
-  <b>Total Opportunities Curated: 100+ and growing!</b><br>
+  <b>200+ Opportunities Curated & Growing Daily! 🚀</b><br>
   <sub>Maintained with ❤️ by <b>Oscar Bot</b></sub>
 </p>
