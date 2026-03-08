@@ -1,23 +1,142 @@
-# 📊 Data Science Internships India
+# 📊 Data Science Internships in India
 
-> Curated Data Science internships for B.Tech (CS/IT/ECE), B.Sc (Stats/Maths/CS) students across India. Updated daily at 8 PM IST.
-
-![Last Updated](https://img.shields.io/badge/Last_Updated-Daily-orange?style=flat-square)
-![Field](https://img.shields.io/badge/Field-Data_Science-purple?style=flat-square)
-
-> 💡 **Note:** Data Science is under Tech & Engineering. Also check [AI/ML](../AI_ML/internships.md) and [CS](../Computer_Science/internships.md) for related roles.
+## Complete List with Apply Links | Updated Daily
 
 ---
 
-## 📋 Internship Listings
+<div align="center">
 
-| Company | Role | Location | Stipend | Duration | Qualification | Skills Required | Apply | Posted |
-|---------|------|----------|---------|----------|---------------|-----------------|-------|--------|
-| Flipkart | Data Science Intern | Bengaluru, KA | ₹40,000/mo | 3 Months | B.Tech CS/IT | Python, SQL, Pandas, ML | [Apply](https://www.linkedin.com/jobs/) | 2026-03-08 |
-| Mu Sigma | Business Analyst Intern | Bengaluru, KA | ₹25,000/mo | 6 Months | B.Tech/B.Sc Stats/CS | Excel, Python, Statistics | [Apply](https://www.linkedin.com/jobs/) | 2026-03-08 |
-| Fractal Analytics | Data Analyst Intern | Mumbai, MH | ₹30,000/mo | 3 Months | B.Tech CS/Maths | R, Python, Tableau | [Apply](https://www.linkedin.com/jobs/) | 2026-03-08 |
-| Ola | Data Science Intern | Bengaluru, KA | ₹35,000/mo | 6 Months | B.Tech CS/IT | PySpark, SQL, ML Models | [Apply](https://www.linkedin.com/jobs/) | 2026-03-08 |
-| Meesho | Data Intern | Bengaluru, KA | ₹30,000/mo | 3 Months | B.Tech/B.Sc CS/Stats | Python, SQL, A/B Testing | [Apply](https://www.linkedin.com/jobs/) | 2026-03-08 |
+### Last Updated: March 8, 2026 | 8:00 PM IST
+
+</div>
 
 ---
-*Auto-updated by Oscar Bot · [Back to Main](../../README.md)*
+
+## 📋 Complete Internship Listings
+
+### 📊 Data Science & Analytics
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### Flipkart
+| Field | Details |
+|:---|:---|
+| **Role** | Data Science Intern |
+| **Location** | Bengaluru, Karnataka |
+| **Duration** | 3 Months |
+| **Stipend** | ₹40,000/month |
+| **Qual.** | B.Tech CS/IT, B.Sc Stats/Maths |
+| **Skills** | Python, SQL, Pandas, ML |
+| **Email** | campus@flipkart.com |
+| **Posted** | March 8, 2026 |
+| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/search/?keywords=data+science+intern+flipkart) |
+
+</div>
+    </td>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### Mu Sigma
+| Field | Details |
+|:---|:---|
+| **Role** | Business Analyst Intern |
+| **Location** | Bengaluru, Karnataka |
+| **Duration** | 6 Months |
+| **Stipend** | ₹25,000/month |
+| **Qual.** | B.Tech/B.Sc Stats/CS |
+| **Skills** | Excel, Python, Statistics |
+| **Email** | careers@mu-sigma.com |
+| **Posted** | March 8, 2026 |
+| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/search/?keywords=business+analyst+intern+mu+sigma) |
+
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### Fractal Analytics
+| Field | Details |
+|:---|:---|
+| **Role** | Data Analyst Intern |
+| **Location** | Mumbai, Maharashtra |
+| **Duration** | 3 Months |
+| **Stipend** | ₹30,000/month |
+| **Qual.** | B.Tech CS/Maths, B.Sc Stats |
+| **Skills** | R, Python, Tableau |
+| **Email** | hr@fractal.ai |
+| **Posted** | March 8, 2026 |
+| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/search/?keywords=data+analyst+intern+fractal) |
+
+</div>
+    </td>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### Ola
+| Field | Details |
+|:---|:---|
+| **Role** | Data Science Intern |
+| **Location** | Bengaluru, Karnataka |
+| **Duration** | 6 Months |
+| **Stipend** | ₹35,000/month |
+| **Qual.** | B.Tech CS/IT |
+| **Skills** | PySpark, SQL, ML Models |
+| **Email** | talent@olacabs.com |
+| **Posted** | March 8, 2026 |
+| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/search/?keywords=data+science+intern+ola) |
+
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### Meesho
+| Field | Details |
+|:---|:---|
+| **Role** | Data Intern |
+| **Location** | Bengaluru, Karnataka |
+| **Duration** | 3 Months |
+| **Stipend** | ₹30,000/month |
+| **Qual.** | B.Tech/B.Sc CS/Stats |
+| **Skills** | Python, SQL, A/B Testing |
+| **Email** | careers@meesho.com |
+| **Posted** | March 8, 2026 |
+| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/search/?keywords=data+intern+meesho) |
+
+</div>
+    </td>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### Razorpay
+| Field | Details |
+|:---|:---|
+| **Role** | Data Analytics Intern |
+| **Location** | Bengaluru, Karnataka |
+| **Duration** | 3 Months |
+| **Stipend** | ₹35,000/month |
+| **Qual.** | B.Tech CS/IT, B.Sc Stats |
+| **Skills** | SQL, Python, Looker, Metabase |
+| **Email** | careers@razorpay.com |
+| **Posted** | March 8, 2026 |
+| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/search/?keywords=data+analytics+intern+razorpay) |
+
+</div>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+*Auto-updated daily at 8 PM IST by Oscar Bot · [🏠 Back to Main](../../README.md)*
+
+</div>

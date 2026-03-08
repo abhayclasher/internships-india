@@ -1,21 +1,142 @@
-# 💼 Management & MBA Internships India
+# 💼 Management & MBA Internships in India
 
-> Curated management, business & MBA internships for students across India. Updated daily at 8 PM IST.
-
-![Last Updated](https://img.shields.io/badge/Last_Updated-Daily-orange?style=flat-square)
-![Field](https://img.shields.io/badge/Field-Management-gold?style=flat-square)
+## Complete List with Apply Links | Updated Daily
 
 ---
 
-## 📋 Internship Listings
+<div align="center">
 
-| Company | Role | Location | Stipend | Duration | Qualification | Skills Required | Apply | Posted |
-|---------|------|----------|---------|----------|---------------|-----------------|-------|--------|
-| Deloitte India | Business Analyst Intern | Mumbai, MH | ₹40,000/mo | 3 Months | MBA/BBA | Excel, PPT, Business Analysis | [Apply](https://www.linkedin.com/jobs/) | 2026-03-08 |
-| BCG | Strategy Intern | Mumbai, MH | ₹60,000/mo | 2 Months | MBA | Case Studies, Analytics | [Apply](https://www.linkedin.com/jobs/) | 2026-03-08 |
-| Amazon India | Operations Intern | Bengaluru, KA | ₹35,000/mo | 3 Months | MBA/B.Tech | Supply Chain, Logistics | [Apply](https://www.linkedin.com/jobs/) | 2026-03-08 |
-| Unilever | Marketing Intern | Mumbai, MH | ₹30,000/mo | 2 Months | MBA Marketing | Brand Management, Market Research | [Apply](https://www.linkedin.com/jobs/) | 2026-03-08 |
-| KPMG | Finance Intern | Delhi, DL | ₹25,000/mo | 3 Months | MBA Finance/BBA | Accounting, Tally, Excel | [Apply](https://www.linkedin.com/jobs/) | 2026-03-08 |
+### Last Updated: March 8, 2026 | 8:00 PM IST
+
+</div>
 
 ---
-*Auto-updated by Oscar Bot · [Back to Main](../../README.md)*
+
+## 📋 Complete Internship Listings
+
+### 💼 Business, Strategy & Management
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### Deloitte India
+| Field | Details |
+|:---|:---|
+| **Role** | Business Analyst Intern |
+| **Location** | Mumbai, Maharashtra |
+| **Duration** | 3 Months |
+| **Stipend** | ₹40,000/month |
+| **Qual.** | MBA/BBA |
+| **Skills** | Excel, PPT, Business Analysis |
+| **Email** | india-campus@deloitte.com |
+| **Posted** | March 8, 2026 |
+| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/search/?keywords=business+analyst+intern+deloitte+india) |
+
+</div>
+    </td>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### BCG India
+| Field | Details |
+|:---|:---|
+| **Role** | Strategy Consulting Intern |
+| **Location** | Mumbai, Maharashtra |
+| **Duration** | 2 Months |
+| **Stipend** | ₹60,000/month |
+| **Qual.** | MBA |
+| **Skills** | Case Studies, Analytics, PPT |
+| **Email** | india-campus@bcg.com |
+| **Posted** | March 8, 2026 |
+| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/search/?keywords=strategy+consulting+intern+BCG+india) |
+
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### Amazon India
+| Field | Details |
+|:---|:---|
+| **Role** | Operations Intern |
+| **Location** | Bengaluru, Karnataka |
+| **Duration** | 3 Months |
+| **Stipend** | ₹35,000/month |
+| **Qual.** | MBA/B.Tech |
+| **Skills** | Supply Chain, Logistics, SQL |
+| **Email** | india-campus@amazon.com |
+| **Posted** | March 8, 2026 |
+| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/search/?keywords=operations+intern+amazon+india) |
+
+</div>
+    </td>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### Hindustan Unilever
+| Field | Details |
+|:---|:---|
+| **Role** | Marketing Intern |
+| **Location** | Mumbai, Maharashtra |
+| **Duration** | 2 Months |
+| **Stipend** | ₹30,000/month |
+| **Qual.** | MBA Marketing |
+| **Skills** | Brand Management, Market Research |
+| **Email** | campus.hul@unilever.com |
+| **Posted** | March 8, 2026 |
+| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/search/?keywords=marketing+intern+HUL+india) |
+
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### KPMG India
+| Field | Details |
+|:---|:---|
+| **Role** | Finance Intern |
+| **Location** | New Delhi |
+| **Duration** | 3 Months |
+| **Stipend** | ₹25,000/month |
+| **Qual.** | MBA Finance/BBA/B.Com |
+| **Skills** | Accounting, Tally, Excel, GST |
+| **Email** | india-campus@kpmg.com |
+| **Posted** | March 8, 2026 |
+| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/search/?keywords=finance+intern+KPMG+india) |
+
+</div>
+    </td>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### Paytm
+| Field | Details |
+|:---|:---|
+| **Role** | Product Management Intern |
+| **Location** | Noida, Uttar Pradesh |
+| **Duration** | 3 Months |
+| **Stipend** | ₹30,000/month |
+| **Qual.** | MBA/B.Tech |
+| **Skills** | Product Thinking, SQL, Jira |
+| **Email** | campus@paytm.com |
+| **Posted** | March 8, 2026 |
+| **Link** | [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/search/?keywords=product+management+intern+paytm) |
+
+</div>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+*Auto-updated daily at 8 PM IST by Oscar Bot · [🏠 Back to Main](../../README.md)*
+
+</div>
