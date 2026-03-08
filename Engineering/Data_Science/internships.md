@@ -395,26 +395,7 @@
 
 </div>
     </td>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 ACSASS IT|ITES
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | Data Analyst Internship in Chennai |
-| **📍 Location** | Chennai, Tamil Nadu, India |
-| **💰 Stipend** | Competitive |
-| **⏱️ Duration** | 3-6 Months |
-| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
-| **🛠️ Skills** | As per JD |
-| **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 2 weeks ago |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4373890060/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
-
-</div>
-    </td>
+    <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
   </tr>
 </table>
 
@@ -440,26 +421,13 @@
 
 </div>
     </td>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 Career Domain
+    <td width="50%" valign="top"><div align="center">
+#### 🏢 Closed
 | Field | Details |
 |:---|:---|
-| **🎯 Role** | Business Analytics Internship in Nagpur |
-| **📍 Location** | Nagpur, Maharashtra, India |
-| **💰 Stipend** | Competitive |
-| **⏱️ Duration** | 3-6 Months |
-| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
-| **🛠️ Skills** | As per JD |
-| **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 1 week ago |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4378665338/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
-
-</div>
-    </td>
+| **🎯 Status** | Applications Closed |
+| **📍 Note** | This listing has expired. |
+</div></td>
   </tr>
 </table>
 
@@ -485,26 +453,7 @@
 
 </div>
     </td>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 FIA Global
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | Business Analytics Internship in Gurgaon |
-| **📍 Location** | Gurgaon, Haryana, India |
-| **💰 Stipend** | Competitive |
-| **⏱️ Duration** | 3-6 Months |
-| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
-| **🛠️ Skills** | As per JD |
-| **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 1 week ago |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4379072978/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
-
-</div>
-    </td>
+    <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
   </tr>
 </table>
 

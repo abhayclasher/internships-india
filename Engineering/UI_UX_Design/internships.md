@@ -11,26 +11,13 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 LogiQlink Technologies
+    <td width="50%" valign="top"><div align="center">
+#### 🏢 Closed
 | Field | Details |
 |:---|:---|
-| **🎯 Role** | UI/UX Design Internship in Indore |
-| **📍 Location** | Indore, Madhya Pradesh, India |
-| **💰 Stipend** | Competitive |
-| **⏱️ Duration** | 3-6 Months |
-| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
-| **🛠️ Skills** | As per JD |
-| **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 1 day ago |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4382312324/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
-
-</div>
-    </td>
+| **🎯 Status** | Applications Closed |
+| **📍 Note** | This listing has expired. |
+</div></td>
     <td width="50%" valign="top">
 <div align="center">
 

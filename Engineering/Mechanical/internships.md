@@ -127,26 +127,7 @@
 
 </div>
     </td>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 ERIC Robotics
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | CAE Intern |
-| **📍 Location** | Pune Division, Maharashtra, India |
-| **💰 Stipend** | Competitive |
-| **⏱️ Duration** | 3-6 Months |
-| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
-| **🛠️ Skills** | As per JD |
-| **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 2 weeks ago |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4377276220/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
-
-</div>
-    </td>
+    <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
   </tr>
 </table>
 
@@ -217,6 +198,57 @@
 
 </div>
     </td>
+    <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
+    <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
+    <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
+    <td width="50%" valign="top"><div align="center"><i>Link Expired</i></div></td>
+  </tr>
+</table>
+
+
+
+### 🆕 Latest Listings
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### 🏢 ERIC Robotics
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | CAE Intern |
+| **📍 Location** | Pune Division, Maharashtra, India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 2 weeks ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4377276220/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
+    </td>
     <td width="50%" valign="top">
 <div align="center">
 
@@ -265,6 +297,31 @@
     <td width="50%" valign="top">
 <div align="center">
 
+#### 🏢 A-SQUARE MEP CONSULTANTS
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | MEP design intern |
+| **📍 Location** | Devanahalli, Karnataka, India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 1 week ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4322027479/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+<div align="center">
+
 #### 🏢 PlebC Innovations Private Limited
 | Field | Details |
 |:---|:---|
@@ -282,11 +339,6 @@
 
 </div>
     </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
     <td width="50%" valign="top">
 <div align="center">
 
@@ -307,6 +359,11 @@
 
 </div>
     </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
     <td width="50%" valign="top">
 <div align="center">
 
@@ -327,11 +384,6 @@
 
 </div>
     </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
     <td width="50%" valign="top">
 <div align="center">
 
@@ -352,6 +404,11 @@
 
 </div>
     </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
     <td width="50%" valign="top">
 <div align="center">
 
@@ -369,6 +426,26 @@
 | **🏷️ Type** | 🏢 On-site |
 
 [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4345412987/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
+    </td>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### 🏢 WSP in India
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | Intern, Electrical Engineering |
+| **📍 Location** | Bengaluru, Karnataka, India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 3 days ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4379379985/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
 
 </div>
     </td>
