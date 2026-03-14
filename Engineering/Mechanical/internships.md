@@ -10,26 +10,6 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 SUN360
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | Design Engineer - Intern |
-| **📍 Location** | Marmagao, Goa, India |
-| **💰 Stipend** | Competitive |
-| **⏱️ Duration** | 3-6 Months |
-| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
-| **🛠️ Skills** | As per JD |
-| **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 4 days ago |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4379654442/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
-
-</div>
-    </td>
-    <td width="50%" valign="top">
 <div align="center"></div>
     </td>
   </tr>
@@ -62,11 +42,6 @@
 
 </div>
     </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
     <td width="50%" valign="top">
 <div align="center">
 
@@ -87,6 +62,11 @@
 
 </div>
     </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
     <td width="50%" valign="top">
 <div align="center">
 
@@ -107,11 +87,6 @@
 
 </div>
     </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
     <td width="50%" valign="top">
 <div align="center">
 
@@ -132,6 +107,11 @@
 
 </div>
     </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
     <td width="50%" valign="top">
 <div align="center">
 
@@ -152,11 +132,6 @@
 
 </div>
     </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
     <td width="50%" valign="top">
 <div align="center">
 
@@ -177,6 +152,11 @@
 
 </div>
     </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
     <td width="50%" valign="top">
 <div align="center">
 
@@ -197,11 +177,6 @@
 
 </div>
     </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
     <td width="50%" valign="top">
 <div align="center">
 
@@ -222,33 +197,8 @@
 
 </div>
     </td>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 Material Intelligence Lab
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | CAD Design Internship in Vadodara |
-| **📍 Location** | Vadodara, Gujarat, India |
-| **💰 Stipend** | Competitive |
-| **⏱️ Duration** | 3-6 Months |
-| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
-| **🛠️ Skills** | As per JD |
-| **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 3 weeks ago |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4372177712/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
-
-</div>
-    </td>
   </tr>
 </table>
-
-
-
-
-### 🆕 Latest Listings
 
 <table width="100%">
   <tr>
@@ -275,31 +225,6 @@
     <td width="50%" valign="top">
 <div align="center">
 
-#### 🏢 NESA Innovation Labs
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | Mechatronic System Design Internship in Pune |
-| **📍 Location** | Pune Division, Maharashtra, India |
-| **💰 Stipend** | Competitive |
-| **⏱️ Duration** | 3-6 Months |
-| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
-| **🛠️ Skills** | As per JD |
-| **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 5 days ago |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4381677816/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
-
-</div>
-    </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-<div align="center">
-
 #### 🏢 Unicon Engineers
 | Field | Details |
 |:---|:---|
@@ -317,6 +242,11 @@
 
 </div>
     </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
     <td width="50%" valign="top">
 <div align="center">
 
@@ -337,6 +267,59 @@
 
 </div>
     </td>
+    <td width="50%" valign="top">
+<div align="center"></div>
+    </td>
+  </tr>
+</table>
+
+
+
+
+### 🆕 Latest Listings
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### 🏢 Tactix
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | Mechatronics Internship in Bangalore |
+| **📍 Location** | Bengaluru, Karnataka, India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 2 days ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4384511933/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
+    </td>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### 🏢 Neptune- Simplify Farming
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | Injection Moulding |
+| **📍 Location** | Indore, Madhya Pradesh, India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 1 day ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4384218684/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
+    </td>
   </tr>
 </table>
 
@@ -345,20 +328,110 @@
     <td width="50%" valign="top">
 <div align="center">
 
-#### 🏢 Malik Polychem Private Limited
+#### 🏢 NESA Innovation Labs
 | Field | Details |
 |:---|:---|
-| **🎯 Role** | CAD Design Internship in Delhi |
-| **📍 Location** | Delhi, India |
+| **🎯 Role** | Mechatronic System Design Internship in Pune |
+| **📍 Location** | Pune Division, Maharashtra, India |
 | **💰 Stipend** | Competitive |
 | **⏱️ Duration** | 3-6 Months |
 | **🎓 Qual.** | B.Tech / B.Sc / Diploma |
 | **🛠️ Skills** | As per JD |
 | **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 3 weeks ago |
+| **📅 Posted** | 1 week ago |
 | **🏷️ Type** | 🏢 On-site |
 
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4373883297/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4381677816/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
+    </td>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### 🏢 A-SQUARE MEP CONSULTANTS
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | Mep design intern |
+| **📍 Location** | Devanahalli, Karnataka, India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 20 hours ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4384229997/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### 🏢 ECOAMIGOS PRIVATE LIMITED
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | Product Development Engineer Internship in Hyderabad |
+| **📍 Location** | Hyderabad, Telangana, India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 6 hours ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4385578416/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
+    </td>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### 🏢 SUN360
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | Design Engineer - Intern |
+| **📍 Location** | Marmagao, Goa, India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 1 week ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4379654442/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### 🏢 roobaroo.ai
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | AI Product Engineer(Intern) |
+| **📍 Location** | Gurugram, Haryana, India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 11 hours ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4383241348/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
 
 </div>
     </td>

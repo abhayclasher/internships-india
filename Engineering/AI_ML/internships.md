@@ -190,26 +190,6 @@
     <td width="50%" valign="top">
 <div align="center">
 
-#### 🏢 Dialabank.com
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | AI Software Engineer Internship in Chandigarh, Sahibzada Ajit Singh, Haryana, Uttarakhand, Punjab, Chandigarh, Mohali, Mohali, Sahibzada Ajit Singh Nagar |
-| **📍 Location** | Chandigarh, Chandigarh, India |
-| **💰 Stipend** | Competitive |
-| **⏱️ Duration** | 3-6 Months |
-| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
-| **🛠️ Skills** | As per JD |
-| **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 1 day ago |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4382300845/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
-
-</div>
-    </td>
-    <td width="50%" valign="top">
-<div align="center">
-
 #### 🏢 Bros Innovations &amp; Technology
 | Field | Details |
 |:---|:---|
@@ -227,11 +207,6 @@
 
 </div>
     </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
     <td width="50%" valign="top">
 <div align="center">
 
@@ -252,6 +227,11 @@
 
 </div>
     </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
     <td width="50%" valign="top">
 <div align="center"></div>
     </td>
@@ -285,11 +265,6 @@
 
 </div>
     </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
     <td width="50%" valign="top">
 <div align="center">
 
@@ -307,26 +282,6 @@
 | **🏷️ Type** | 🏢 On-site |
 
 [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4383851999/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
-
-</div>
-    </td>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 ArGo Intern
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | Data Science Intern (Python, SQL, Pandas) |
-| **📍 Location** | India |
-| **💰 Stipend** | Competitive |
-| **⏱️ Duration** | 3-6 Months |
-| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
-| **🛠️ Skills** | As per JD |
-| **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 1 day ago |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4381863832/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
 
 </div>
     </td>
@@ -356,7 +311,69 @@
 </div>
     </td>
     <td width="50%" valign="top">
-<div align="center"></div>
+<div align="center">
+
+#### 🏢 Peakflo (YC W22)
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | Machine Learning (ML) Engineer Intern - (Paid - India/Remote) |
+| **📍 Location** | India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 4 weeks ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4371133861/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### 🏢 iLEAD Kolkata
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | Artificial Intelligence (AI) Internship in Kolkata |
+| **📍 Location** | Greater Kolkata Area |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 1 day ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4383427358/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
+    </td>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### 🏢 Wake Up Whistle
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | Data Science Intern (Python, SQL, Pandas) |
+| **📍 Location** | India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 1 day ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4381853926/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
     </td>
   </tr>
 </table>
@@ -365,6 +382,51 @@
 
 
 ### 🆕 Latest Listings
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### 🏢 Newron
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | Artificial Intelligence (AI) Internship in Bangalore |
+| **📍 Location** | Bengaluru, Karnataka, India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 6 hours ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4385576484/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
+    </td>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### 🏢 Irizpro AI Solutions
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | Artificial Intelligence (AI) Internship in Pune |
+| **📍 Location** | Pune Division, Maharashtra, India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 1 day ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4385141749/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
+    </td>
+  </tr>
+</table>
 
 <table width="100%">
   <tr>
@@ -391,20 +453,20 @@
     <td width="50%" valign="top">
 <div align="center">
 
-#### 🏢 Bizlem Private Limited
+#### 🏢 Innovexis
 | Field | Details |
 |:---|:---|
-| **🎯 Role** | AI/ML Engineering Internship in Navi Mumbai |
-| **📍 Location** | Navi Mumbai, Maharashtra, India |
+| **🎯 Role** | Machine Learning Intern |
+| **📍 Location** | Bengaluru, Karnataka, India |
 | **💰 Stipend** | Competitive |
 | **⏱️ Duration** | 3-6 Months |
 | **🎓 Qual.** | B.Tech / B.Sc / Diploma |
 | **🛠️ Skills** | As per JD |
 | **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 14 hours ago |
+| **📅 Posted** | 17 hours ago |
 | **🏷️ Type** | 🏢 On-site |
 
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4383855825/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4383111678/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
 
 </div>
     </td>
@@ -416,31 +478,31 @@
     <td width="50%" valign="top">
 <div align="center">
 
-#### 🏢 Peakflo (YC W22)
+#### 🏢 Bizlem Private Limited
 | Field | Details |
 |:---|:---|
-| **🎯 Role** | Machine Learning (ML) Engineer Intern - (Paid - India/Remote) |
-| **📍 Location** | India |
+| **🎯 Role** | AI/ML Engineering Internship in Navi Mumbai |
+| **📍 Location** | Navi Mumbai, Maharashtra, India |
 | **💰 Stipend** | Competitive |
 | **⏱️ Duration** | 3-6 Months |
 | **🎓 Qual.** | B.Tech / B.Sc / Diploma |
 | **🛠️ Skills** | As per JD |
 | **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 4 weeks ago |
+| **📅 Posted** | 3 days ago |
 | **🏷️ Type** | 🏢 On-site |
 
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4371133861/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4383855825/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
 
 </div>
     </td>
     <td width="50%" valign="top">
 <div align="center">
 
-#### 🏢 iLEAD Kolkata
+#### 🏢 Phoneme Solutions Pvt Ltd
 | Field | Details |
 |:---|:---|
-| **🎯 Role** | Artificial Intelligence (AI) Internship in Kolkata |
-| **📍 Location** | Greater Kolkata Area |
+| **🎯 Role** | AI Agent Development Internship in Pune, Noida |
+| **📍 Location** | Pune Division, Maharashtra, India |
 | **💰 Stipend** | Competitive |
 | **⏱️ Duration** | 3-6 Months |
 | **🎓 Qual.** | B.Tech / B.Sc / Diploma |
@@ -449,7 +511,7 @@
 | **📅 Posted** | 1 day ago |
 | **🏷️ Type** | 🏢 On-site |
 
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4383427358/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4385137892/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
 
 </div>
     </td>
@@ -471,10 +533,55 @@
 | **🎓 Qual.** | B.Tech / B.Sc / Diploma |
 | **🛠️ Skills** | As per JD |
 | **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 1 day ago |
+| **📅 Posted** | 18 hours ago |
 | **🏷️ Type** | 🏢 On-site |
 
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4381853926/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4384245821/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
+    </td>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### 🏢 Deepwatch
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | Intern - Software Engineer |
+| **📍 Location** | Bengaluru, Karnataka, India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 1 week ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4380186925/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### 🏢 SkillFied Mentor
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | Data Science Intern (Python, SQL, Pandas) |
+| **📍 Location** | India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 3 days ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4382485143/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
 
 </div>
     </td>

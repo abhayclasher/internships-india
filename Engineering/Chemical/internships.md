@@ -59,28 +59,136 @@
 | Field | Details |
 |:---|:---|
 | **🎯 Role** | Human Resources Intern |
-| **📍 Location** | India |
+| **📍 Location** | Ghaziabad, Uttar Pradesh, India |
 | **💰 Stipend** | Competitive |
 | **⏱️ Duration** | 3-6 Months |
 | **🎓 Qual.** | B.Tech / B.Sc / Diploma |
 | **🛠️ Skills** | As per JD |
 | **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 1 day ago |
+| **📅 Posted** | 2 days ago |
 | **🏷️ Type** | 🏢 On-site |
 
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4381021722/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4380662874/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
 
 </div>
     </td>
     <td width="50%" valign="top">
-<div align="center"></div>
+<div align="center">
+
+#### 🏢 NextNation
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | Business Development Intern |
+| **📍 Location** | Bengaluru, Karnataka, India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 3 weeks ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4372055402/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### 🏢 StampMyVisa
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | Groth &amp; Sales Intern |
+| **📍 Location** | Bengaluru, Karnataka, India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 5 days ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4376258232/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
+    </td>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### 🏢 NikahForever
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | Marketing Intern |
+| **📍 Location** | Delhi, India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 6 hours ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4382854198/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
     </td>
   </tr>
 </table>
 
 
 
+
 ### 🆕 Latest Listings
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### 🏢 Arihant Publications India Limited
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | Subject Matter Expert (SME) – Science: Physics, Chemistry, And Biology Internship in Noida, Delhi, Ghaziabad |
+| **📍 Location** | Delhi, India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 4 days ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4383421742/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
+    </td>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### 🏢 Arihant Publications India Limited
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | Subject Matter Expert (SME) – Science: Physics, Chemistry, And Biology Internship in Noida, Delhi, Ghaziabad |
+| **📍 Location** | Ghaziabad, Uttar Pradesh, India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 4 days ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4383430247/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
+    </td>
+  </tr>
+</table>
 
 <table width="100%">
   <tr>
@@ -97,35 +205,10 @@
 | **🎓 Qual.** | B.Tech / B.Sc / Diploma |
 | **🛠️ Skills** | As per JD |
 | **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 3 weeks ago |
+| **📅 Posted** | 4 weeks ago |
 | **🏷️ Type** | 🏢 On-site |
 
 [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4372177712/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
-
-</div>
-    </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 Corning Incorporated
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | R&amp;D Intern- OpenFOAM ( Location:Baner, Pune) |
-| **📍 Location** | Khed, Maharashtra, India |
-| **💰 Stipend** | Competitive |
-| **⏱️ Duration** | 3-6 Months |
-| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
-| **🛠️ Skills** | As per JD |
-| **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 3 weeks ago |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4361768243/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
 
 </div>
     </td>
@@ -142,7 +225,7 @@
 | **🎓 Qual.** | B.Tech / B.Sc / Diploma |
 | **🛠️ Skills** | As per JD |
 | **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 1 week ago |
+| **📅 Posted** | 2 weeks ago |
 | **🏷️ Type** | 🏢 On-site |
 
 [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4376075384/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
@@ -167,116 +250,13 @@
 | **🎓 Qual.** | B.Tech / B.Sc / Diploma |
 | **🛠️ Skills** | As per JD |
 | **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 1 week ago |
+| **📅 Posted** | 2 weeks ago |
 | **🏷️ Type** | 🏢 On-site |
 
 [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4354833569/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
 
 </div>
     </td>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 CollegePur
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | Human Resources Intern |
-| **📍 Location** | Ghaziabad, Uttar Pradesh, India |
-| **💰 Stipend** | Competitive |
-| **⏱️ Duration** | 3-6 Months |
-| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
-| **🛠️ Skills** | As per JD |
-| **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 2 days ago |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4380662874/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
-
-</div>
-    </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 Indomax Multitrades
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | Process Coordinator Internship in Pune |
-| **📍 Location** | Pune Division, Maharashtra, India |
-| **💰 Stipend** | Competitive |
-| **⏱️ Duration** | 3-6 Months |
-| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
-| **🛠️ Skills** | As per JD |
-| **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 2 weeks ago |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4375068342/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
-
-</div>
-    </td>
-    <td width="50%" valign="top">
-<div align="center"></div>
-    </td>
-  </tr>
-</table>
-
-
-
-
-### 🆕 Latest Listings
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 Arihant Publications India Limited
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | Subject Matter Expert (SME) – Science: Physics, Chemistry, And Biology Internship in Delhi, Ghaziabad, Noida |
-| **📍 Location** | Ghaziabad, Uttar Pradesh, India |
-| **💰 Stipend** | Competitive |
-| **⏱️ Duration** | 3-6 Months |
-| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
-| **🛠️ Skills** | As per JD |
-| **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 1 day ago |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4383430247/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
-
-</div>
-    </td>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 Arihant Publications India Limited
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | Subject Matter Expert (SME) – Science: Physics, Chemistry, And Biology Internship in Delhi, Ghaziabad, Noida |
-| **📍 Location** | Delhi, India |
-| **💰 Stipend** | Competitive |
-| **⏱️ Duration** | 3-6 Months |
-| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
-| **🛠️ Skills** | As per JD |
-| **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 1 day ago |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4383421742/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
-
-</div>
-    </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
     <td width="50%" valign="top">
 <div align="center">
 
@@ -297,96 +277,11 @@
 
 </div>
     </td>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 East-West Seed
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | Regulatory Affairs Intern |
-| **📍 Location** | Bengaluru, Karnataka, India |
-| **💰 Stipend** | Competitive |
-| **⏱️ Duration** | 3-6 Months |
-| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
-| **🛠️ Skills** | As per JD |
-| **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 1 week ago |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4378813171/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
-
-</div>
-    </td>
   </tr>
 </table>
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 NextNation
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | Business Development Intern |
-| **📍 Location** | Bengaluru, Karnataka, India |
-| **💰 Stipend** | Competitive |
-| **⏱️ Duration** | 3-6 Months |
-| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
-| **🛠️ Skills** | As per JD |
-| **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 2 days ago |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4381821961/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
-
-</div>
-    </td>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 ARIS
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | Software Engineer Intern |
-| **📍 Location** | India |
-| **💰 Stipend** | Competitive |
-| **⏱️ Duration** | 3-6 Months |
-| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
-| **🛠️ Skills** | As per JD |
-| **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 3 hours ago |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4384159493/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
-
-</div>
-    </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 NextNation
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | Business Development Intern |
-| **📍 Location** | Bengaluru, Karnataka, India |
-| **💰 Stipend** | Competitive |
-| **⏱️ Duration** | 3-6 Months |
-| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
-| **🛠️ Skills** | As per JD |
-| **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 3 weeks ago |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4372055402/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
-
-</div>
-    </td>
     <td width="50%" valign="top">
 <div align="center">
 
@@ -400,10 +295,30 @@
 | **🎓 Qual.** | B.Tech / B.Sc / Diploma |
 | **🛠️ Skills** | As per JD |
 | **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 1 day ago |
+| **📅 Posted** | 3 days ago |
 | **🏷️ Type** | 🏢 On-site |
 
 [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4383499726/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
+    </td>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### 🏢 NextNation
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | Business Development Intern |
+| **📍 Location** | Bengaluru, Karnataka, India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 4 days ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4381821961/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
 
 </div>
     </td>
@@ -425,30 +340,30 @@
 | **🎓 Qual.** | B.Tech / B.Sc / Diploma |
 | **🛠️ Skills** | As per JD |
 | **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 9 hours ago |
+| **📅 Posted** | 1 day ago |
 | **🏷️ Type** | 🏢 On-site |
 
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4384122070/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4384225400/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
 
 </div>
     </td>
     <td width="50%" valign="top">
 <div align="center">
 
-#### 🏢 StampMyVisa
+#### 🏢 PadosiAgent ServTech Pvt Ltd
 | Field | Details |
 |:---|:---|
-| **🎯 Role** | Groth &amp; Sales Intern |
-| **📍 Location** | Bengaluru, Karnataka, India |
+| **🎯 Role** | Sales Internship in Ahmedabad |
+| **📍 Location** | Ahmedabad, Gujarat, India |
 | **💰 Stipend** | Competitive |
 | **⏱️ Duration** | 3-6 Months |
 | **🎓 Qual.** | B.Tech / B.Sc / Diploma |
 | **🛠️ Skills** | As per JD |
 | **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 5 days ago |
+| **📅 Posted** | 4 days ago |
 | **🏷️ Type** | 🏢 On-site |
 
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4376258232/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4383435005/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
 
 </div>
     </td>
@@ -460,20 +375,20 @@
     <td width="50%" valign="top">
 <div align="center">
 
-#### 🏢 NikahForever
+#### 🏢 RupeeDot
 | Field | Details |
 |:---|:---|
-| **🎯 Role** | Marketing Intern |
-| **📍 Location** | Delhi, India |
+| **🎯 Role** | Social Media Intern |
+| **📍 Location** | Pune Division, Maharashtra, India |
 | **💰 Stipend** | Competitive |
 | **⏱️ Duration** | 3-6 Months |
 | **🎓 Qual.** | B.Tech / B.Sc / Diploma |
 | **🛠️ Skills** | As per JD |
 | **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 6 hours ago |
+| **📅 Posted** | 21 minutes ago |
 | **🏷️ Type** | 🏢 On-site |
 
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4382854198/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4383630048/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
 
 </div>
     </td>
