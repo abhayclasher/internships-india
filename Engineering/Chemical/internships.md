@@ -55,26 +55,6 @@
     <td width="50%" valign="top">
 <div align="center">
 
-#### 🏢 CollegePur
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | Human Resources Intern |
-| **📍 Location** | Ghaziabad, Uttar Pradesh, India |
-| **💰 Stipend** | Competitive |
-| **⏱️ Duration** | 3-6 Months |
-| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
-| **🛠️ Skills** | As per JD |
-| **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 2 days ago |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4380662874/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
-
-</div>
-    </td>
-    <td width="50%" valign="top">
-<div align="center">
-
 #### 🏢 NextNation
 | Field | Details |
 |:---|:---|
@@ -92,6 +72,26 @@
 
 </div>
     </td>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### 🏢 Arihant Publications India Limited
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | Subject Matter Expert (SME) – Science: Physics, Chemistry, And Biology Internship in Noida, Delhi, Ghaziabad |
+| **📍 Location** | Ghaziabad, Uttar Pradesh, India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 4 days ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4383430247/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
+    </td>
   </tr>
 </table>
 
@@ -100,40 +100,40 @@
     <td width="50%" valign="top">
 <div align="center">
 
-#### 🏢 StampMyVisa
+#### 🏢 Accrue Progressiv LLP
 | Field | Details |
 |:---|:---|
-| **🎯 Role** | Groth &amp; Sales Intern |
-| **📍 Location** | Bengaluru, Karnataka, India |
+| **🎯 Role** | Composites technician intern |
+| **📍 Location** | Hyderabad, Telangana, India |
 | **💰 Stipend** | Competitive |
 | **⏱️ Duration** | 3-6 Months |
 | **🎓 Qual.** | B.Tech / B.Sc / Diploma |
 | **🛠️ Skills** | As per JD |
 | **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 5 days ago |
+| **📅 Posted** | 2 weeks ago |
 | **🏷️ Type** | 🏢 On-site |
 
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4376258232/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4376075384/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
 
 </div>
     </td>
     <td width="50%" valign="top">
 <div align="center">
 
-#### 🏢 NikahForever
+#### 🏢 PadosiAgent ServTech Pvt Ltd
 | Field | Details |
 |:---|:---|
-| **🎯 Role** | Marketing Intern |
-| **📍 Location** | Delhi, India |
+| **🎯 Role** | Sales Internship in Ahmedabad |
+| **📍 Location** | Ahmedabad, Gujarat, India |
 | **💰 Stipend** | Competitive |
 | **⏱️ Duration** | 3-6 Months |
 | **🎓 Qual.** | B.Tech / B.Sc / Diploma |
 | **🛠️ Skills** | As per JD |
 | **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 6 hours ago |
+| **📅 Posted** | 4 days ago |
 | **🏷️ Type** | 🏢 On-site |
 
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4382854198/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4383435005/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
 
 </div>
     </td>
@@ -170,31 +170,6 @@
     <td width="50%" valign="top">
 <div align="center">
 
-#### 🏢 Arihant Publications India Limited
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | Subject Matter Expert (SME) – Science: Physics, Chemistry, And Biology Internship in Noida, Delhi, Ghaziabad |
-| **📍 Location** | Ghaziabad, Uttar Pradesh, India |
-| **💰 Stipend** | Competitive |
-| **⏱️ Duration** | 3-6 Months |
-| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
-| **🛠️ Skills** | As per JD |
-| **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 4 days ago |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4383430247/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
-
-</div>
-    </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-<div align="center">
-
 #### 🏢 Material Intelligence Lab
 | Field | Details |
 |:---|:---|
@@ -209,26 +184,6 @@
 | **🏷️ Type** | 🏢 On-site |
 
 [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4372177712/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
-
-</div>
-    </td>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 Accrue Progressiv LLP
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | Composites technician intern |
-| **📍 Location** | Hyderabad, Telangana, India |
-| **💰 Stipend** | Competitive |
-| **⏱️ Duration** | 3-6 Months |
-| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
-| **🛠️ Skills** | As per JD |
-| **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 2 weeks ago |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4376075384/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
 
 </div>
     </td>
@@ -330,6 +285,26 @@
     <td width="50%" valign="top">
 <div align="center">
 
+#### 🏢 StampMyVisa
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | Growth &amp; Sales Intern |
+| **📍 Location** | Bengaluru, Karnataka, India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 1 week ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4376258232/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
+    </td>
+    <td width="50%" valign="top">
+<div align="center">
+
 #### 🏢 Zetheta Algorithms Private Limited
 | Field | Details |
 |:---|:---|
@@ -347,31 +322,31 @@
 
 </div>
     </td>
-    <td width="50%" valign="top">
-<div align="center">
-
-#### 🏢 PadosiAgent ServTech Pvt Ltd
-| Field | Details |
-|:---|:---|
-| **🎯 Role** | Sales Internship in Ahmedabad |
-| **📍 Location** | Ahmedabad, Gujarat, India |
-| **💰 Stipend** | Competitive |
-| **⏱️ Duration** | 3-6 Months |
-| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
-| **🛠️ Skills** | As per JD |
-| **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 4 days ago |
-| **🏷️ Type** | 🏢 On-site |
-
-[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4383435005/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
-
-</div>
-    </td>
   </tr>
 </table>
 
 <table width="100%">
   <tr>
+    <td width="50%" valign="top">
+<div align="center">
+
+#### 🏢 NikahForever
+| Field | Details |
+|:---|:---|
+| **🎯 Role** | Marketing Intern |
+| **📍 Location** | Delhi, India |
+| **💰 Stipend** | Competitive |
+| **⏱️ Duration** | 3-6 Months |
+| **🎓 Qual.** | B.Tech / B.Sc / Diploma |
+| **🛠️ Skills** | As per JD |
+| **📧 HR Email** | careers@company.com |
+| **📅 Posted** | 2 days ago |
+| **🏷️ Type** | 🏢 On-site |
+
+[![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4382854198/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
+
+</div>
+    </td>
     <td width="50%" valign="top">
 <div align="center">
 
@@ -385,15 +360,12 @@
 | **🎓 Qual.** | B.Tech / B.Sc / Diploma |
 | **🛠️ Skills** | As per JD |
 | **📧 HR Email** | careers@company.com |
-| **📅 Posted** | 21 minutes ago |
+| **📅 Posted** | 29 minutes ago |
 | **🏷️ Type** | 🏢 On-site |
 
 [![Apply Now](https://img.shields.io/badge/Apply_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jobs/view/4383630048/) [![Email HR](https://img.shields.io/badge/Email_HR-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:careers@company.com)
 
 </div>
-    </td>
-    <td width="50%" valign="top">
-<div align="center"></div>
     </td>
   </tr>
 </table>
